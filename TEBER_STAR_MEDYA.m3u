@@ -26,17 +26,11 @@ http://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Lk6CFm8AySI9Vc7YVVmyxYXMcTCYSxzBN8hDl0mFWW0BvcW-iBGs-f-3b45oGn52WIzkYdgAxFk-og57Dp-8GTt5H8kA5GmMIwkAqq4OM0QPvFZz838ZYDPc60zeWUorxLNZlc1gkolVPx2XtMHFH04KV6IGTYmQF6q6vAqNhjtdXjydyTS8BxXvOQ/w193-h46/,TELEON TV HD
 https://streaming.netdirekt.com.tr/35757/msyapi/teleontv_digitalon_uzanmediagroup_1080p_/chunks.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic4az02xwqldi2qay0WThAv-Cj9sggkfp4ssziljQhz6F2JCgIx5wYtHXU0Uv3vMg4szOvVtbA0ORUeHBhd1moYWnJqk8M54hbwCgzyfiWujH3zJFyNosCP0bMWpFqOiz397vo9J9DL6pIbFzdn4kcjSxcdEpX-Mm7u-CLqpkoaVfHFjnR_PoH4F1PAQ/s1600/teleon2.png", SATON TV HD
-http://134.122.103.223/satontvhd/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic4az02xwqldi2qay0WThAv-Cj9sggkfp4ssziljQhz6F2JCgIx5wYtHXU0Uv3vMg4szOvVtbA0ORUeHBhd1moYWnJqk8M54hbwCgzyfiWujH3zJFyNosCP0bMWpFqOiz397vo9J9DL6pIbFzdn4kcjSxcdEpX-Mm7u-CLqpkoaVfHFjnR_PoH4F1PAQ/s1600/teleon2.png",TEBER YILDIZ TV7
+https://live-server-2.splitstream.io/533fbcc5-019f-4e49-96b8-25bbbd412af2/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://1.bp.blogspot.com/-bAaSpLS9MRM/XodxofyKc8I/AAAAAAAALS8/E6bDIjYBvw4FLUD1thhldYCrjFS24VDFwCK4BGAsYHg/kanal%2B19.png", KANAL 19
 https://helga.iptv2022.com/Kanal19tv/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://1.bp.blogspot.com/-bAaSpLS9MRM/XodxofyKc8I/AAAAAAAALS8/E6bDIjYBvw4FLUD1thhldYCrjFS24VDFwCK4BGAsYHg/kanal%2B19.png", Rize Türk TV
-https://yayin.rizeturk.com:3777/multi_web/play.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://1.bp.blogspot.com/-bAaSpLS9MRM/XodxofyKc8I/AAAAAAAALS8/E6bDIjYBvw4FLUD1thhldYCrjFS24VDFwCK4BGAsYHg/kanal%2B19.png", Slow Karadeniz TV
-https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_ULUSAL_KANALLAR" logo="https://www.tv4.com.tr/assets/img/tv4fav.png",DENİZ Tv
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://player.twitch.tv/?channel=denizradyotv&parent=www.radyodeniz.com.m3u8
@@ -1756,8 +1750,7 @@ http://cdn-radyokulup.yayin.com.tr/radyokulup/radyokulup/chunklist.m3u8
 https://vdo.digitalbox.xyz:3401/hybrid/play.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="12_OZEL_iPTV_KANALLAR_2" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0Jep_9dcHpSnEHS5X3s66HNbmc8BWnA06C0vilNpCYZjpWylNeXJVfeoGiIFG7QAbNeiyo9N35fcgd0G-2gqItkPZy9kyDwyqLkDYyk1mc-8Bc5Q_R56yJ6rUnI3PqI0cmIWTNSaxlFJlrBfr5fRMjrIJhVq6JQZ4V35-ezWbcD9ZFu955p5qxYOFwQ/s1600/-%20rt1logo150x.png" size="Small", RT1 DiGiTAL HD
 https://stream.guventechnology.com:19360/rt1turktv/rt1turktv.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="12_OZEL_iPTV_KANALLAR_2" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgGaFgdYpykWk0Nbkk28NC41yRzrmWFFi0SGjYHcbaPdQkKNWFJkxsNitQY-RkK-LiscMF5R-QAwBIYco8O-HqDQRIx7DO2AnEpory15pgVmxKp1hroq6glva0wLtnlLWhtADukbN3vBW20SPf1WETni8VJmCKj3hb5A62_iMtY8OGGkrptFSveUzUqSA=s130", SLOW KARADENiZ TV
-https://yayin.slowkaradeniztv.com:3390/multi_web/play_1080.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="12_OZEL_iPTV_KANALLAR_2" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgGaFgdYpykWk0Nbkk28NC41yRzrmWFFi0SGjYHcbaPdQkKNWFJkxsNitQY-RkK-LiscMF5R-QAwBIYco8O-HqDQRIx7DO2AnEpory15pgVmxKp1hroq6glva0wLtnlLWhtADukbN3vBW20SPf1WETni8VJmCKj3hb5A62_iMtY8OGGkrptFSveUzUqSA=s130", YESiL KARADENİZ TV HD
 https://tv167200.ozelip.com:1936/ykaradeniztv/ykaradeniztv/chunklist_w173440858.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="12_OZEL_iPTV_KANALLAR_2" logo="https://blogger.googleusercontent.com/img/a/AVvXsEjnRe8DDx8GhxjslRbpS8zczOujVO9r5fH06pZHGKjU96CNS5XiKfZUs_XD5dGMb8BkZiXmfoWKeyBjoNeGowlfpHLV80pz411xjrMrOBLuNqmBddQFSErt-qggvp7w4192OkJXWTKoZI0h7hTSI2PK6wzLn6q9EJsOGesgfNFPMAlfgDObM9j4MsXMdQ=w179-h71", ALMANYA TV
