@@ -30,9 +30,6 @@ https://streaming.netdirekt.com.tr/35757/msyapi/teleontv_digitalon_uzanmediagrou
 http://live-server-2.splitstream.io/f97854bd-6c00-40d3-b9a2-e85f95a4f94f/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_ULUSAL_KANALLAR" logo="https://www.tv4.com.tr/assets/img/tv4fav.png",DENİZ Tv
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://player.twitch.tv/?channel=denizradyotv&parent=www.radyodeniz.com.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic4az02xwqldi2qay0WThAv-Cj9sggkfp4ssziljQhz6F2JCgIx5wYtHXU0Uv3vMg4szOvVtbA0ORUeHBhd1moYWnJqk8M54hbwCgzyfiWujH3zJFyNosCP0bMWpFqOiz397vo9J9DL6pIbFzdn4kcjSxcdEpX-Mm7u-CLqpkoaVfHFjnR_PoH4F1PAQ/s1600/teleon2.png",TEBER YILDIZ TV
-https://live-server-2.splitstream.io/533fbcc5-019f-4e49-96b8-25bbbd412af2/tracks-v1a1/mono.m3u8
-
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://1.bp.blogspot.com/-bAaSpLS9MRM/XodxofyKc8I/AAAAAAAALS8/E6bDIjYBvw4FLUD1thhldYCrjFS24VDFwCK4BGAsYHg/kanal%2B19.png", KANAL 19
 https://helga.iptv2022.com/Kanal19tv/tracks-v1a1/mono.m3u8
 
@@ -44,8 +41,6 @@ https://bit.ly/3e6ppYK
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgGaFgdYpykWk0Nbkk28NC41yRzrmWFFi0SGjYHcbaPdQkKNWFJkxsNitQY-RkK-LiscMF5R-QAwBIYco8O-HqDQRIx7DO2AnEpory15pgVmxKp1hroq6glva0wLtnlLWhtADukbN3vBW20SPf1WETni8VJmCKj3hb5A62_iMtY8OGGkrptFSveUzUqSA=s130",Ç.DUYMASIN TV
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=gJN264iy0gI
 
-
-
 #EXTINF:0 type="stream" channelId="3996" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-b1BHMpUZAQg/YI3eM-4AbOI/AAAAAAAATQk/-sFIDuHn6JIy2SC-_pD8HytiquHERf9YACLcBGAsYHQ/s0/ATV%2B-%2BKopya.png", ATV [4K]
 https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?st=wa6zfKIMwkKW4sUisVm8kw&e=1668559831&sid=4wdol8pzpf66&app=d5eb593f-39d9-4b01-9cfd-4748e8332cf0&ce=3
 #EXTINF:0 type="stream" channelId="3992" group-title="1_ULUSAL_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=3992", A2 FHD
@@ -54,12 +49,9 @@ https://trkvz-live.ercdn.net/a2tv/a2tv_720p.m3u8?st=f-BFjzzZeqN8ELTJ7NUNtw&e=166
 #EXTINF:0 type="stream" channelId="208" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-aNHq9fXOobA/YI3eOUhdOEI/AAAAAAAATQ8/tudnxeQ3XuMwFqGfRXlu6ZUiWj-o3mUGQCLcBGAsYHQ/s0/FOX%2B-%2BKopya.png", FOX TV  HD
 https://foxtv-live-ad.ercdn.net/foxtv/playlist.m3u8?st=DPiwAjPL6Xop9gcH8cOyQQ&e=1668545353
 
-#EXTINF:0 type="stream" channelId="3999" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-U77k-Bd37xE/YI3ePYaRVxI/AAAAAAAATRQ/Ks0e3x6RJK8JO73JumGQlDmStIi9j7-oQCLcBGAsYHQ/s0/STAR%2B-%2BKopya.png", STAR TV SD
-https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
 #EXTINF:0 type="stream" channelId="3999" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-U77k-Bd37xE/YI3ePYaRVxI/AAAAAAAATRQ/Ks0e3x6RJK8JO73JumGQlDmStIi9j7-oQCLcBGAsYHQ/s0/STAR%2B-%2BKopya.png", STAR TV HD
-https://startvdvr.blutv.com/blutv_startv_dvr2/live_720p2000000kbps/index.m3u8
+https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
 
-#EXTINF:0 type="stream" channelId="1045" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-IFJJtdqvx9M/https://stream.yol.tv:9443/medialive/yol.m3u8/blutv_showtv_dvr2/live.m3u8
 #EXTINF:0 type="stream" channelId="3119" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-IFJJtdqvx9M/YI3eO_khbTI/AAAAAAAATRI/f0PKzmJl_YURx2cHfdzWcl7YdrphjKNkwCLcBGAsYHQ/s0/SHOW%2B-%2BKopya.png", SHOW TV HD
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 
@@ -85,9 +77,6 @@ http://u1hlnkbw.russtv.net/iptv/EXZGX33VGKL8A9/6905/index.m3u8
 #EXTINF:0 type="stream" channelId="1941" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-y-JCN-jP-2o/YI3eOgNoDPI/AAAAAAAATRA/1WdyRekkY9Y1uhMB5Gr7fQOD9JuFhtpHgCLcBGAsYHQ/s0/KANAL7%2B-%2BKopya.png", KANAL 7 Hz.Yusuf
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://youtu.be/6Wh2WqoppUg.m3u8
 
-
-http://stream.yol.tv:9485/medialive/yol.m3u8
-
 #EXTINF:0 type="stream" channelId="1076" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-GWmwAkiTtZg/YI3gWQsQSpI/AAAAAAAATR8/jM4xk3oIcDwNX6LWypePM-ZsC89xN3cdwCLcBGAsYHQ/s0/TV8.png", TV8 HD
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 
@@ -109,7 +98,7 @@ https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube
 https://halktv-live.ercdn.net/halktv/halktv.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blogger.googleusercontent.com/img/a/AVvXsEjwLa5UB-CXOFAh3l2cQTfhZ1OoL-em4nRCdb1xkqN34enfAvBGmb-QUu2T8S8B2Wa2AR09KgKXnHhkaeuSeGD_CW03ARDdcaLrZfRbsxJIdRPnXMURm19pt2_gjApTMfXJ4YwUbJxM99QYEATeIsymoX_Jb_T1niIOl8JwMvLmmzgw6ErLryW7lb2AGw", FLASH HABER TV HD
-https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=AKIJsoAOrxU
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://youtu.be/aJ2sy62na50
 
 #EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/61951f4c866ac31a807822e8?w=80&q=75", KRT TV HD
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=3QDiWPZ2D_k
