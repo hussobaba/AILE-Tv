@@ -94,9 +94,13 @@ http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001208/sec-f5-v1-a
 #http://31.172.87.53:2200/TR-N/KANAL_D_HD-tr/tracks-v1a1/mono.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165|User-agent=REDLINECLIENT
 #https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 
-#EXTINF:0 tvg-rec="3",Sky Cinema KANAL D world
+#EXTINF:0 tvg-rec="3",KANAL D world
 #EXTGRP:Германия | Germany
 https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8
+
+#EXTINF:0 tvg-rec="3",ENGELSİZ TV
+http://45.148.146.205:8080/Whq2rYu3w9Y6/u35MCc6TsUea/167159
+
 
 #EXTINF:-1tvg-id="teve2.tr"tvg-name="Teve2.tr"  tvg-logo="https://picon-13398.kxcdn.com/teve2tr.jpg" group-title="ULUSAL",Teve2 ᴴᴰ⁺
 http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001244/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001244&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
@@ -177,6 +181,9 @@ https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
 http://135.125.234.9:8081/tv5/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://1.bp.blogspot.com/-A_LgNRVaWwI/YALg0jc-51I/AAAAAAAAQWc/6uv9TAxvjpUIkXCgoad5o9nN6qkLaW20wCLcBGAsYHQ/s320/TV100TR.png", TV 100 HD TR
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=8jEXHzMTR7s
+
+#EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://1.bp.blogspot.com/-A_LgNRVaWwI/YALg0jc-51I/AAAAAAAAQWc/6uv9TAxvjpUIkXCgoad5o9nN6qkLaW20wCLcBGAsYHQ/s320/TV100TR.png", TV 101 HD TR
+http://50.7.136.162:1935/canlitv/kanal101/chunklist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://1.bp.blogspot.com/-_qvNgUtdvTE/X5xddq1MjVI/AAAAAAAAPcw/h9F02q5c37sIy2CarLIKELwCrRXH_czNQCLcBGAsYHQ/s0/ARTI_TV_LOGO_240px.jpg", ARTI TV [PLAY]
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://youtu.be/xpoetRCJKqY.m3u8
