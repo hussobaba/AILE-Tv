@@ -98,9 +98,11 @@ http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001208/sec-f5-v1-a
 #EXTGRP:Германия | Germany
 https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8
 
-#EXTINF:0 tvg-rec="3",ENGELSİZ TV
-http://45.148.146.205:8080/Whq2rYu3w9Y6/u35MCc6TsUea/167159
+#EXTINF:0 tvg-rec="3",ENGELSİZ TV HD
+http://149.100.11.250:8002/play/a01a/index.m3u8
 
+#EXTINF:0 tvg-rec="3",ENGELSİZ TV FHD
+http://45.148.146.205:8080/Whq2rYu3w9Y6/u35MCc6TsUea/167159
 
 #EXTINF:-1tvg-id="teve2.tr"tvg-name="Teve2.tr"  tvg-logo="https://picon-13398.kxcdn.com/teve2tr.jpg" group-title="ULUSAL",Teve2 ᴴᴰ⁺
 http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001244/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001244&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
