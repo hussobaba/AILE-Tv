@@ -83,6 +83,9 @@ https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.showtur
 #EXTINF:0 type="stream" channelId="1045" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-IFJJtdqvx9M/YI3eO_khbTI/AAAAAAAATRI/f0PKzmJl_YURx2cHfdzWcl7YdrphjKNkwCLcBGAsYHQ/s0/SHOW%2B-%2BKopya.png",SHOW MAX HD 
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=http://showmax.com.tr/canliyayin
 
+#EXTINF:0 type="stream" channelId="-1" group-title="1_ULUSAL_KANALLAR" logo="https://www.tv4.com.tr/assets/img/tv4fav.png", TV4 HD TR
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+
 #EXTINF:0 type="stream" channelId="1044" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-dHogV1SHMHc/YI3eO_hCxYI/AAAAAAAATRE/hq72CRTA0CgGu9fSGm-dZM3liELp_DllwCLcBGAsYHQ/s0/KANALD%2B-%2BKopya.png", KANAL D drama
 http://146.59.19.1/5062/mpegts
 
@@ -90,6 +93,11 @@ http://146.59.19.1/5062/mpegts
 http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001208/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001208&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 #http://31.172.87.53:2200/TR-N/KANAL_D_HD-tr/tracks-v1a1/mono.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165|User-agent=REDLINECLIENT
 #https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+
+#EXTINF:0 tvg-rec="3",Sky Cinema KANAL D world
+#EXTGRP:Германия | Germany
+https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8
+
 #EXTINF:-1tvg-id="teve2.tr"tvg-name="Teve2.tr"  tvg-logo="https://picon-13398.kxcdn.com/teve2tr.jpg" group-title="ULUSAL",Teve2 ᴴᴰ⁺
 http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001244/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001244&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 #http://31.172.87.53:2200/TR-N/Teve_2_HD-tr/tracks-v1a1/mono.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165|User-agent=REDLINECLIENT
@@ -228,8 +236,31 @@ https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:0 type="stream" channelId="3983" group-title="1_ULUSAL_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=3983", 360 TV HD FHD
 https://360tv.blutv.com/blutv_360tv_live/live_720p2000000kbps/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_ULUSAL_KANALLAR" logo="https://www.tv4.com.tr/assets/img/tv4fav.png", TV4 HD TR
-https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+
+
+#EXTINF:0 tvg-rec="0",AKTUEL TV
+#EXTGRP:Германия | Germany
+https://cdn-aktueltv.yayin.com.tr/aktueltv/aktueltv/chunklist_w36337591.m3u8
+
+#EXTINF:0 tvg-rec="3",KANAL 2000
+#EXTGRP:Германия | Germany
+https://59cba4d34b678.streamlock.net/canlitv/kanal-2000/chunklist_w1297424808.m3u8
+
+#EXTINF:0 tvg-rec="3",FARK TÜRK
+#EXTGRP:Германия | Germany
+http://91.134.203.253:30124/farkturktv/farkturktv/playlist.m3u8
+
+#EXTINF:0 tvg-rec="3",SİNOP 58TV
+#EXTGRP:Германия | Germany
+https://cdn-sinop57.yayin.com.tr/sinop57/sinop57/chunklist_w805504983.m3u8
+
+#EXTINF:0 tvg-rec="3",ŞEMS TV
+#EXTGRP:Германия | Germany
+https://59cba4d34b678.streamlock.net/canlitv/semstv/chunklist_w1730584572.m3u8
+
+#EXTINF:0 tvg-rec="3",SER TV AZ
+#EXTGRP:Германия | Germany
+http://91.134.203.253:30124/sertv/sertv/chunklist.m3u8
 
 #EXTINF:0 type="stream" channelId="978" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-6h-LT1zzUgI/YI3eN15h1XI/AAAAAAAATQw/hl9keKfUXjw5592EEp17PIMxBxMDOGh3QCLcBGAsYHQ/s0/DMAX%2B-%2BKopya.png", D MAX HD
 https://mn-nl.mncdn.com/blutv_dmax_dvr/live_720p2000000kbps/index.m3u8
