@@ -2,10 +2,10 @@
 #EXTINF:0 type="stream" channelId="1056" group="TEBER STAR MEDYA_iPTV_KANALLAR", TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group="TEBER STAR MEDYA_iPTV_KANALLAR", TRT 2 FHD
+#EXTINF:0 type="stream" channelId="-1" group="TEBER STAR MEDYA_iPTV_KANALLAR",TRT 2 FHD
 http://167.114.115.233:8080/trt2fhd/index.m3u8
 
-#EXTINF:0 type="stream" channelId="989" group="TEBER STAR MEDYA_iPTV_KANALLAR", TRT3 Türk
+#EXTINF:0 type="stream" channelId="989" group="TEBER STAR MEDYA_iPTV_KANALLAR",TRT3 Türk
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:0 tvg-rec="3",TRT 4K
@@ -14,22 +14,26 @@ http://u1hlnkbw.russtv.net/iptv/EXZGX33VGKL8A9/4001/index.m3u8
 #EXTINF:0,TEBER TELE5
 http://live-server-2.splitstream.io/0c5cf555-a6cb-4559-8450-cd08b99803af/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEhGkzfkAY7tRZH5mb4YUA2qhOPVVU8DBA8CeOTiOPkQktVwIe1xXleqCLKhBPXShBX5xMlyLoT433DzeqptNTl28xNBz0T2EoJToF162VL1t9h1d11STs-Q2n0URoH9FeqjqfX4n_q1Q8qhm9mmBzwHP10Oa4kvtIY98zwEDHU-fPDWSGMN9DfBqkovhw=w157-h59", TiVi 6 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEhGkzfkAY7tRZH5mb4YUA2qhOPVVU8DBA8CeOTiOPkQktVwIe1xXleqCLKhBPXShBX5xMlyLoT433DzeqptNTl28xNBz0T2EoJToF162VL1t9h1d11STs-Q2n0URoH9FeqjqfX4n_q1Q8qhm9mmBzwHP10Oa4kvtIY98zwEDHU-fPDWSGMN9DfBqkovhw=w157-h59",TiVi 6 HD
 https://waw3.artiyerelmedya.net/tivi6/bant1/chunks.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo=", TEBER STAR TV
+#EXTINF:0,TEBER STAR TV
 http://live-server-2.splitstream.io/f97854bd-6c00-40d3-b9a2-e85f95a4f94f/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo=", TEBER ON 
+#EXTINF:0, TEBER ON 
 http://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="iPTV_KANALLAR"logo=,TELEON TV HD
+#EXTINF:0,KANAL POZİTİF
+http://50.7.136.162:1935/canlitv/goctv/chunklist.m3u8
+
+
+#EXTINF:0,TELEON TV HD
 https://streaming.netdirekt.com.tr/35757/msyapi/teleontv_digitalon_uzanmediagroup_1080p_/chunks.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo=", TEBER  HBB TV  
+#EXTINF:0,TEBER  HBB TV  
 https://live-server-2.splitstream.io/3a08cd55-6cbc-4072-8381-e7d0dc5b6d0d/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 type="stream" channelId="1054" group="TEBER STAR MEDYA_iPTV_KANALLAR", TRT AVAZ
+#EXTINF:0,TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_ULUSAL_KANALLAR" logo="https://www.tv4.com.tr/assets/img/tv4fav.png",DENİZ Tv
