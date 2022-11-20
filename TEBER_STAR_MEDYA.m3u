@@ -347,7 +347,420 @@ https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube
 #EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/15ac1875-9023-4cd9-a7a8-41b54c8e9cc3.png" group-title= "Özel", Akıllı TV
 http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8    
 
-----------SINEMA--------
+------BULU----SINEMA---TV-----
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Recep İvedik ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/RECEP.IVEDIK.png" group-title="TR - SINEMA",TR: BlueTV Recep İvedik ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/77
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Marvel Cinema 1 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/MARVEL/BLUE.MARVEL.1.png" group-title="TR - SINEMA",TR: BlueTV Marvel Cinema 1 HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/247
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Marvel Cinema 2 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/MARVEL/BLUE.MARVEL.2.png" group-title="TR - SINEMA",TR: BlueTV Marvel Cinema 2 HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/248
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Western Cinema 1 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/WESTERN.1.png" group-title="TR - SINEMA",TR: BlueTV Western Cinema 1 HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/249
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Western Cinema 2 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/WESTERN.2.png" group-title="TR - SINEMA",TR: BlueTV Western Cinema 2 HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/250
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV X-Men ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/X.MEN.png" group-title="TR - SINEMA",TR: BlueTV X-Men ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/326
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Godzilla & Kong ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/GODZILLA.KONG.png" group-title="TR - SINEMA",TR: BlueTV Godzilla & Kong ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/327
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Amerikan Pastası ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/AMERICAN.PASTASI.png" group-title="TR - SINEMA",TR: BlueTV Amerikan Pastası ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/328
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Görevimiz Tehlike ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/GOREVIMIZ.TEHLIKE.png" group-title="TR - SINEMA",TR: BlueTV Görevimiz Tehlike ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/329
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Harry Potter ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/HARRY.POTTER.png" group-title="TR - SINEMA",TR: BlueTV Harry Potter ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/330
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Hızlı ve Öfkeli ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/HIZLI.VE.OFKELI.png" group-title="TR - SINEMA",TR: BlueTV Hızlı ve Öfkeli ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/331
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV James Bond ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/JAMES.BOND.png" group-title="TR - SINEMA",TR: BlueTV James Bond ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/333
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Karayip Korsanları ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/KARAYIP.KORSANLARI.png" group-title="TR - SINEMA",TR: BlueTV Karayip Korsanları ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/334
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Korkunç Bir Film ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/KORKUNC.BIR.FILM.png" group-title="TR - SINEMA",TR: BlueTV Korkunç Bir Film ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/335
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Maymunlar Cehennemi ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/MAYMUNLAR.CEHENNEMI.png" group-title="TR - SINEMA",TR: BlueTV Maymunlar Cehennemi ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/336
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Ölüm Yarışı ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/OLUM.YARISI.png" group-title="TR - SINEMA",TR: BlueTV Ölüm Yarışı ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/337
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Ölümcül Deney ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/OLUMCUL.DENEY.png" group-title="TR - SINEMA",TR: BlueTV Ölümcül Deney ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/338
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Örümcek Adam ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/ORUMCEK.ADAM.png" group-title="TR - SINEMA",TR: BlueTV Örümcek Adam ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/339
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Rambo ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/RAMBO.png" group-title="TR - SINEMA",TR: BlueTV Rambo ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/340
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Şafak Sezer ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/SAFAK.SEZER.png" group-title="TR - SINEMA",TR: BlueTV Şafak Sezer ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/341
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Star Wars ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/STAR.WARS.png" group-title="TR - SINEMA",TR: BlueTV Star Wars ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/342
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Yenilmezler ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/YENILMEZLER.png" group-title="TR - SINEMA",TR: BlueTV Yenilmezler ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/343
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Yeraltı Canavarı ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/YERALTI.CANAVARI.png" group-title="TR - SINEMA",TR: BlueTV Yeraltı Canavarı ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/344
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Alacakaranlık ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/ALACAKARANLIK.png" group-title="TR - SINEMA",TR: BlueTV Alacakaranlık ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/345
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV 13. Cuma ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/13.CUMA.png" group-title="TR - SINEMA",TR: BlueTV 13. Cuma ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/486
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Dövüş ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/DOVUS.png" group-title="TR - SINEMA",TR: BlueTV Dövüş ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/487
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Bruce Lee ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/BRUCE.LEE.png" group-title="TR - SINEMA",TR: BlueTV Bruce Lee ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/488
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Van Damme ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/VAN.DAMME.png" group-title="TR - SINEMA",TR: BlueTV Van Damme ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/489
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Jason Statham ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/JASON.STATHAM.png" group-title="TR - SINEMA",TR: BlueTV Jason Statham ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/490
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Polis Akademisi ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/POLIS.AKADEMISI.png" group-title="TR - SINEMA",TR: BlueTV Polis Akademisi ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/491
+#EXTINF:-1 tvg-id="" tvg-name="TR: Gülümseyerek Başlayalım :-) ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/ULUSAL/GULUMSEYEREK.BASLAYALIM.png" group-title="TR - SINEMA",TR: Gülümseyerek Başlayalım :-) ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/492
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Testere ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/TESTERE.png" group-title="TR - SINEMA",TR: BlueTV Testere ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/493
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Jakie Chan ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/JAKIE.CHAN.png" group-title="TR - SINEMA",TR: BlueTV Jakie Chan ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/494
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix  Abenteuer ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/NETFLIX/ABENTEUER.png" group-title="DE - NETFLIX",DE: Netflix  Abenteuer ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/274
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix  Action ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/NETFLIX/ACTION.png" group-title="DE - NETFLIX",DE: Netflix  Action ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/275
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix  Animation ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/NETFLIX/ANIMATION.png" group-title="DE - NETFLIX",DE: Netflix  Animation ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/276
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix  Dokumentarfilm ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/NETFLIX/DOKU.png" group-title="DE - NETFLIX",DE: Netflix  Dokumentarfilm ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/277
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix  Drama ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/NETFLIX/DRAMA.png" group-title="DE - NETFLIX",DE: Netflix  Drama ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/278
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix Familie ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/NETFLIX/FAMILIE.png" group-title="DE - NETFLIX",DE: Netflix Familie ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/279
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix  Fantasy ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/NETFLIX/FANTASY.png" group-title="DE - NETFLIX",DE: Netflix  Fantasy ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/280
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix  Horror ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/NETFLIX/HORROR.png" group-title="DE - NETFLIX",DE: Netflix  Horror ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/281
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix  Komodie ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/NETFLIX/KOMODIE.png" group-title="DE - NETFLIX",DE: Netflix  Komodie ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/282
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix  Krımı ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/NETFLIX/KRIMI.png" group-title="DE - NETFLIX",DE: Netflix  Krımı ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/283
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix  Romantısch ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/NETFLIX/ROMANTISCH.png" group-title="DE - NETFLIX",DE: Netflix  Romantısch ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/284
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix  Scıence-Fıctıon ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/NETFLIX/SCI.FI.png" group-title="DE - NETFLIX",DE: Netflix  Scıence-Fıctıon ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/285
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix  Thriller ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/NETFLIX/THRILLER.png" group-title="DE - NETFLIX",DE: Netflix  Thriller ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/286
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix 1 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/NETFLIX/KANAL.1.png" group-title="DE - NETFLIX",DE: Netflix 1 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/287
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix 2 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/NETFLIX/KANAL.2.png" group-title="DE - NETFLIX",DE: Netflix 2 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/288
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix 3 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/NETFLIX/KANAL.3.png" group-title="DE - NETFLIX",DE: Netflix 3 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/289
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix 4 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/NETFLIX/KANAL.4.png" group-title="DE - NETFLIX",DE: Netflix 4 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/290
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix 5 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/NETFLIX/KANAL.5.png" group-title="DE - NETFLIX",DE: Netflix 5 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/291
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select Programmübersicht" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SELECT/00.png" group-title="DE - SKY SELECT",DE: Sky Select Programmübersicht
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/351
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 1 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SELECT/01.png" group-title="DE - SKY SELECT",DE: Sky Select 1 HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/352
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 2 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SELECT/02.png" group-title="DE - SKY SELECT",DE: Sky Select 2 HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/353
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 3 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SELECT/03.png" group-title="DE - SKY SELECT",DE: Sky Select 3 HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/354
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 4 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SELECT/04.png" group-title="DE - SKY SELECT",DE: Sky Select 4 HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/355
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 5 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SELECT/05.png" group-title="DE - SKY SELECT",DE: Sky Select 5 HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/356
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 6 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SELECT/56.png" group-title="DE - SKY SELECT",DE: Sky Select 6 HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/357
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 7 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SELECT/07.png" group-title="DE - SKY SELECT",DE: Sky Select 7 HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/358
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 8 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SELECT/08.png" group-title="DE - SKY SELECT",DE: Sky Select 8 HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/359
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 9 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SELECT/09.png" group-title="DE - SKY SELECT",DE: Sky Select 9 HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/360
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 10 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SELECT/010.png" group-title="DE - SKY SELECT",DE: Sky Select 10 HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/361
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Smackdown FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/TR.SPOR/FHD/SMACK.DOWN.png" group-title="TR - SPOR",TR: BlueTV Smackdown FHD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/10266
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Box FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/TR.SPOR/FHD/BOX.png" group-title="TR - SPOR",TR: BlueTV Box FHD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/10267
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Aksiyon ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/AKSIYON.png" group-title="TR - CINEMAXIMUM",TR: Cinemaximum Aksiyon ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/40
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Komedi ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/KOMEDI.png" group-title="TR - CINEMAXIMUM",TR: Cinemaximum Komedi ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/41
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Bilim Kurgu ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/BILIM.KURGU.png" group-title="TR - CINEMAXIMUM",TR: Cinemaximum Bilim Kurgu ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/42
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Suç ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/SUC.png" group-title="TR - CINEMAXIMUM",TR: Cinemaximum Suç ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/43
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Dram ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/DRAM.png" group-title="TR - CINEMAXIMUM",TR: Cinemaximum Dram ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/44
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Korku ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/KORKU.png" group-title="TR - CINEMAXIMUM",TR: Cinemaximum Korku ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/45
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Romantik ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/ROMANTIK.png" group-title="TR - CINEMAXIMUM",TR: Cinemaximum Romantik ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/46
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum 1 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/CINEMAXIMUM.1.png" group-title="TR - CINEMAXIMUM",TR: Cinemaximum 1 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/47
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum 2 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/CINEMAXIMUM.2.png" group-title="TR - CINEMAXIMUM",TR: Cinemaximum 2 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/48
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum 3 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/CINEMAXIMUM.3.png" group-title="TR - CINEMAXIMUM",TR: Cinemaximum 3 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/49
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum 4 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/CINEMAXIMUM.4.png" group-title="TR - CINEMAXIMUM",TR: Cinemaximum 4 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/50
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum 5 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/CINEMAXIMUM.5.png" group-title="TR - CINEMAXIMUM",TR: Cinemaximum 5 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/51
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum  6 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/CINEMAXIMUM.6.png" group-title="TR - CINEMAXIMUM",TR: Cinemaximum  6 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/52
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum 7 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/CINEMAXIMUM.7.png" group-title="TR - CINEMAXIMUM",TR: Cinemaximum 7 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/53
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum 8 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/CINEMAXIMUM.8.png" group-title="TR - CINEMAXIMUM",TR: Cinemaximum 8 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/54
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum 9 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/CINEMAXIMUM.9.png" group-title="TR - CINEMAXIMUM",TR: Cinemaximum 9 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/55
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum 10 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/CINEMAXIMUM.10.png" group-title="TR - CINEMAXIMUM",TR: Cinemaximum 10 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/56
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Yerli 1 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/YERLI.1.png" group-title="TR - CINEMAXIMUM",TR: Cinemaximum Yerli 1 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/57
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Yerli 2 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/YERLI.2.png" group-title="TR - CINEMAXIMUM",TR: Cinemaximum Yerli 2 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/58
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Yerli 3 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/YERLI.3.png" group-title="TR - CINEMAXIMUM",TR: Cinemaximum Yerli 3 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/59
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Yerli 4 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/YERLI.4.png" group-title="TR - CINEMAXIMUM",TR: Cinemaximum Yerli 4 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/60
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Yerli 5 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/YERLI.5.png" group-title="TR - CINEMAXIMUM",TR: Cinemaximum Yerli 5 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/61
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Gizem ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/GIZEM.png" group-title="TR - CINEMAXIMUM",TR: Cinemaximum Gizem ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/319
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Animasyon ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/ANIMASYON.png" group-title="TR - CINEMAXIMUM",TR: Cinemaximum Animasyon ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/320
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Macera ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/MACERA.png" group-title="TR - CINEMAXIMUM",TR: Cinemaximum Macera ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/321
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Bollywood ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/BOLLYWOOD.png" group-title="TR - CINEMAXIMUM",TR: Cinemaximum Bollywood ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/322
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Fantastik ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/FANTASTIIK.png" group-title="TR - CINEMAXIMUM",TR: Cinemaximum Fantastik ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/323
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Gerilim ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/GERILIM.png" group-title="TR - CINEMAXIMUM",TR: Cinemaximum Gerilim ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/324
+#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix 1 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/KANAL.1.png" group-title="TR - NETFLIX",TR: Netflix 1 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/62
+#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix 2 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/KANAL.2.png" group-title="TR - NETFLIX",TR: Netflix 2 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/63
+#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix 3 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/KANAL.3.png" group-title="TR - NETFLIX",TR: Netflix 3 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/64
+#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix  4 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/KANAL.4.png" group-title="TR - NETFLIX",TR: Netflix  4 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/65
+#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix 5 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/KANAL.5.png" group-title="TR - NETFLIX",TR: Netflix 5 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/66
+#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix Aksiyon ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/AKSIYON.png" group-title="TR - NETFLIX",TR: Netflix Aksiyon ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/67
+#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix Animasyon ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/ANIMASYON.png" group-title="TR - NETFLIX",TR: Netflix Animasyon ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/68
+#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix Macera ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/MACERA.png" group-title="TR - NETFLIX",TR: Netflix Macera ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/69
+#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix Bilim Kurgu ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/BILIM.KURGU.png" group-title="TR - NETFLIX",TR: Netflix Bilim Kurgu ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/70
+#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix Dram ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/DRAM.png" group-title="TR - NETFLIX",TR: Netflix Dram ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/71
+#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix Gerilim ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/GERILIM.png" group-title="TR - NETFLIX",TR: Netflix Gerilim ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/72
+#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix Gizem ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/GIZEM.png" group-title="TR - NETFLIX",TR: Netflix Gizem ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/73
+#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix Komedi ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/KOMEDI.png" group-title="TR - NETFLIX",TR: Netflix Komedi ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/74
+#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix Korku ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/KORKU.png" group-title="TR - NETFLIX",TR: Netflix Korku ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/75
+#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix Romantik ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/ROMANTIK.png" group-title="TR - NETFLIX",TR: Netflix Romantik ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/76
+#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix Fantastik ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/FANTASTIK.png" group-title="TR - NETFLIX",TR: Netflix Fantastik ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/371
+#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix Suç ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/SUC.png" group-title="TR - NETFLIX",TR: Netflix Suç ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/372
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Kemal Sunal 1 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KEMAL.SUNAL.1.png" group-title="TR - YESILCAM",TR: BlueTV Kemal Sunal 1 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/78
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Kemal Sunal 2 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KEMAL.SUNAL.2.png" group-title="TR - YESILCAM",TR: BlueTV Kemal Sunal 2 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/79
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Kemal Sunal 3 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KEMAL.SUNAL.3.png" group-title="TR - YESILCAM",TR: BlueTV Kemal Sunal 3 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/80
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Yeşilçam 1 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KANAL.1.png" group-title="TR - YESILCAM",TR: BlueTV Yeşilçam 1 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/81
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Yeşilçam 2 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KANAL.2.png" group-title="TR - YESILCAM",TR: BlueTV Yeşilçam 2 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/82
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Yeşilçam 3 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KANAL.3.png" group-title="TR - YESILCAM",TR: BlueTV Yeşilçam 3 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/83
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Yeşilçam 4 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KANAL.4.png" group-title="TR - YESILCAM",TR: BlueTV Yeşilçam 4 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/84
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Yeşilçam 5 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KANAL.5.png" group-title="TR - YESILCAM",TR: BlueTV Yeşilçam 5 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/85
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Cüneyit Arkin  ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/CUNEYIT.ARKIN.png" group-title="TR - YESILCAM",TR: BlueTV Cüneyit Arkin  ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/86
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Ferdi Tayfur ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/FERDI.TAYFUR.png" group-title="TR - YESILCAM",TR: BlueTV Ferdi Tayfur ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/87
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Ibrahim Tatlises ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/IBRAHIM.TATLISES.png" group-title="TR - YESILCAM",TR: BlueTV Ibrahim Tatlises ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/88
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Kadir Inanir  ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KADIR.INANIR.png" group-title="TR - YESILCAM",TR: BlueTV Kadir Inanir  ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/89
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Müslüm Gürses ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/MUSLUM.GURSES.png" group-title="TR - YESILCAM",TR: BlueTV Müslüm Gürses ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/90
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Orhan Gencebay ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/ORHAN.GENCEBAY.png" group-title="TR - YESILCAM",TR: BlueTV Orhan Gencebay ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/91
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Sadri Alisik ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/SADRI.ALISIK.png" group-title="TR - YESILCAM",TR: BlueTV Sadri Alisik ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/92
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Tarik Akan ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/TARIK.AKAN.png" group-title="TR - YESILCAM",TR: BlueTV Tarik Akan ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/93
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Yilmaz Güney ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/YILMAZ.GUNEY.png" group-title="TR - YESILCAM",TR: BlueTV Yilmaz Güney ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/94
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Zeki Metin ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/ZEKI.METIN.png" group-title="TR - YESILCAM",TR: BlueTV Zeki Metin ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/95
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Sener Sen ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/SENER.SEN.png" group-title="TR - YESILCAM",TR: BlueTV Sener Sen ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/96
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Müjde Ar ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/MUJDE.AR.png" group-title="TR - YESILCAM",TR: BlueTV Müjde Ar ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/97
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Küçük Emrah ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KUCUK.EMRAH.png" group-title="TR - YESILCAM",TR: BlueTV Küçük Emrah ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/187
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Hababam Sınıfı ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/HABABAM.SINIFI.png" group-title="TR - YESILCAM",TR: BlueTV Hababam Sınıfı ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/188
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Kartal Tibet  ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KARTAL.TIBET.png" group-title="TR - YESILCAM",TR: BlueTV Kartal Tibet  ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/236
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Turkan Soray  ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/TURKAN.SORAY.png" group-title="TR - YESILCAM",TR: BlueTV Turkan Soray  ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/237
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Yeşilçam 1 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/UHD.1.png" group-title="TR - YESILCAM",TR: BlueTV Yeşilçam 1 FHD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/483
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Yeşilçam 2 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/UHD.2.png" group-title="TR - YESILCAM",TR: BlueTV Yeşilçam 2 FHD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/484
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Yeşilçam 3 FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/UHD.3.png" group-title="TR - YESILCAM",TR: BlueTV Yeşilçam 3 FHD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/485
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Çukur ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/CUKUR.png" group-title="TR - DIZI",TR: BlueTV Çukur ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/98
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Sıfır Bir ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/SIFIR.BIR.png" group-title="TR - DIZI",TR: BlueTV Sıfır Bir ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/99
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Güldür Güldür ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/GULDUR.GULDUR.png" group-title="TR - DIZI",TR: BlueTV Güldür Güldür ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/100
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Aşk-ı Memnu ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/ASKI.MEMNU.png" group-title="TR - DIZI",TR: BlueTV Aşk-ı Memnu ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/103
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Kuzey Güney ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/KUZEY.GUNEY.png" group-title="TR - DIZI",TR: BlueTV Kuzey Güney ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/104
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Kurtlar Vadisi ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/KURTLAR.VADISI.png" group-title="TR - DIZI",TR: BlueTV Kurtlar Vadisi ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/105
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV O Ses Türkiye ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/O.SES.TURKIYE.png" group-title="TR - DIZI",TR: BlueTV O Ses Türkiye ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/106
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Sokagin Cocuklari ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/SOKAGIN.COCUKLARI.png" group-title="TR - DIZI",TR: BlueTV Sokagin Cocuklari ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/107
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Tolgshow ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/TOLGSHOW.png" group-title="TR - DIZI",TR: BlueTV Tolgshow ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/108
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Yetenek Sizsiniz Türkiye ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/YETENEK.SIZSINIZ.TURKIYE.png" group-title="TR - DIZI",TR: BlueTV Yetenek Sizsiniz Türkiye ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/109
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Diriliş Ertuğrul ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/DIRILIS.ERTUGRUL.png" group-title="TR - DIZI",TR: BlueTV Diriliş Ertuğrul ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/110
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Game Of Thrones ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/GAME.OF.THRONES.png" group-title="TR - DIZI",TR: BlueTV Game Of Thrones ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/111
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Kardeş Payı ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/KARDES.PAYI.png" group-title="TR - DIZI",TR: BlueTV Kardeş Payı ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/112
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Vikingler ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/VIKINGLER.png" group-title="TR - DIZI",TR: BlueTV Vikingler ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/113
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV La Casa De Papel ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/LA.CASA.DE.PAPEL.png" group-title="TR - DIZI",TR: BlueTV La Casa De Papel ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/114
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Prison Break ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/PRISON.BREAK.png" group-title="TR - DIZI",TR: BlueTV Prison Break ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/186
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV  Squid Game ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/SQUID.GAME.png" group-title="TR - DIZI",TR: BlueTV  Squid Game ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/251
+#EXTINF:-1 tvg-id="" tvg-name="TR: Çok Güzel Hareketler Bunlar 2 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/COK.GUZEL.HAREKETLER.png" group-title="TR - DIZI",TR: Çok Güzel Hareketler Bunlar 2 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/346
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Cem Yılmaz ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/CEM.YILMAZ.png" group-title="TR - DIZI",TR: BlueTV Cem Yılmaz ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/347
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV İçerde ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/ICERDE.png" group-title="TR - DIZI",TR: BlueTV İçerde ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/348
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Kurtlar Vadisi Pusu ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/KURTLAR.VADISI.PUSU.png" group-title="TR - DIZI",TR: BlueTV Kurtlar Vadisi Pusu ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/349
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bluetv Muhteşem Yüzyıl ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/MUHTESEM.YUZYIL.png" group-title="TR - DIZI",TR: Bluetv Muhteşem Yüzyıl ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/350
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV İlk Buluşma ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/ILK.BULUSMA.png" group-title="TR - DIZI",TR: BlueTV İlk Buluşma ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/504
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Leyla ile Mecnun HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/LEYLA.ILE.MECNUUN.png" group-title="TR - DIZI",TR: BlueTV Leyla ile Mecnun HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/10238
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV EDHO HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/EDHO.png" group-title="TR - DIZI",TR: BlueTV EDHO HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/10239
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Ezel HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/EZEL.png" group-title="TR - DIZI",TR: BlueTV Ezel HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/10240
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Akasya Duragi HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/AKASYA.DURAGI.png" group-title="TR - DIZI",TR: BlueTV Akasya Duragi HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/10241
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Bizimkiler HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/BIZIMKILER.png" group-title="TR - DIZI",TR: BlueTV Bizimkiler HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/10242
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV 7 Numara HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/7.NUMARA.png" group-title="TR - DIZI",TR: BlueTV 7 Numara HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/10243
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cennet Mahallesi ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/CENNET.MAHALLESI.png" group-title="TR - DIZI",TR: Cennet Mahallesi ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/10268
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Maşa ile Koca Ayı HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/COCUK/MASA.ILE.KOCA.AYI.png" group-title="TR - COCUK",TR: BlueTV Maşa ile Koca Ayı HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/115
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Animasyon 1 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/COCUK/ANIMASYON.1.png" group-title="TR - COCUK",TR: BlueTV Animasyon 1 HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/116
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Animasyon 2 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/COCUK/ANIMASYON.2.png" group-title="TR - COCUK",TR: BlueTV Animasyon 2 HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/117
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Tom & Jerry HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/COCUK/TOM.VE.JERY.png" group-title="TR - COCUK",TR: BlueTV Tom & Jerry HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/118
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Şirinler HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/COCUK/SIRINLER.png" group-title="TR - COCUK",TR: BlueTV Şirinler HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/119
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Niloya HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/COCUK/NILOYA.png" group-title="TR - COCUK",TR: BlueTV Niloya HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/120
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV RedKit HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/COCUK/REDKID.png" group-title="TR - COCUK",TR: BlueTV RedKit HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/121
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Ninja Kaplumbağalar HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/COCUK/NINJA.KAPLUMBAGALAR.png" group-title="TR - COCUK",TR: BlueTV Ninja Kaplumbağalar HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/122
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV He-Man HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/COCUK/HE.MAN.png" group-title="TR - COCUK",TR: BlueTV He-Man HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/123
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Çocuk Şarkıları HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/COCUK/COCUK.SARKILARI.png" group-title="TR - COCUK",TR: BlueTV Çocuk Şarkıları HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/189
+#EXTINF:-1 tvg-id="" tvg-name="TR:  BlueTV Karadeniz HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/MUZIK/KARADENIZ.png" group-title="TR - MÜZIK",TR:  BlueTV Karadeniz HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/124
+#EXTINF:-1 tvg-id="" tvg-name="TR:  BlueTV Neşet Ertaş  HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/MUZIK/NESET.ERTAS.png" group-title="TR - MÜZIK",TR:  BlueTV Neşet Ertaş  HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/125
+#EXTINF:-1 tvg-id="" tvg-name="TR:  BlueTV Orhan Gencebay  HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/MUZIK/ORHAN.GENCEBAY.png" group-title="TR - MÜZIK",TR:  BlueTV Orhan Gencebay  HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/126
+#EXTINF:-1 tvg-id="" tvg-name="TR:  BlueTV Meyhane  HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/MUZIK/MEYHANE.png" group-title="TR - MÜZIK",TR:  BlueTV Meyhane  HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/127
+#EXTINF:-1 tvg-id="" tvg-name="TR:  BlueTV Arabesk HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/MUZIK/ARABESK.png" group-title="TR - MÜZIK",TR:  BlueTV Arabesk HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/128
+#EXTINF:-1 tvg-id="" tvg-name="TR:  BlueTV Müslüm Gürses   HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/MUZIK/MUSLUM.GURSES.png" group-title="TR - MÜZIK",TR:  BlueTV Müslüm Gürses   HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/129
+#EXTINF:-1 tvg-id="" tvg-name="TR:  BlueTV Ferdi Tayfur  HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/MUZIK/FERDI.TAYFUR.png" group-title="TR - MÜZIK",TR:  BlueTV Ferdi Tayfur  HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/130
+#EXTINF:-1 tvg-id="" tvg-name="TR:  BlueTV Ahmet Kaya  HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/MUZIK/AHMET.KAYA.png" group-title="TR - MÜZIK",TR:  BlueTV Ahmet Kaya  HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/131
+#EXTINF:-1 tvg-id="" tvg-name="TR:  BlueTV Ibrahim Tatlises  HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/MUZIK/IBRAHIM.TATLISES.png" group-title="TR - MÜZIK",TR:  BlueTV Ibrahim Tatlises  HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/132
+#EXTINF:-1 tvg-id="" tvg-name="TR:  BlueTV Oyun Havaları HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/MUZIK/OYUN.HAVALARI.png" group-title="TR - MÜZIK",TR:  BlueTV Oyun Havaları HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/133
+#EXTINF:-1 tvg-id="" tvg-name="TR:  BlueTV Türkçe Pop HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/MUZIK/TURKCE.POP.png" group-title="TR - MÜZIK",TR:  BlueTV Türkçe Pop HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/134
+#EXTINF:-1 tvg-id="" tvg-name="TR:  BlueTV Türkçe Rap HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/MUZIK/TURKCE.RAP.png" group-title="TR - MÜZIK",TR:  BlueTV Türkçe Rap HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/135
+#EXTINF:-1 tvg-id="" tvg-name="TR:  BlueTV Türkçe Slow HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/MUZIK/TURKCE.SLOW.png" group-title="TR - MÜZIK",TR:  BlueTV Türkçe Slow HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/136
+#EXTINF:-1 tvg-id="" tvg-name="TR:  BlueTV Yabancı Rap HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/MUZIK/YABANCI.RAP.png" group-title="TR - MÜZIK",TR:  BlueTV Yabancı Rap HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/137
+#EXTINF:-1 tvg-id="" tvg-name="TR:  BlueTV Yabancı Pop HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/MUZIK/YABANCI.POP.png" group-title="TR - MÜZIK",TR:  BlueTV Yabancı Pop HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/138
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV 4K ACTION" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/4K/ACTION.png" group-title="DE - 4K CINEMA",DE: BlueTV 4K ACTION
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/139
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV 4K DRAMA" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/4K/DRAMA.png" group-title="DE - 4K CINEMA",DE: BlueTV 4K DRAMA
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/140
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV 4K HORROR" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/4K/HORROR.png" group-title="DE - 4K CINEMA",DE: BlueTV 4K HORROR
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/141
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV 4K KOMÖDIE" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/4K/KOMODIE.png" group-title="DE - 4K CINEMA",DE: BlueTV 4K KOMÖDIE
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/142
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV 4K ROMANTISCH" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/4K/ROMANTISCH.png" group-title="DE - 4K CINEMA",DE: BlueTV 4K ROMANTISCH
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/143
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV 4K SCI-FI" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/4K/SC.FI.png" group-title="DE - 4K CINEMA",DE: BlueTV 4K SCI-FI
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/144
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV 4K THRILLER" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/4K/THRILLER.png" group-title="DE - 4K CINEMA",DE: BlueTV 4K THRILLER
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/145
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV 4K FANTASY" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/4K/FANTASY.png" group-title="DE - 4K CINEMA",DE: BlueTV 4K FANTASY
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/147
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV 4K ABENTEUER" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/4K/ABENTEUER.png" group-title="DE - 4K CINEMA",DE: BlueTV 4K ABENTEUER
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/149
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV 4K BOLLYWOOD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/4K/BOLLYWOOD.png" group-title="DE - 4K CINEMA",DE: BlueTV 4K BOLLYWOOD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/150
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV 4K FAMILIE" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/4K/FAMILIE.png" group-title="DE - 4K CINEMA",DE: BlueTV 4K FAMILIE
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/151
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV 4K MYSTERY" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/4K/MYSTERY.png" group-title="DE - 4K CINEMA",DE: BlueTV 4K MYSTERY
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/152
+#EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV 4K KRIMI" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/4K/KRIMI.png" group-title="DE - 4K CINEMA",DE: BlueTV 4K KRIMI
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/153
+a.pro:8080/bizimpanel/vtmP8wxADCT5/10264
+
+-----SİNEMA TV
 
 #EXTINF:26,FX
 http://bit.ly/38XSbZ5
