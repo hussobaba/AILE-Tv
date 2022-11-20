@@ -23,6 +23,9 @@ http://live-server-2.splitstream.io/f97854bd-6c00-40d3-b9a2-e85f95a4f94f/tracks-
 #EXTINF:0 type="stream" channelId="-1" group-title="2_TEBER_MEDYA_1" logo=", TEBER ON 
 http://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
 
+#EXTINF:1 tvg-id="TVEM.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/81811713-b6b5-48ee-9fe7-d7907d5c2ebd.png" group-title="Ulusal",TV EM
+http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="iPTV_KANALLAR"logo=,TELEON TV HD
 https://streaming.netdirekt.com.tr/35757/msyapi/teleontv_digitalon_uzanmediagroup_1080p_/chunks.m3u8
 
