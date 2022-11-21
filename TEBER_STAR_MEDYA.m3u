@@ -27,7 +27,7 @@ http://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-
 http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="iPTV_KANALLAR"logo=,TELEON TV HD
-https://streaming.netdirekt.com.tr/35757/msyapi/teleontv_digitalon_uzanmediagroup_1080p_/chunks.m3u8
+https://vkvsd69.mycdn.me/hls/3112478706396.m3u8/sig/P950MrFdVp4/expires/1669081440814/srcIp/31.206.6.113/urls/45.136.20.36/clientType/13/srcAg/CHROME_ANDROID/mid/3946662603740/3112478706396_high/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="2_TEBER_MEDYA_1" logo=", TEBER  HBB TV  
 https://live-server-2.splitstream.io/3a08cd55-6cbc-4072-8381-e7d0dc5b6d0d/tracks-v1a1/mono.m3u8
