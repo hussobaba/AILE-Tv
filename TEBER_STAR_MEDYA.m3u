@@ -38,7 +38,7 @@ https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 #EXTINF:0,Ç.DUYMASIN TV
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://youtu.be/zWJkPdy-poA
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_ULUSAL_KANALLAR" logo="https://www.tv4.com.tr/assets/img/tv4fav.png",DENİZ Tv
+#EXTINF:0,DENİZ Tv
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://player.twitch.tv/?channel=denizradyotv&parent=www.radyodeniz.com.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="2_TEBER_MEDYA_1" logo="https://1.bp.blogspot.com/-bAaSpLS9MRM/XodxofyKc8I/AAAAAAAALS8/E6bDIjYBvw4FLUD1thhldYCrjFS24VDFwCK4BGAsYHg/kanal%2B19.png", KANAL 19
@@ -52,9 +52,6 @@ https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 
 #EXTINF:0,TARİH TV
 https://bit.ly/3e6ppYK
-
-#EXTINF:0,Ç.DUYMASIN TV
-https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=gJN264iy0gI
 
 #EXTINF:0, 360 TV HD
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
