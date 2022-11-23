@@ -35,6 +35,9 @@ http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://1.bp.blogspot.com/-bsNEF6lMbtg/XuJWBTB9JUI/AAAAAAAANso/3BIaAuu_uF4zhCdxndSpcgHgtYGLW180QCLcBGAsYHQ/s1600/C%25C4%25B0NE5TV.PNG", CiNE5 TV HD
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 
+#EXTINF:0,Ç.DUYMASIN TV
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://youtu.be/zWJkPdy-poA
+
 #EXTINF:0 type="stream" channelId="-1" group-title="1_ULUSAL_KANALLAR" logo="https://www.tv4.com.tr/assets/img/tv4fav.png",DENİZ Tv
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://player.twitch.tv/?channel=denizradyotv&parent=www.radyodeniz.com.m3u8
 
