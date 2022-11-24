@@ -32,6 +32,9 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/demir/chunklist_w864557433.m3
 #EXTINF:0 type="stream" channelId="4005" group-title="2_TEBER_MEDYA_1" logo="http://www.tvem.com.tr/Content/assets/img/logo@tvemyeni.png", EM TV 
 http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
 
+#EXTINF:0, iLK ZiRVE TV (ulusal)
+http://50.7.136.162:1935/canlitv/zirvetv/chunklist_w1585639788.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://1.bp.blogspot.com/-bsNEF6lMbtg/XuJWBTB9JUI/AAAAAAAANso/3BIaAuu_uF4zhCdxndSpcgHgtYGLW180QCLcBGAsYHQ/s1600/C%25C4%25B0NE5TV.PNG", CiNE5 TV HD
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 
@@ -300,7 +303,7 @@ https://cdn1-kanalistanbultv.yayin.com.tr/kanalistanbultv/amlst:kanalistanbultv/
 http://streaming.netdirekt.com.tr:80/35757/msyapi/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_TEBER_MEDYA_1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEhGokNbp3GKVzFDQMKeXpwbTNR-5RUcW29xcK0xlF-TQZKdBrVSVSj3xvQ20txCzdDqEQ4rGo7aGQX7DNyCab4fLx9xt5C3Ce0RbUzUnTzON8pjH1hkx1B0ZQZVYmvQ-KncY4mo9vFdmvEFxTWbSj30qSYtuzXdLyc6t4FaseaKxXAzNW6b26P76LAUag=w137-h52", iSViCRE TV HD
 http://aktif2830.ozelip.com:30124/isvicretv/isvicretv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="2_TEBER_MEDYA_1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEiupZeNf5MHe9o4a6FK9Pa8-3XlltsiQCG1iTGYAc_7zl5ITt-LTYEX_RMkINV22HIxP2K1zWAkooSUGbDqAgedH81ud6KmiM-53CjeR-xg_8JsqwVT4abS9YEA6sNCDL4WfDe67A-3biq_jkmQ9f4pNQY2zDbRdlp3btJFOCMAkkXLYbCWCWiz_hPzww=w106-h56", iLK ZiRVE TV HD
+#EXTINF:0, iLK ZiRVE TV HD
 http://50.7.136.162:1935/canlitv/zirvetv/chunklist_w1585639788.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_TEBER_MEDYA_1" logo="https://1.bp.blogspot.com/-ouK2ZRcNR84/X3Lqgg1pzPI/AAAAAAAAPAM/kyUOyu2ogd0MqTLkN38iw2JXPy8PTx-ywCLcBGAsYHQ/s0/kanal2000.PNG", MSCB KANAL 2000 HD
 http://yerelmedya.tv:1935/kanal2000/bant1/playlist.m3u8
