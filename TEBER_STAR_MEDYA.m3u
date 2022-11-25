@@ -38,8 +38,8 @@ http://50.7.136.162:1935/canlitv/zirvetv/chunklist_w1585639788.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://1.bp.blogspot.com/-bsNEF6lMbtg/XuJWBTB9JUI/AAAAAAAANso/3BIaAuu_uF4zhCdxndSpcgHgtYGLW180QCLcBGAsYHQ/s1600/C%25C4%25B0NE5TV.PNG", CiNE5 TV HD
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 
-#EXTINF:0,Ç.DUYMASIN TV
-https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://youtu.be/zWJkPdy-poA
+#EXTINF:0,TELE ON TV
+https://vkvsd77.mycdn.me/hls/3112478706396.m3u8/sig/VfbkR5EkL8Q/expires/1669413918492/srcIp/31.206.6.113/urls/45.136.22.64/clientType/13/srcAg/CHROME_ANDROID/mid/3946662603740/3112478706396_high/index.m3u8
 
 #EXTINF:0,DENİZ Tv
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://player.twitch.tv/?channel=denizradyotv&parent=www.radyodeniz.com.m3u8
@@ -16836,5 +16836,3 @@ http://5.254.16.186:80/TRTMuzik/mono.m3u8
 
 #EXTINF:0 type="stream" channelId="1484" group-title="7-DIJITAL_MUZiK_TV_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=1484", MTV 00S
 http://38.143.137.221:8000/LA49/index.m3u8
-
-
