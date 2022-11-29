@@ -43,14 +43,30 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansimapremiumtv/chunklist_w1
 
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_SH40sv6ynk4woGp1BOdXrLvqjtYVCjVQ-9WbdC_8gB-4F5KytRmmyaND6n-OXLjrys2TJ5oIn_Hlplgrjszx3DGL7Rduu9JIaGsIl_pa_TJpffvUnWh3_ILKd3qhZIPEnEidu0Yqg4smkrnrRN4uNM8T1jvappHOaTolOwHi919H6pXk2KEL2YiElQ/w114-h74/SUPERSPORT.png", SUPER TURK HD
 http://64.225.99.57:3923/hybrid/play.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_SH40sv6ynk4woGp1BOdXrLvqjtYVCjVQ-9WbdC_8gB-4F5KytRmmyaND6n-OXLjrys2TJ5oIn_Hlplgrjszx3DGL7Rduu9JIaGsIl_pa_TJpffvUnWh3_ILKd3qhZIPEnEidu0Yqg4smkrnrRN4uNM8T1jvappHOaTolOwHi919H6pXk2KEL2YiElQ/w114-h74/SUPERSPORT.png", SUPER TURK HD YEDEK
-http://64.225.99.57:3923/stream/play.m3u8
+#EXTINF:1,DOSTELİ TV
+http://91.134.203.253:30124/dost/dost/chunklist.m3u8
+
+#EXTINF:1,CEYHAN TV
+http://adana01.ozelip.com:26258/ceyhantv/ceyhantv/chunklist.m3u8
+
 
 #EXTINF:1,AKTUEL TV
 https://cdn-aktueltv.yayin.com.tr/aktueltv/aktueltv/chunklist_w851913770.m3u8
 
+#EXTINF:1,BURSAKTUEL TV
+http://hd9994.4kradyotv.com:26606/aktuel/aktuel/playlist.m3u8
+
 #EXTINF:1,LUGAT TV
 http://91.134.203.253:30124/lugat/lugat/playlist.m3u8
+
+#EXTINF:1,DADAŞ TV
+http://adana01.ozelip.com:26258/dadastv/dadastv/chunklist.m3u8
+
+#EXTINF:1,TACH TV
+https://live.tasc.tv:5443/LiveApp/streams/996700068960085406468141.m3u8
+
+#EXTINF:1,DERİN CEM TV
+http://adana01.ozelip.com:26258/derincemtv/derincemtv/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihX-fZfrQRbaT9NBkkXzxxYLN_qHgsKT4boK83F3OP3Wso2_LJBI-EbIhzvG4BiGq1JEuz6j8wjt68AvWdami94OmqeD-OqjElzxR6wi3u-SqogcvxZ_1SJinYU_n0AudolyleimgqiLRfTNaPR3-_napCrH8h5ZY3KJOJLl_eIlcy3Tjai7wg5h-PZw/s245/maxkuzey1.png", KUZEYMAX HD
 http://134.209.229.149/kuzeymax_1_tv/index.m3u8
