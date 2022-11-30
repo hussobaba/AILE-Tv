@@ -18,6 +18,9 @@ https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_TEBER_MEDYA_1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEhGkzfkAY7tRZH5mb4YUA2qhOPVVU8DBA8CeOTiOPkQktVwIe1xXleqCLKhBPXShBX5xMlyLoT433DzeqptNTl28xNBz0T2EoJToF162VL1t9h1d11STs-Q2n0URoH9FeqjqfX4n_q1Q8qhm9mmBzwHP10Oa4kvtIY98zwEDHU-fPDWSGMN9DfBqkovhw=w157-h59", TiVi 6 HD
 https://waw3.artiyerelmedya.net/tivi6/bant1/chunks.m3u8
 
+#EXTINF:1,CHANNEL 6tv
+https://host.onlineradyotv.net:8081/channel6tv/index.m3u8
+
 #EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "Özel",TEBER STAR TV
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/teber/chunklist_w2090913015.m3u8
 
