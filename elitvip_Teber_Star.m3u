@@ -48,6 +48,9 @@ http://64.225.99.57:3923/hybrid/play.m3u8
 #EXTINF:1,TV48
 https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
 
+#EXTINF:1,GOP SEN TV
+http://91.134.203.253:30124/gopsentv/gopsentv/chunklist.m3u8
+
 #EXTINF:1, YAREN TV HD
 http://50.7.136.162:1935/canlitv/yarentv/chunklist.m3u8
 
