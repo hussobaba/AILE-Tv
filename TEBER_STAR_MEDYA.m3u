@@ -43,30 +43,9 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansimapremiumtv/chunklist_w1
 
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_SH40sv6ynk4woGp1BOdXrLvqjtYVCjVQ-9WbdC_8gB-4F5KytRmmyaND6n-OXLjrys2TJ5oIn_Hlplgrjszx3DGL7Rduu9JIaGsIl_pa_TJpffvUnWh3_ILKd3qhZIPEnEidu0Yqg4smkrnrRN4uNM8T1jvappHOaTolOwHi919H6pXk2KEL2YiElQ/w114-h74/SUPERSPORT.png", SUPER TURK HD
 http://64.225.99.57:3923/hybrid/play.m3u8
-#EXTINF:1,DOSTELİ TV
-http://91.134.203.253:30124/dost/dost/chunklist.m3u8
 
-#EXTINF:1,CEYHAN TV
-http://adana01.ozelip.com:26258/ceyhantv/ceyhantv/chunklist.m3u8
-
-
-#EXTINF:1,AKTUEL TV
-https://cdn-aktueltv.yayin.com.tr/aktueltv/aktueltv/chunklist_w851913770.m3u8
-
-#EXTINF:1,BURSAKTUEL TV
-http://hd9994.4kradyotv.com:26606/aktuel/aktuel/playlist.m3u8
-
-#EXTINF:1,LUGAT TV
-http://91.134.203.253:30124/lugat/lugat/playlist.m3u8
-
-#EXTINF:1,DADAŞ TV
-http://adana01.ozelip.com:26258/dadastv/dadastv/chunklist.m3u8
-
-#EXTINF:1,TACH TV
-https://live.tasc.tv:5443/LiveApp/streams/996700068960085406468141.m3u8
-
-#EXTINF:1,DERİN CEM TV
-http://adana01.ozelip.com:26258/derincemtv/derincemtv/playlist.m3u8
+#EXTINF:1,TV48
+https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihX-fZfrQRbaT9NBkkXzxxYLN_qHgsKT4boK83F3OP3Wso2_LJBI-EbIhzvG4BiGq1JEuz6j8wjt68AvWdami94OmqeD-OqjElzxR6wi3u-SqogcvxZ_1SJinYU_n0AudolyleimgqiLRfTNaPR3-_napCrH8h5ZY3KJOJLl_eIlcy3Tjai7wg5h-PZw/s245/maxkuzey1.png", KUZEYMAX HD
 http://134.209.229.149/kuzeymax_1_tv/index.m3u8
@@ -93,8 +72,7 @@ http://cdn-beyazmedyatv.yayin.com.tr/beyazmedyatv-dizi/tracks-v1a1/mono.m3u8
 http://beyazmedyatv.yayin.com.tr/beyazmedyatv-yesilcam/video.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEhz4sYYIvpzNUFxVd3__kQlEVO5aS3yr59GuzEGTsB3HzYOi3_1E9RPPackJHE5QOnfuuCrjrY26N7Q3LFcgXKRsARuoEv1VHLWLWM6h9tghF0TMq75eIBo1oRpoKml4dmfNrRdWuz-h7sOtYKfKVfRMa9JyjAJS_2Wn3fYehIlGGIcN6yfJHULn5KNcQ=w147-h40", BEYAZ SiNEMA HD
 http://beyazmedyatv.yayin.com.tr/beyazmedyatv-yabanci/video.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGRh2rAXlRVDJ1Y81_Wnz2bSc-kzOzXZ5PWpN7VDvWsqm3771XEr98GerfS9RYYU2Cys2sZPp6fOlo-3ohTNbgK6eMAIfW7uX8ksgii5DDbI7phg0OS9vyCuMB_07VXjezaI0XnClPyizSTxehWHwRXchViNtABUigqEV8SSuVNw1mTeDUek0n4XPAgA/w111-h111/COZUM.png", COZUM YAPI TV HD
-http://64.225.99.57:3496/hybrid/play.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibnUqIDPSiaCyjnkrKKi6wbT7j_FfU1AErzPtQMrwtsIEHQOtlmuEFucxEpZSEkErolSs-eBpY4C7V1xQF8WazHCdRK3zYWoaAVhWRvUEH4L4Es7AzGT0kiKYBDF_Hx4LkFivNszLKrVwKLAaXCzVPFDdhfFlnXEoEr12ycejI3DzS_8f-Qt8Rrsej7g/w114-h53/CLCTV.PNG", CLC MEDYA TV HD
 http://134.209.229.149/clcmedya/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTdra5VhvQt6rWI9IrgQDpQppmh4kqc088CXUk1XrDGM8POclMprjr3E_YKXKx2U9tKxUWkD7MCZE2FIAW0kPRF3-88y3-TSlNah2pcF9okJHkwip54nkuCm6KbDCZRRH-92QFomPNu8XKEpJRtBkU21WVLFJV3K0T2TCcSjYnLQ4l3hstzA2nfhr74g/s151/cine1.PNG", CiNE 1 TV
@@ -123,8 +101,7 @@ http://adana01.ozelip.com:26258/isvicretv/isvicretv/chunklist.m3u8
 http://50.7.136.162:1935/canlitv/zirvetv/chunklist_w1585639788.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://1.bp.blogspot.com/-ouK2ZRcNR84/X3Lqgg1pzPI/AAAAAAAAPAM/kyUOyu2ogd0MqTLkN38iw2JXPy8PTx-ywCLcBGAsYHQ/s0/kanal2000.PNG", MSCB KANAL 2000
 https://59cba4d34b678.streamlock.net/canlitv/kanal-2000/chunklist_w1297424808.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEi677HirxrOAgcd2LLCn0itdIWF84tqd7XZ2koLBUUqw123H0L2-n7QUo2t-EXPks5jiID1IUEAIblBBL4HbU0WxQs0u8Or5Mh6IAG8_awh_EcyYMJ-Oea9KzwddVn05glaLRmc9WVnBm-5Vx7lsECc_NWFRGJQt4OWpjZKc4jypzTI3mt5WfQDC9FHFQ=w134-h38", MMN TURK TV
-http://mmn.mypsx.net:1935/live/mmnhdradioturky/supersatforum_chunklist.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEjm92BqFmF8X6RsAtZNWXXIEs3utdmrcOaHqVzHZWIjRqoFzoQjDSVsSfHALJFhWagoh3tTS1PGShqSZZmDbYr99RS5HVzQVxh7muokTFsBjbmKxP-QFROfd6B1GADONczrY0plw4nDyRtRlfiRtoxsEk_rPybJMDdQQqqzEuK-p_P9z_F057UyISYlvg=w89-h54", OZBURUN TV HD
 http://yilmaz.srfms.com:1935/yilmaz/livestream/chunklist_w1163224813.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-e2kXLLx6U56PhQvJaQ-tb9vtXVZkIDTdy56eiv7DPHM91ABJ_9ZkXkBG_n_fYt7cydygcvuZ2C_brht10EnMTOcWRti6pFZsjtWiGUvxMAJI_SQVjx5EN1RNBQYOKLl8z8TkWiclImJP36YY9ruDIZ8HTzrAmskmUs-pLCfrcRARuAnErXt8U1D48w/s150/ntn1.png", NTN YESiLCAM HD
@@ -192,8 +169,6 @@ https://clcmediatv.ozelip.com:3192/stream/play.m3u8
 #EXTINF:0,DÜZGÜN TV HD
 http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
 
-#EXTINF:0, CiNE 1 TV
-https://59cba4d34b678.streamlock.net/live/cine1/supersatforum_chunklist.m3u8
 #EXTINF:-1 TGRT EU group-title="ULUSAL-UHD", TGRT EU
 http://iptvmasterlink.dyndns.org:8080/TgrtEu/playlist.m3u8
 
@@ -366,6 +341,38 @@ http://135.125.234.9:8081/tele1/index.m3u8
 http://134.209.229.149/tv5tr/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://1.bp.blogspot.com/-EMwZw1FeRk8/YKoIB2zfiTI/AAAAAAAATuY/buvf1_ANh6YPp-1qG5godzqnqEWSvSvKACLcBGAsYHQ/s220/tv5tr.png", TV5 SD TR
 http://135.125.234.9:8081/tv5/index.m3u8
+
+#EXTINF:1,DOSTELİ TV
+http://91.134.203.253:30124/dost/dost/chunklist.m3u8
+
+#EXTINF:1,CEYHAN TV
+http://adana01.ozelip.com:26258/ceyhantv/ceyhantv/chunklist.m3u8
+
+
+#EXTINF:1,AKTUEL TV
+https://cdn-aktueltv.yayin.com.tr/aktueltv/aktueltv/chunklist_w851913770.m3u8
+
+#EXTINF:1,BURSAKTUEL TV
+http://hd9994.4kradyotv.com:26606/aktuel/aktuel/playlist.m3u8
+
+#EXTINF:1,LUGAT TV
+http://91.134.203.253:30124/lugat/lugat/playlist.m3u8
+
+#EXTINF:1,DADAŞ TV
+http://adana01.ozelip.com:26258/dadastv/dadastv/chunklist.m3u8
+
+#EXTINF:1,TACH TV
+https://live.tasc.tv:5443/LiveApp/streams/996700068960085406468141.m3u8
+
+#EXTINF:1,DERİN CEM TV
+http://adana01.ozelip.com:26258/derincemtv/derincemtv/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEi677HirxrOAgcd2LLCn0itdIWF84tqd7XZ2koLBUUqw123H0L2-n7QUo2t-EXPks5jiID1IUEAIblBBL4HbU0WxQs0u8Or5Mh6IAG8_awh_EcyYMJ-Oea9KzwddVn05glaLRmc9WVnBm-5Vx7lsECc_NWFRGJQt4OWpjZKc4jypzTI3mt5WfQDC9FHFQ=w134-h38", MMN TURK TV
+http://mmn.mypsx.net:1935/live/mmnhdradioturky/supersatforum_chunklist.m3u8
+
+#EXTINF:0, CiNE 1 TV
+https://59cba4d34b678.streamlock.net/live/cine1/supersatforum_chunklist.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://1.bp.blogspot.com/-A_LgNRVaWwI/YALg0jc-51I/AAAAAAAAQWc/6uv9TAxvjpUIkXCgoad5o9nN6qkLaW20wCLcBGAsYHQ/s320/TV100TR.png", TV 100 HD TR
 https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://1.bp.blogspot.com/-A_LgNRVaWwI/YALg0jc-51I/AAAAAAAAQWc/6uv9TAxvjpUIkXCgoad5o9nN6qkLaW20wCLcBGAsYHQ/s320/TV100TR.png", TV 100 HD YEDEK
