@@ -11,8 +11,8 @@ https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K UHD
 http://local.liveline.nu:2085/play/TRT1uhdlutfendeisme
 
-#EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K UHD
-http://local.liveline.nu:2085/play/TRT1uhdlutfendeisme
+#EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K FHD
+http://u1hlnkbw.russtv.net/iptv/EXZGX33VGKL8A9/4001/index.m3u8
 
 #EXTINF:0 tvg-rec="3",TRT 4K (UHD)
 http://u1hlnkbw.russtv.net/iptv/EXZGX33VGKL8A9/4001/index.m3u8
