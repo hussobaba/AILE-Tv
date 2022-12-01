@@ -45,6 +45,9 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/YansinemaTV/chunklist_w180625
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEiupZeNf5MHe9o4a6FK9Pa8-3XlltsiQCG1iTGYAc_7zl5ITt-LTYEX_RMkINV22HIxP2K1zWAkooSUGbDqAgedH81ud6KmiM-53CjeR-xg_8JsqwVT4abS9YEA6sNCDL4WfDe67A-3biq_jkmQ9f4pNQY2zDbRdlp3btJFOCMAkkXLYbCWCWiz_hPzww=w106-h56", iLK ZiRVE TV HD
 http://50.7.136.162:1935/canlitv/zirvetv/chunklist_w1585639788.m3u8
 
+#EXTINF:1,TV48
+https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
+
 #EXTINF:1,GOP SEN TV
 http://91.134.203.253:30124/gopsentv/gopsentv/chunklist.m3u8
 
@@ -96,6 +99,10 @@ https://mn-nl.mncdn.com/blutv_eurosport1/eurosport1_hd.smil/chunklist_b4128000.m
 https://mn-nl.mncdn.com/blutv_eurosport2/eurosport2_hd.smil/chunklist_b4128000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="http://www.tvada.net/images/logo.png?v=2", ADA TV NET HD
 https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
+
+#EXTINF:1,Akın Tv HD
+https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
+https://59cba4d34b678.streamlock.net/live/akintv/chunklist_w879138092.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTdra5VhvQt6rWI9IrgQDpQppmh4kqc088CXUk1XrDGM8POclMprjr3E_YKXKx2U9tKxUWkD7MCZE2FIAW0kPRF3-88y3-TSlNah2pcF9okJHkwip54nkuCm6KbDCZRRH-92QFomPNu8XKEpJRtBkU21WVLFJV3K0T2TCcSjYnLQ4l3hstzA2nfhr74g/s151/cine1.PNG", CiNE 1 TV
 https://59cba4d34b678.streamlock.net/live/cine1/supersatforum_chunklist.m3u8
