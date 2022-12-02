@@ -74,11 +74,50 @@ http://nrttn172.kesintisizyayin.com:29010/olay/olay/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://1.bp.blogspot.com/-wF5eNKY01xg/X6rpBQckirI/AAAAAAAAPp0/DV08ZjdaWlECc4-XCNqa6ATJJoy6moLKgCLcBGAsYHQ/s320/denizposta.png", DENiZ POSTASI TV
 http://yerelmedya.tv:1935/denizpostasitv/bant1/chunks.m3u8
 
-#EXTINF:1,FARK TÜRK
-http://91.134.203.253:30124/farkturktv/farkturktv/playlist.m3u8
+#EXTINF:1,OA TÜRK TV
+https://cdn-oatasoytv.yayin.com.tr/oatasoytv/oatasoytv/chunklist_w1997994159.m3u8
+
+#EXTINF:1,Yesil Karadeniz
+http://adana01.ozelip.com:26258/ykaradeniztv/ykaradeniztv/chunklist.m3u8
+
+#EXTINF:-1,ARIM BALIM PETEGIM
+http://vod02.cdn.web.tv/ax/08/ax08zs.../playlist.m3u8 (http://vod02.cdn.web.tv/ax/08/ax08zsbuioc_,720,.mp4.urlset/playlist.m3u8)
+
+#EXTINF:-1,YADELLER HD
+http://vod02.cdn.web.tv/is/to/istodk.../playlist.m3u8 (http://vod02.cdn.web.tv/is/to/istodk0jlai_,720,.mp4.urlset/playlist.m3u8)
+
+#EXTINF:-1,BATAN GÜNEŞ
+https://vod02.cdn.web.tv/c8/xe/c8xe6.../playlist.m3u8 (https://vod02.cdn.web.tv/c8/xe/c8xe6mbjb6w_,720,.mp4.urlset/playlist.m3u8)
+
+#EXTINF:-1,KUCUK SEVGILIM HD
+http://vod02.cdn.web.tv/6a/2y/6a2yqf.../playlist.m3u8 (http://vod02.cdn.web.tv/6a/2y/6a2yqfglggs_,720,.mp4.urlset/playlist.m3u8)
+
+#EXTINF:-1,ISTASYON TV
+http://vod02.cdn.web.tv/tk/xc/tkxcv7.../playlist.m3u8 (http://vod02.cdn.web.tv/tk/xc/tkxcv7gtbmm_,720,.mp4.urlset/playlist.m3u8)
+
+#EXTINF:-1,OYUN BITTI HD
+http://vod02.cdn.web.tv/6b/gc/6bgcg0.../playlist.m3u8 (http://vod02.cdn.web.tv/6b/gc/6bgcg0wjqho_,720,.mp4.urlset/playlist.m3u8)
+
+#EXTINF:-1,SATİN ALİNAN KOCA
+http://vod02.cdn.web.tv/l6/5q/l65qig.../playlist.m3u8 (http://vod02.cdn.web.tv/l6/5q/l65qigzmmcw_,720,.mp4.urlset/playlist.m3u8)
 
 #EXTINF:1, ELMAS TV 
 https://edge1.socialsmart.tv/elmastv/bant1/chunks.m3u8
+
+#EXTINF:1,O,A REFAHİYE 24 TV
+https://cdn-refahiye24tv.yayin.com.tr/refahiye24tv/refahiye24tv/chunklist_w112698784.m3u8
+
+#EXTINF:1, ADİGE TV 
+http://91.134.203.253:30124/tvadige/tvadige/playlist.m3u8
+
+#EXTINF:1, GOC TV 
+http://88.99.66.6:8080/50.7.136.162:1935/canlitv/goctv/index-3.m3u8
+
+#EXTINF:1,NEFES TV 
+https://kisiselvideo.stopvideodownload.com:8443/nefes/ngrp:live_all/chunklist_w908513740_b3163840.m3u8
+
+#EXTINF:1,HISTORY TV 
+http://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/chunks.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiXtvnB2Y-EpgRhg7-lrPLW63bO4eu6e55hpEUY6enrPZhDjIAUx_ZPq6njr_Zjp0_BG6xFMNsMP6CuCC7B8GTZwvpZQKSwwURT6aI5-B0jyFu9V2T5yDihQriPO-CX5ObpQUccQty2iLdLwQ0k9utaqnFdgUFpGjGYrKQVZ05wyb9lkeFoSpwmrHlMQ/w200-h33/AFYONTV.PNG", AFYON TURK HD
 http://134.209.229.149/afyonturktv/index.m3u8
