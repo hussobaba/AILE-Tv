@@ -66,7 +66,13 @@ http://50.7.136.162:1935/canlitv/yarentv/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://1.bp.blogspot.com/-wF5eNKY01xg/X6rpBQckirI/AAAAAAAAPp0/DV08ZjdaWlECc4-XCNqa6ATJJoy6moLKgCLcBGAsYHQ/s320/denizposta.png", DENiZ POSTASI TV
 http://yerelmedya.tv:1935/denizpostasitv/bant1/chunks.m3u8
 
-#EXTINF:1,OA TÜRK TV
+#EXTINF:1,CINE5 TV 
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
+
+#EXTINF:1,KOBiM TV HD
+http://cdn-kobimtv.yayin.com.tr/kobimtv/kobimtv/chunklist.m3u8
+
+#EXTINF:1,O,A TV
 https://cdn-oatasoytv.yayin.com.tr/oatasoytv/oatasoytv/chunklist_w1997994159.m3u8
 
 #EXTINF:1,Yesil Karadeniz
