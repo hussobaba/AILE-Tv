@@ -74,43 +74,16 @@ http://nrttn172.kesintisizyayin.com:29010/olay/olay/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://1.bp.blogspot.com/-wF5eNKY01xg/X6rpBQckirI/AAAAAAAAPp0/DV08ZjdaWlECc4-XCNqa6ATJJoy6moLKgCLcBGAsYHQ/s320/denizposta.png", DENiZ POSTASI TV
 http://yerelmedya.tv:1935/denizpostasitv/bant1/chunks.m3u8
 
-#EXTINF:1,OA TÜRK TV
-https://cdn-oatasoytv.yayin.com.tr/oatasoytv/oatasoytv/chunklist_w1997994159.m3u8
-
-#EXTINF:1,Yesil Karadeniz
-http://adana01.ozelip.com:26258/ykaradeniztv/ykaradeniztv/chunklist.m3u8
-
-#EXTINF:-1,ARIM BALIM PETEGIM
-http://vod02.cdn.web.tv/ax/08/ax08zs.../playlist.m3u8 (http://vod02.cdn.web.tv/ax/08/ax08zsbuioc_,720,.mp4.urlset/playlist.m3u8)
-
-#EXTINF:-1,YADELLER HD
-http://vod02.cdn.web.tv/is/to/istodk.../playlist.m3u8 (http://vod02.cdn.web.tv/is/to/istodk0jlai_,720,.mp4.urlset/playlist.m3u8)
-
-#EXTINF:-1,BATAN GÜNEŞ
-https://vod02.cdn.web.tv/c8/xe/c8xe6.../playlist.m3u8 (https://vod02.cdn.web.tv/c8/xe/c8xe6mbjb6w_,720,.mp4.urlset/playlist.m3u8)
-
-#EXTINF:-1,KUCUK SEVGILIM HD
-http://vod02.cdn.web.tv/6a/2y/6a2yqf.../playlist.m3u8 (http://vod02.cdn.web.tv/6a/2y/6a2yqfglggs_,720,.mp4.urlset/playlist.m3u8)
-
-#EXTINF:-1,ISTASYON TV
-http://vod02.cdn.web.tv/tk/xc/tkxcv7.../playlist.m3u8 (http://vod02.cdn.web.tv/tk/xc/tkxcv7gtbmm_,720,.mp4.urlset/playlist.m3u8)
-
-#EXTINF:-1,OYUN BITTI HD
-http://vod02.cdn.web.tv/6b/gc/6bgcg0.../playlist.m3u8 (http://vod02.cdn.web.tv/6b/gc/6bgcg0wjqho_,720,.mp4.urlset/playlist.m3u8)
-
-#EXTINF:-1,SATİN ALİNAN KOCA
-http://vod02.cdn.web.tv/l6/5q/l65qig.../playlist.m3u8 (http://vod02.cdn.web.tv/l6/5q/l65qigzmmcw_,720,.mp4.urlset/playlist.m3u8)
-
 #EXTINF:1,CINE5 TV 
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 
 #EXTINF:1,KOBiM TV HD
 http://cdn-kobimtv.yayin.com.tr/kobimtv/kobimtv/chunklist.m3u8
 
-#EXTINF:1,O,A TV
+#EXTINF:1,OA TV
 https://cdn-oatasoytv.yayin.com.tr/oatasoytv/oatasoytv/chunklist_w1997994159.m3u8
 
-#EXTINF:1,O,A REFAHİYE 24 TV
+#EXTINF:1,REFAHİYE 24 TV
 https://cdn-refahiye24tv.yayin.com.tr/refahiye24tv/refahiye24tv/chunklist_w112698784.m3u8
 
 #EXTINF:1, ADİGE TV 
@@ -119,7 +92,7 @@ http://91.134.203.253:30124/tvadige/tvadige/playlist.m3u8
 #EXTINF:1, GOC TV 
 http://88.99.66.6:8080/50.7.136.162:1935/canlitv/goctv/index-3.m3u8
 
-#EXTINF:1,NEFES TV 
+#EXTINF:1,NEFES 21 TV 
 https://kisiselvideo.stopvideodownload.com:8443/nefes/ngrp:live_all/chunklist_w908513740_b3163840.m3u8
 
 #EXTINF:1,HISTORY TV 
@@ -222,7 +195,8 @@ https://mn-nl.mncdn.com/blutv_play2_dvr/live.m3u8
 http://mn-nl.mncdn.com/blutv_play1/live_720p2000000kbps/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/6295d42d866ac31658881732?w=80&q=75", BLUPLAY 2 FHD
 http://mn-nl.mncdn.com/blutv_play2/live_720p2000000kbps/index.m3u8
-
+#EXTINF:1,Yesil Karadeniz
+http://adana01.ozelip.com:26258/ykaradeniztv/ykaradeniztv/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="40" group-title="4_COCUK_TV_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=40", CARTOON NETWORK
 http://ecanlitv3.etvserver.com/live_sd/cartoonnetwork/chunks.m3u8
 #EXTINF:0 type="stream" channelId="1096" group-title="4_COCUK_TV_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=1096", MiNiKA GO
