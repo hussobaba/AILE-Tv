@@ -1,0 +1,2 @@
+#EXTM3U8
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/teber/chunklist_w2090913015.m3u8
