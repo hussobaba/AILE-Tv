@@ -8,8 +8,14 @@ http://167.114.115.233:8080/trt2fhd/index.m3u8
 #EXTINF:0 type="stream" channelId="989" group="TEBER STAR MEDYA_iPTV_KANALLAR", TRT3 Türk
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K 
+#EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K UHD
 http://local.liveline.nu:2085/play/TRT1uhdlutfendeisme
+
+#EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K FHD
+http://u1hlnkbw.russtv.net/iptv/EXZGX33VGKL8A9/4001/index.m3u8
+
+#EXTINF:0 tvg-rec="3",TRT 4K (UHD)
+http://u1hlnkbw.russtv.net/iptv/EXZGX33VGKL8A9/4001/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1054" group="TEBER STAR MEDYA_iPTV_KANALLAR", TRT5 AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
@@ -19,75 +25,6 @@ https://waw3.artiyerelmedya.net/tivi6/bant1/chunks.m3u8
 
 #EXTINF:1,CHANNEL 6tv
 https://host.onlineradyotv.net:8081/channel6tv/index.m3u8
-
-#EXTINF:0 tvg-rec="3",Meltem TV 
-https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
-
-#EXTINF:-1 TGRT EU group-title="ULUSAL-UHD", TGRT EU
-http://iptvmasterlink.dyndns.org:8080/TgrtEu/playlist.m3u8
-
-#EXTINF:-1,ATV UHD
-http://u1hlnkbw.russtv.net/iptv/EXZGX33VGKL8A9/2261/index.m3u8
-
-#EXTINF:-1,A2
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001020/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001020&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#http://31.172.87.53:2200/TR-N/A2_HD-tr/index.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165|User-agent=REDLINECLIENT
-#https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8
-
-#EXTINF:1,A2
-http://u1hlnkbw.russtv.net/iptv/EXZGX33VGKL8A9/2260/index.m3u8
-
-#EXTINF:1, STAR TV 4K
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001226/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001226&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001226/sec-f5-v1-a1.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw%3D%3D&terminalflag=5&virtualDomain=001.live_hls.zte.com
-#http://31.172.87.53:2200/TR-N/Star_TV_HD-tr/tracks-v1a1/mono.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165|User-agent=REDLINECLIENT
-
-#EXTINF:0 tvg-rec="3",STAR TV UHD
-#EXTGRP:Турция | Türk
-http://u1hlnkbw.russtv.net/iptv/EXZGX33VGKL8A9/2274/index.m3u8
-
-#EXTINF:0 type="stream" channelId="3119" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-IFJJtdqvx9M/YI3eO_khbTI/AAAAAAAATRI/f0PKzmJl_YURx2cHfdzWcl7YdrphjKNkwCLcBGAsYHQ/s0/SHOW%2B-%2BKopya.png", SHOW TV HD
-https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
-#EXTINF:0 type="stream" channelId="208" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-aNHq9fXOobA/YI3eOUhdOEI/AAAAAAAATQ8/tudnxeQ3XuMwFqGfRXlu6ZUiWj-o3mUGQCLcBGAsYHQ/s0/FOX%2B-%2BKopya.png", FOX TV  HD
-https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
-#EXTINF:0 type="stream" channelId="208" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-aNHq9fXOobA/YI3eOUhdOEI/AAAAAAAATQ8/tudnxeQ3XuMwFqGfRXlu6ZUiWj-o3mUGQCLcBGAsYHQ/s0/FOX%2B-%2BKopya.png", FOX TV HD [OZEL]
-http://134.209.229.149/foxtvtrfhd/index.m3u8
-#EXTINF:0 type="stream" channelId="208" group-title="1_ULUSAL_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=208", FOX TV  HD YEDEK
-http://134.209.229.149/foxtv_backup/index.m3u8
-
-#EXTINF:0 type="stream" channelId="1045" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-IFJJtdqvx9M/YI3eO_khbTI/AAAAAAAATRI/f0PKzmJl_YURx2cHfdzWcl7YdrphjKNkwCLcBGAsYHQ/s0/SHOW%2B-%2BKopya.png",SHOW MAX HD 
-http://u1hlnkbw.russtv.net/iptv/EXZGX33VGKL8A9/6890/index.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_ULUSAL_KANALLAR" logo="https://www.tv4.com.tr/assets/img/tv4fav.png", TV4 HD TR
-https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-#EXTINF:-1,KANAL D 4K
-https://demiroren-live.daioncdn.net:443/kanald/kanald_1080p.m3u8
-#EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="ULUSAL-UHD",KANAL D HD
-http://195.189.62.147:8000/play/a036
-#EXTINF:-1,KANAL D DRAMA 4K
-http://146.59.19.1/5062/mpegts
-#EXTINF:0 tvg-rec="3",KANAL D world
-#EXTGRP:Германия | Germany
-https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8
-
-#EXTINF:0 type="stream" channelId="1941" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-y-JCN-jP-2o/YI3eOgNoDPI/AAAAAAAATRA/1WdyRekkY9Y1uhMB5Gr7fQOD9JuFhtpHgCLcBGAsYHQ/s0/KANAL7%2B-%2BKopya.png", KANAL 7 FHD
-http://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
-#EXTINF:0 tvg-rec="3",Kanal 7 Avrupa TR
-#EXTGRP:Турция | Türk
-http://u1hlnkbw.russtv.net/iptv/EXZGX33VGKL8A9/6905/index.m3u8
-
-#EXTINF:0 type="stream" channelId="1941" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-y-JCN-jP-2o/YI3eOgNoDPI/AAAAAAAATRA/1WdyRekkY9Y1uhMB5Gr7fQOD9JuFhtpHgCLcBGAsYHQ/s0/KANAL7%2B-%2BKopya.png", KANAL 7 Hz.Yusuf
-https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=6Wh2WqoppUg
-
-#EXTINF:0 type="stream" channelId="1076" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-GWmwAkiTtZg/YI3gWQsQSpI/AAAAAAAATR8/jM4xk3oIcDwNX6LWypePM-ZsC89xN3cdwCLcBGAsYHQ/s0/TV8.png", TV8 HD
-https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-
-#EXTINF:0 type="stream" channelId="3991" group-title="1_ULUSAL_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=3991", TV8_5 YEDEK
-http://ecanlitv4.etvserver.com/live_sd/tv85/chunks.m3u8
-#EXTINF:0 type="stream" channelId="18" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-RL3Nn27pxE0/YI3eNix6n9I/AAAAAAAATQs/Qpc_9jpoQD8ZqMHL7PBtNT5VNtKXWY6TwCLcBGAsYHQ/s0/BEYAZ%2B-%2BKopya.png", BEYAZ TV HD
-https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
-#EXTINF:0 type="stream" channelId="18" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-RL3Nn27pxE0/YI3eNix6n9I/AAAAAAAATQs/Qpc_9jpoQD8ZqMHL7PBtNT5VNtKXWY6TwCLcBGAsYHQ/s0/BEYAZ%2B-%2BKopya.png", BEYAZ TV HD YEDEK
-https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live_720p2000000kbps/index.m3u8
 
 #EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "Özel",TEBER STAR TV 
 https://live-server-2.splitstream.io/fe992241-c5b5-464d-a0b6-b9aa254d5ff6/tracks-v1a1/mono.m3u8
@@ -212,12 +149,826 @@ http://134.209.229.149/SATONTV_2_HD/index.m3u8
 http://134.209.229.149/cineplusyesilcam_hd/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVF-3C7hkSSsD5kv1I1DFGTywJ2rBZrH8_qhuzw8MM6w0IV_01jeDRUy3CeloO1C8zpS52U36wmdXsGyWVK6E89i6AzOPCxn8RUiwKpiEtplO7kAxLKQuVoEoX2URwiMThY1rMd7nvbEc5_sWf7jB7h9tsIfSYJ3O0lvD-v43KTHijZYnrkDFEMu89yg/w151-h78/cineyesilcam.png", CiNE+2 YESiLCAM HD
 http://134.209.229.149/cineplus2_yesilcam_hd/index.m3u8
+
+#EXTINF:-1,SALON 1 ☪ Malazgirt 1071 (2022)
+http://sinbox.pro:8080/casper01/H3g3gADDS2/93776
+#EXTINF:-1,SALON 2 ☪ Father Stu (2022)
+http://sinbox.pro:8080/casper01/H3g3gADDS2/93777
+#EXTINF:-1,SALON 3 ☪  Mualim (2022)
+http://sinbox.pro:8080/casper01/H3g3gADDS2/93778
+#EXTINF:-1,SALON 4 ☪  The Twin  (2022)
+http://sinbox.pro:8080/casper01/H3g3gADDS2/93779
+#EXTINF:-1,SALON 5 ☪  Sundown (2022)
+http://sinbox.pro:8080/casper01/H3g3gADDS2/93780
+#EXTINF:-1,SALON 6 ☪ Downton Abbey A New Era (2022)
+http://sinbox.pro:8080/casper01/H3g3gADDS2/93781
+#EXTINF:-1,SALON 7 ☪ Summering  (2022)
+http://sinbox.pro:8080/casper01/H3g3gADDS2/93782
+#EXTINF:-1,SALON 8 ☪  The Adventures of Mai Marian  (2022)
+http://sinbox.pro:8080/casper01/H3g3gADDS2/93783
+#EXTINF:-1,SALON 9 ☪ Hayaller Diyari  (2022)
+http://sinbox.pro:8080/casper01/H3g3gADDS2/93784
+#EXTINF:-1,SALON 10 ☪ Villada Aşk (2022)
+http://sinbox.pro:8080/casper01/H3g3gADDS2/93785
+#EXTINF:-1,VIZYON ☪ HAZIRAN ✦INFO
+http://sinbox.pro:8080/casper01/H3g3gADDS2/95132
+#EXTINF:-1,SALON 1 ☪ Morbius (2022) ✦
+http://sinbox.pro:8080/casper01/H3g3gADDS2/95133
+#EXTINF:-1,SALON 2 ☪ Till Death (2021) ✦
+http://sinbox.pro:8080/casper01/H3g3gADDS2/95134
+#EXTINF:-1,SALON 3 ☪ Ida Red (2021) ✦
+http://sinbox.pro:8080/casper01/H3g3gADDS2/95135
+#EXTINF:-1,SALON 4 ☪ Shattered (2022) ✦
+http://sinbox.pro:8080/casper01/H3g3gADDS2/95136
+#EXTINF:-1,SALON 5 ☪ The Valet (2022) ✦
+http://sinbox.pro:8080/casper01/H3g3gADDS2/95137
+#EXTINF:-1,SALON 6 ☪ Uncharted (2022) ✦
+http://sinbox.pro:8080/casper01/H3g3gADDS2/95138
+#EXTINF:-1,SALON 7 ☪ Umma (2022) ✦
+http://sinbox.pro:8080/casper01/H3g3gADDS2/95139
+#EXTINF:-1,SALON 8 ☪ Koridor (2022) ✦
+http://sinbox.pro:8080/casper01/H3g3gADDS2/95140
+#EXTINF:-1,SALON 9  ☪ The Takedown (2022) ✦
+http://sinbox.pro:8080/casper01/H3g3gADDS2/95141
+#EXTINF:-1,SALON 10  ☪ Emergency (2022) ✦
+http://sinbox.pro:8080/casper01/H3g3gADDS2/95142
+#EXTINF:-1,ÇOCUK ☪ HAZIRAN ✦ INFO
+http://sinbox.pro:8080/casper01/H3g3gADDS2/95143
+#EXTINF:-1,SALON 1 ☪ Pişiriciler (2022) ✦
+http://sinbox.pro:8080/casper01/H3g3gADDS2/95144
+#EXTINF:-1,SALON 2 ☪ PAW Patrol (2022) ✦
+http://sinbox.pro:8080/casper01/H3g3gADDS2/95145
+#EXTINF:-1,SALON 3 ☪ Fok Birligi (2022) ✦
+http://sinbox.pro:8080/casper01/H3g3gADDS2/95146
+#EXTINF:-1,SALON 4 ☪ Süper Öcüler (2022) ✦
+http://sinbox.pro:8080/casper01/H3g3gADDS2/95147
+#EXTINF:-1,SALON 5 ☪ Süper Ayı (2022) ✦
+http://sinbox.pro:8080/casper01/H3g3gADDS2/95148
+#EXTINF:-1,SALON 6 ☪ Superman (2022) ✦
+http://sinbox.pro:8080/casper01/H3g3gADDS2/95149
+#EXTINF:-1,SALON 7 ☪ Süper Ajanlar (2022) ✦
+http://sinbox.pro:8080/casper01/H3g3gADDS2/95150
+#EXTINF:-1,SALON 8 ☪ Ugly Dolls (2022) ✦
+http://sinbox.pro:8080/casper01/H3g3gADDS2/95151
+#EXTINF:-1,SALON 9 ☪ The Addams Family (2022) ✦
+http://sinbox.pro:8080/casper01/H3g3gADDS2/95152
+#EXTINF:-1,SALON 10 ☪ Süper Öcüler Yeni Sınıf (2022) ✦
+http://sinbox.pro:8080/casper01/H3g3gADDS2/95153
+#EXTINF:-1,VIZYON ☪ TEMMUZ ✦INFO
+http://sinbox.pro:8080/casper01/H3g3gADDS2/103185
+#EXTINF:-1,SALON 1 ☪ Zoraki Misafir (2022) ✦
+http://sinbox.pro:8080/casper01/H3g3gADDS2/103186
+#EXTINF:-1,SALON 2 ☪ Karışma Bende  (2022) ✦
+http://sinbox.pro:8080/casper01/H3g3gADDS2/103187
+#EXTINF:-1,SALON 3 ☪ Aşkın Kıyameti (2022) ✦
+http://sinbox.pro:8080/casper01/H3g3gADDS2/103188
+#EXTINF:-1,SALON 4 ☪  Sex  Appeal (2022) ✦
+http://sinbox.pro:8080/casper01/H3g3gADDS2/103189
+#EXTINF:-1,SALON 5 ☪ Tethered (2022) ✦
+http://sinbox.pro:8080/casper01/H3g3gADDS2/103190
+#EXTINF:-1,SALON 6 ☪ Çığlık (2022)✦
+http://sinbox.pro:8080/casper01/H3g3gADDS2/103191
+#EXTINF:-1,SALON 7 ☪  Oğul (2021) ✦
+http://sinbox.pro:8080/casper01/H3g3gADDS2/103192
+#EXTINF:-1,SALON 8 ☪ Son Hesap (2021) ✦
+http://sinbox.pro:8080/casper01/H3g3gADDS2/103193
+#EXTINF:-1,SALON 9  ☪ Son Görev (2021) ✦
+http://sinbox.pro:8080/casper01/H3g3gADDS2/103194
+#EXTINF:-1,SALON 10  ☪ Yıldız Kız (2021)✦
+http://sinbox.pro:8080/casper01/H3g3gADDS2/103195
+#EXTINF:-1, INFO ✦  Dezember ✦  VISION 2022
+http://sinbox.pro:8080/casper01/H3g3gADDS2/103196
+#EXTINF:-1,VISION 1 ✦ Black Adam ✦ (2022)
+http://sinbox.pro:8080/casper01/H3g3gADDS2/103197
+#EXTINF:-1,VISION 2 ✦ The Noel Diary ✦ (2022)
+http://sinbox.pro:8080/casper01/H3g3gADDS2/103198
+#EXTINF:-1,VISION 3 ✦ Poker Face  ✦ (2022)
+http://sinbox.pro:8080/casper01/H3g3gADDS2/103199
+#EXTINF:-1,VISION 4 ✦ Exploited ✦ (2022)
+http://sinbox.pro:8080/casper01/H3g3gADDS2/103200
+#EXTINF:-1,VISION 5 ✦ Shadow Master ✦ (2022)
+http://sinbox.pro:8080/casper01/H3g3gADDS2/103201
+#EXTINF:-1,VISION 6 ✦ Stundenplan ✦ (2022)
+http://sinbox.pro:8080/casper01/H3g3gADDS2/103202
+#EXTINF:-1,VISION 7 ✦ Into the Deep✦ (2022)
+http://sinbox.pro:8080/casper01/H3g3gADDS2/103203
+#EXTINF:-1,VISION 8 ✦ Die Schwimmerinnen ✦ (2022)
+http://sinbox.pro:8080/casper01/H3g3gADDS2/103204
+#EXTINF:-1,VISION 9 ✦ Das Leben ein Tanz✦ (2022)
+http://sinbox.pro:8080/casper01/H3g3gADDS2/103205
+#EXTINF:-1,VISION 10 ✦ Armageddon Time ✦ (2022)
+http://sinbox.pro:8080/casper01/H3g3gADDS2/103206
+#EXTINF:-1,BEIN BOX OFFICE 1 FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/120825
+#EXTINF:-1,BEIN BOX OFFICE 2 FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/120826
+#EXTINF:-1,BEIN MOVIES ACTION FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/120828
+#EXTINF:-1,BEIN MOVIES ACTION 2 FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/120829
+#EXTINF:-1,BEIN MOVIES STARS FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/120830
+#EXTINF:-1,BEIN MOVIES TURK HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/120831
+#EXTINF:-1,BEIN MOVIES FAMILY FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/120832
+#EXTINF:-1,BEIN MOVIES PREMIER FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/120834
+#EXTINF:-1,BEIN MOVIES PREMIER HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/120835
+#EXTINF:-1,BEIN MOVIES PREMIERE 2 FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/120836
+#EXTINF:-1,FX HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/120845
+#EXTINF:-1,FOX CRIME HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/120847
+#EXTINF:-1,MOVIE SMART TURK FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/120852
+#EXTINF:-1,MOVIE SMART CLASSIC FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/120853
+#EXTINF:-1,MOVIE SMART CLASSİC HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/120854
+#EXTINF:-1,DIZI SMART PREMIUM FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/120856
+#EXTINF:-1,SINEMA TV HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/120858
+#EXTINF:-1,SINEMA TV YERLI FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/120862
+#EXTINF:-1,SINEMA TV AILE 2 FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/120866
+#EXTINF:-1,SINEMA TV AILE 2 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/120867
+#EXTINF:-1,SINEMA TV AKSIYON 2 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/120871
+#EXTINF:-1,SINEMA TV KOMEDI FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/120872
+#EXTINF:-1,SINEMA TV KOMEDI 2 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/120875
+#EXTINF:-1,Sinema TV HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125657
+#EXTINF:-1,Sinema TV 1 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125658
+#EXTINF:-1,Sinema TV 2 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125659
+#EXTINF:-1,Sinema TV Yerli 1 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125660
+#EXTINF:-1,Sinema TV Yerli 2 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125661
+#EXTINF:-1,Sinema TV Aksiyon 1 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125662
+#EXTINF:-1,Sinema TV Aile 1 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125663
+#EXTINF:-1,Sinema TV 1001 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125664
+#EXTINF:-1,SInema TV 1002 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125665
+#EXTINF:-1,beIN Movies Türk
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125666
+#EXTINF:-1,beiN Movies Premiere
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125667
+#EXTINF:-1,beiN Movies Premiere 2
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125668
+#EXTINF:-1,beIN  Box Office 3 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125669
+#EXTINF:-1,beIN Movies c HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125670
+#EXTINF:-1,beIN Series Comedy HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125671
+#EXTINF:-1,beIN Series Drama HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125672
+#EXTINF:-1,beIN Series Vice HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125673
+#EXTINF:-1,beIN Series Sci-Fi HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125674
+#EXTINF:-1,beiN Gurme
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125675
+#EXTINF:-1,Sinema  TV 1001 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125677
+#EXTINF:-1,Sinema TV Komedi 1
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125678
+#EXTINF:-1,Sinema Komedi 2 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125679
+#EXTINF:-1,Smart Çocuk HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125681
+#EXTINF:-1,Anonym TV Türk HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125713
+#EXTINF:-1,Anonym TV Vizyon HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125714
+#EXTINF:-1,Anonym TV Vizyon 2 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125715
+#EXTINF:-1,Anonym Tv Cüneyt Arkın HD 1
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125716
+#EXTINF:-1,Anonym Tv Cüneyt Arkın HD 2
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125717
+#EXTINF:-1,Anonym TV Sosyal Terapi
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125718
+#EXTINF:-1,Anonym TV Barış Özcan
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125719
+#EXTINF:-1,Anonym TV Onedio Yemek
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125720
+#EXTINF:-1,Anonym TV Onedio
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125721
+#EXTINF:-1,Anonym TV Düğün
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125722
+#EXTINF:-1,Anonym TV Hayrettin
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125723
+#EXTINF:-1,Anonym TV Doğan Kabak
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125724
+#EXTINF:-1,Anonym TV Doğan Şamil
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125725
+#EXTINF:-1,Anonym TV Otomatik Oynat
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125726
+#EXTINF:-1,Anonym TV Freekickerz
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125727
+#EXTINF:-1,Anonym TV BuNeLa
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125728
+#EXTINF:-1,Anonym TV Tepkikolik
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125729
+#EXTINF:-1,Anonym TV Kişisel Gelişim
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125730
+#EXTINF:-1,Anonym TV Boeing
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125731
+#EXTINF:-1,Anonym TV Sıla Yolu
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125732
+#EXTINF:-1,Anonym TV Sokak Röportajları
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125733
+#EXTINF:-1,Anonym TV Sosyal Deneyler
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125734
+#EXTINF:-1,Anonym TV Tiktok
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125735
+#EXTINF:-1,Anonym TV Premiere HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125736
+#EXTINF:-1,Anonym TV 3D
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125737
+#EXTINF:-1,Anonym TV 4K Sinema HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125738
+#EXTINF:-1,Anonym TV Aksiyon Sinema HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125739
+#EXTINF:-1,Anonym TV Komedi Sinema HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125740
+#EXTINF:-1,Anonym TV Kovboy Sinema HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125741
+#EXTINF:-1,Anonym TV Netflix Sinema HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125742
+#EXTINF:-1,Anonym TV Bilimkurgu Sinema HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125743
+#EXTINF:-1,Anonym TV H265 Sinema HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125744
+#EXTINF:-1,Anonym TV Aile
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125745
+#EXTINF:-1,Anonym TV Ask Romantik
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125746
+#EXTINF:-1,Anonym TV Cem Yılmaz
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125747
+#EXTINF:-1,Anonym TV Zeki Metin
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125748
+#EXTINF:-1,Anonym TV Yılmaz Güney HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125749
+#EXTINF:-1,Anonym TV  Şener Şen HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125750
+#EXTINF:-1,Anonym TV Yeşilçam Sinema 1 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125751
+#EXTINF:-1,Anonym TV Yeşilçam Sinema 2 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125752
+#EXTINF:-1,Anonym TV Müjdat Gezen
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125753
+#EXTINF:-1,Anonym TV Çocuk Animasyon
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125754
+#EXTINF:-1,Anonym TV İbrahim TATLISES HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125755
+#EXTINF:-1,Anonym TV Kadir İNANIR HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125756
+#EXTINF:-1,Anonym TV Tarık AKAN HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125757
+#EXTINF:-1,Anonym TV Öztürk SERENGİL HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125758
+#EXTINF:-1,Anonym TV Aydemir  Akbaş
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125759
+#EXTINF:-1,Anonym TV Ferdi Tayfur
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125760
+#EXTINF:-1,Anonym TV İlyas Salman
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125761
+#EXTINF:-1,Anonym TV Müjde AR
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125762
+#EXTINF:-1,Anonym TV Recep İvedik
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125763
+#EXTINF:-1,Anonym TV Sadri Alışık
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125764
+#EXTINF:-1,Anonym TV Şener Şen
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125765
+#EXTINF:-1,Anonym TV Türkan Şoray
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125766
+#EXTINF:-1,Anonym TV Safak Sezer HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125767
+#EXTINF:-1,Anonym TV Konuşanlar
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125768
+#EXTINF:-1,Anonym TV Stalk Show
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125769
+#EXTINF:-1,Anonym TV TolgShow Filtresiz
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125770
+#EXTINF:-1,Anonym TV Exxen
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125771
+#EXTINF:-1,Anonym TV Exxen 2
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125772
+
+#EXTINF:-1,★✦★ COCUK ★✦★
+http://sinbox.pro:8080/casper01/H3g3gADDS2/121745
+#EXTINF:-1,TRT COCUK
+http://sinbox.pro:8080/casper01/H3g3gADDS2/121746
+#EXTINF:-1,BABY TV
+http://sinbox.pro:8080/casper01/H3g3gADDS2/121747
+#EXTINF:-1,NICK JR
+http://sinbox.pro:8080/casper01/H3g3gADDS2/121748
+#EXTINF:-1,NICKELODEON
+http://sinbox.pro:8080/casper01/H3g3gADDS2/121750
+#EXTINF:-1,BOOMERANG
+http://sinbox.pro:8080/casper01/H3g3gADDS2/121751
+#EXTINF:-1,CARTOON NETWORK HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/121752
+#EXTINF:-1,DISNEY JR
+http://sinbox.pro:8080/casper01/H3g3gADDS2/121753
+#EXTINF:-1,MINICA GO
+http://sinbox.pro:8080/casper01/H3g3gADDS2/121754
+#EXTINF:-1,MINIKA COCUK
+http://sinbox.pro:8080/casper01/H3g3gADDS2/121755
+#EXTINF:-1,CBEEBIES
+http://sinbox.pro:8080/casper01/H3g3gADDS2/121756
+#EXTINF:-1,SMART COCUK
+http://sinbox.pro:8080/casper01/H3g3gADDS2/121757
+#EXTINF:-1,KUKULI 1
+http://sinbox.pro:8080/casper01/H3g3gADDS2/121758
+#EXTINF:-1,KUKULI 2
+http://sinbox.pro:8080/casper01/H3g3gADDS2/121759
+#EXTINF:-1,NILOYA 1
+http://sinbox.pro:8080/casper01/H3g3gADDS2/121760
+#EXTINF:-1,NILOYA 2
+http://sinbox.pro:8080/casper01/H3g3gADDS2/121761
+#EXTINF:-1,PIJAMASKELILER 1
+http://sinbox.pro:8080/casper01/H3g3gADDS2/121762
+#EXTINF:-1,PIJAMASKELILER 2
+http://sinbox.pro:8080/casper01/H3g3gADDS2/121763
+#EXTINF:-1,RAFADAN TAYFA 1
+http://sinbox.pro:8080/casper01/H3g3gADDS2/121764
+#EXTINF:-1,RAFADAN TAYFA 2
+http://sinbox.pro:8080/casper01/H3g3gADDS2/121765
+#EXTINF:-1,LIMON ILE ZEYTIN 1
+http://sinbox.pro:8080/casper01/H3g3gADDS2/121766
+#EXTINF:-1,LIMON ILE ZEYTIN 2
+http://sinbox.pro:8080/casper01/H3g3gADDS2/121767
+#EXTINF:-1,TOM VE JERRY
+http://sinbox.pro:8080/casper01/H3g3gADDS2/121769
+#EXTINF:-1,SIRINLER
+http://sinbox.pro:8080/casper01/H3g3gADDS2/121770
+#EXTINF:-1,PEMBE PANTER
+http://sinbox.pro:8080/casper01/H3g3gADDS2/121771
+#EXTINF:-1,TEN TEN
+http://sinbox.pro:8080/casper01/H3g3gADDS2/121772
+#EXTINF:-1,BOOBA
+http://sinbox.pro:8080/casper01/H3g3gADDS2/121773
+#EXTINF:-1,COCUK 1
+http://sinbox.pro:8080/casper01/H3g3gADDS2/121774
+#EXTINF:-1,COCUK 2
+http://sinbox.pro:8080/casper01/H3g3gADDS2/121775
+#EXTINF:-1,ANIMASYON 1
+http://sinbox.pro:8080/casper01/H3g3gADDS2/121776
+#EXTINF:-1,ANIMASYON 2
+http://sinbox.pro:8080/casper01/H3g3gADDS2/121777
+#EXTINF:-1,ANIMASYON 3
+http://sinbox.pro:8080/casper01/H3g3gADDS2/121778
+#EXTINF:-1,ANIMASYON 4
+http://sinbox.pro:8080/casper01/H3g3gADDS2/121779
+#EXTINF:-1,ANIMASYON 5
+http://sinbox.pro:8080/casper01/H3g3gADDS2/121780
+#EXTINF:-1,★✦★ COCUK ★✦★
+http://sinbox.pro:8080/casper01/H3g3gADDS2/100920
+#EXTINF:-1,TRT Cocuk FullHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/101111
+#EXTINF:-1,Disney Channel HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/101112
+#EXTINF:-1,Cbeebies HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/101113
+#EXTINF:-1,Minika  Cocuk
+http://sinbox.pro:8080/casper01/H3g3gADDS2/101114
+#EXTINF:-1,Minika Go HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/101115
+#EXTINF:-1,Nickelodeon HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/101116
+#EXTINF:-1,Boomerang HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/101117
+#EXTINF:-1,Cartoon Network HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/101118
+#EXTINF:-1,Da Vinci Kids HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/101119
+#EXTINF:-1,Movie Smart Cocuk
+http://sinbox.pro:8080/casper01/H3g3gADDS2/101120
+#EXTINF:-1,Disney XD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/101121
+#EXTINF:-1,Nick Junior
+http://sinbox.pro:8080/casper01/H3g3gADDS2/101122
+#EXTINF:-1,Disney Junior
+http://sinbox.pro:8080/casper01/H3g3gADDS2/101123
+#EXTINF:-1,Baby TV
+http://sinbox.pro:8080/casper01/H3g3gADDS2/101124
+#EXTINF:-1,TR: TRT COCUK HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/101128
+#EXTINF:-1,Smart Cocuk HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/101129
+#EXTINF:-1,TRT COCUK
+http://sinbox.pro:8080/casper01/H3g3gADDS2/100921
+#EXTINF:-1,BABY TV
+http://sinbox.pro:8080/casper01/H3g3gADDS2/100922
+-----SPOR SİMBA---
+
 #EXTINF:1,TR SPOR TV
 http://37.221.121.137:6060/hls/trspor/index.m3u8
 #EXTINF:0 type="stream" channelId="225" group-title="2_OZEL_iPTV_KANALLAR_1" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=225", EUROSPORT 1 HD [BLU]
 https://mn-nl.mncdn.com/blutv_eurosport1/eurosport1_hd.smil/chunklist_b4128000.m3u8
 #EXTINF:0 type="stream" channelId="83" group-title="2_OZEL_iPTV_KANALLAR_1" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=83", EUROSPORT 2 HD [BLU]
 https://mn-nl.mncdn.com/blutv_eurosport2/eurosport2_hd.smil/chunklist_b4128000.m3u8
+
+#EXTINF:-1,BEIN SPORTS 1 FHD (TR)
+http://sinbox.pro:8080/casper01/H3g3gADDS2/87374
+#EXTINF:-1,TR: beIN SPORTS 1 HEVC
+http://sinbox.pro:8080/casper01/H3g3gADDS2/85723
+#EXTINF:-1,TR: beIN SPORTS 1 HD*
+http://sinbox.pro:8080/casper01/H3g3gADDS2/106323
+#EXTINF:-1,BeIN Sports 1 Full HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/122364
+#EXTINF:-1,BEİN SPORT FHD (Almanya için)
+http://sinbox.pro:8080/casper01/H3g3gADDS2/109542
+#EXTINF:-1,TR: BEIN SPORTS 1 HD+
+http://sinbox.pro:8080/casper01/H3g3gADDS2/67394
+#EXTINF:-1,TR: BEIN SPORTS 1 TTNET
+http://sinbox.pro:8080/casper01/H3g3gADDS2/67397
+#EXTINF:-1,BEIN SPORTS 1 HEVC
+http://sinbox.pro:8080/casper01/H3g3gADDS2/87139
+#EXTINF:-1,TR: bEIN SPORTS 1 FHD+
+http://sinbox.pro:8080/casper01/H3g3gADDS2/106322
+#EXTINF:-1,BEIN SPORTS 2 HD (TR)
+http://sinbox.pro:8080/casper01/H3g3gADDS2/87375
+#EXTINF:-1,BEIN SPORTS 3 HD (TR)
+http://sinbox.pro:8080/casper01/H3g3gADDS2/87376
+#EXTINF:-1,BEIN SPORTS 4 HD (TR)
+http://sinbox.pro:8080/casper01/H3g3gADDS2/87377
+#EXTINF:-1,TR : BEIN SPORTS 5 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/117209
+#EXTINF:-1,TR : BEIN SPORTS 5 FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/124288
+#EXTINF:-1,TR : BEIN SPORTS 5 
+http://sinbox.pro:8080/casper01/H3g3gADDS2/124289
+#EXTINF:-1,TR: BEIN SPORTS 1 MOBILE
+http://sinbox.pro:8080/casper01/H3g3gADDS2/67396
+#EXTINF:-1,TR: BEIN SPORTS 2 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/67400
+#EXTINF:-1,TR: BEIN SPORTS 3 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/67402
+#EXTINF:-1,TR: BEIN SPORTS MAX 1 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/67406
+#EXTINF:-1,TR: BEIN SPORTS MAX 2 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/67408
+#EXTINF:-1,TR: bEIN SPORTS MAX 1 FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/106335
+#EXTINF:-1,TR: bEIN SPORTS MAX 2 FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/106336
+#EXTINF:-1,TR: BEIN SPORTS MAX 1 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/1138
+#EXTINF:-1,TR: BEIN SPORTS HABER HEVC
+http://sinbox.pro:8080/casper01/H3g3gADDS2/67387
+#EXTINF:-1,TR: BEIN SPORTS HABER HD+
+http://sinbox.pro:8080/casper01/H3g3gADDS2/67388
+#EXTINF:-1,TR: BEIN SPORTS HABER HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/67389
+#EXTINF:-1,TR: BEIN SPORTS 1 HEVC
+http://sinbox.pro:8080/casper01/H3g3gADDS2/67393
+#EXTINF:-1,TR: BEIN SPORTS 1 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/67395
+#EXTINF:-1,TR: BEIN SPORTS 2 HEVC
+http://sinbox.pro:8080/casper01/H3g3gADDS2/67398
+#EXTINF:-1,TR: BEIN SPORTS 2 HD+
+http://sinbox.pro:8080/casper01/H3g3gADDS2/67399
+#EXTINF:-1,TR: BEIN SPORTS 3 HD+
+http://sinbox.pro:8080/casper01/H3g3gADDS2/67401
+#EXTINF:-1,TR: BEIN SPORTS 4 HD+
+http://sinbox.pro:8080/casper01/H3g3gADDS2/67403
+#EXTINF:-1,TR: BEIN SPORTS 4 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/67404
+#EXTINF:-1,TR: BEIN SPORTS MAX 1 HD+
+http://sinbox.pro:8080/casper01/H3g3gADDS2/67405
+#EXTINF:-1,TR: BEIN SPORTS MAX 2 HD+
+http://sinbox.pro:8080/casper01/H3g3gADDS2/67407
+#EXTINF:-1,TR: bEIN SPORTS 1 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/106324
+#EXTINF:-1,TR: bEIN SPORTS 1 SD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/106325
+#EXTINF:-1,TR: bEIN SPORTS 2 FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/106326
+#EXTINF:-1,TR: bEIN SPORTS 2 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/106327
+#EXTINF:-1,TR: bEIN SPORTS 2 SD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/106328
+#EXTINF:-1,TR: bEIN SPORTS 3 FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/106329
+#EXTINF:-1,TR: bEIN SPORTS 3 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/106330
+#EXTINF:-1,TR: bEIN SPORTS 3 SD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/106331
+#EXTINF:-1,TR: bEIN SPORTS 4 FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/106332
+#EXTINF:-1,TR: bEIN SPORTS 4 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/106333
+#EXTINF:-1,TR: bEIN SPORTS 4 SD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/106334
+#EXTINF:-1,beIN Sports 1 (DigiPlay Avrupa)
+http://sinbox.pro:8080/casper01/H3g3gADDS2/122365
+#EXTINF:-1,beIN Connect 1 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/122366
+#EXTINF:-1,beIN Connect 2 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/122367
+#EXTINF:-1,beIN Connect 3 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/122368
+#EXTINF:-1,beIN Connect 4 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/122369
+#EXTINF:-1,beIN Connect 5 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/122370
+#EXTINF:-1,beIN Connect 6 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/122371
+#EXTINF:-1,beIN  Sports Haber
+http://sinbox.pro:8080/casper01/H3g3gADDS2/122372
+#EXTINF:-1,beIN  Sports 2
+http://sinbox.pro:8080/casper01/H3g3gADDS2/122373
+#EXTINF:-1,beIN  Sports 3
+http://sinbox.pro:8080/casper01/H3g3gADDS2/122374
+#EXTINF:-1,beIN  Sports 4
+http://sinbox.pro:8080/casper01/H3g3gADDS2/122375
+#EXTINF:-1,beIN Sports 1 SD 480p
+http://sinbox.pro:8080/casper01/H3g3gADDS2/122376
+#EXTINF:-1,TR: S SPORT 1 Hevc
+http://sinbox.pro:8080/casper01/H3g3gADDS2/23306
+#EXTINF:-1,TR: S-SPORT 1+ FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/106666
+#EXTINF:-1,TR: S-SPORT 1 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/106667
+#EXTINF:-1,TR: S-SPORT 2 FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/106668
+#EXTINF:-1,TR: S-SPORT 2 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/106669
+#EXTINF:-1,SPOR SMART 2 HD+
+http://sinbox.pro:8080/casper01/H3g3gADDS2/78501
+#EXTINF:-1,SPOR SMART 2 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/78502
+#EXTINF:-1,TR: S SPORT HD 
+http://sinbox.pro:8080/casper01/H3g3gADDS2/6661
+#EXTINF:-1,TR: S SPORT 2 FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/9751
+#EXTINF:-1,TR: S SPORT 1 HD+ (MAC ZAMANI)
+http://sinbox.pro:8080/casper01/H3g3gADDS2/44626
+#EXTINF:-1,TR: S SPORT 2 HD+ (MAC ZAMANI)
+http://sinbox.pro:8080/casper01/H3g3gADDS2/78515
+#EXTINF:-1,TR: S SPORT 3 HD+ 
+http://sinbox.pro:8080/casper01/H3g3gADDS2/78516
+#EXTINF:-1,TR: S SPORT 5 HD+ (MAC ZAMANI)
+http://sinbox.pro:8080/casper01/H3g3gADDS2/78518
+#EXTINF:-1,TR: S SPORT 1 Full HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/49111
+#EXTINF:-1,TR: S SPORT 2 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/49119
+#EXTINF:-1,S SPORT HD 
+http://sinbox.pro:8080/casper01/H3g3gADDS2/49132
+#EXTINF:-1,S SPORT 2 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/78498
+#EXTINF:-1,SPOR SMART 2 FHD (TR)
+http://sinbox.pro:8080/casper01/H3g3gADDS2/87379
+#EXTINF:-1,S SPORT 1 HD (TR)
+http://sinbox.pro:8080/casper01/H3g3gADDS2/87383
+#EXTINF:-1,S SPORT 1 FHD (TR)
+http://sinbox.pro:8080/casper01/H3g3gADDS2/87384
+#EXTINF:-1,TR: SPORT SMART 2 FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/106673
+#EXTINF:-1,TR: TRT SPOR YILDIZ FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/106674
+#EXTINF:-1,TR: TRT SPOR YILDIZ HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/106675
+#EXTINF:-1,TR: TRT SPOR FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/106676
+#EXTINF:-1,TR: TRT SPOR HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/106677
+#EXTINF:-1,TR: A SPOR FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/106678
+#EXTINF:-1,TR: A SPOR HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/106679
+#EXTINF:-1,TR: EUROSPORT 1 FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/106680
+#EXTINF:-1,TR: EUROSPORT 2 FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/106681
+#EXTINF:-1,TR: FIGHTBOX FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/106682
+#EXTINF:-1,TR: NBA TV FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/106683
+#EXTINF:-1,TR: NBA TV HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/106684
+#EXTINF:-1,TR: SPORTSTV HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/106685
+#EXTINF:-1,TR: FB TV  HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/106686
+#EXTINF:-1,TR: GS TV HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/106687
+#EXTINF:-1,TR: TJK TV HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/106688
+#EXTINF:-1,TIVIBUSPOR 1 FHD (TR)
+http://sinbox.pro:8080/casper01/H3g3gADDS2/87380
+#EXTINF:-1,TIVIBUSPOR 2  FHD (TR)
+http://sinbox.pro:8080/casper01/H3g3gADDS2/87381
+#EXTINF:-1,TIVIBUSPOR 3 FHD (TR)
+http://sinbox.pro:8080/casper01/H3g3gADDS2/87382
+#EXTINF:-1,TIVIBUSPOR 1 HD+
+http://sinbox.pro:8080/casper01/H3g3gADDS2/78504
+#EXTINF:-1,TIVIBUSPOR 1 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/78505
+#EXTINF:-1,TIVIBUSPOR 2 HD+
+http://sinbox.pro:8080/casper01/H3g3gADDS2/78506
+#EXTINF:-1,TR : TIVIBUSPOR 2 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/78507
+#EXTINF:-1,TIVIBUSPOR 3 HD+
+http://sinbox.pro:8080/casper01/H3g3gADDS2/78508
+#EXTINF:-1,TIVIBUSPOR 3 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/78509
+#EXTINF:-1,TIVIBUSPOR 4 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/78510
+#EXTINF:-1,TR: TIVIBU SPOR 1 FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/11334
+#EXTINF:-1,TR: TIVIBU SPOR 2 FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/4714
+#EXTINF:-1,TR: Tivibu Spor 1
+http://sinbox.pro:8080/casper01/H3g3gADDS2/1762
+#EXTINF:-1,TR: Tivibu Spor 2 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/1763
+#EXTINF:-1,TR: TIVIBU SPOR 3 FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/23309
+#EXTINF:-1,TR: Tivibu Spor 3 Hd
+http://sinbox.pro:8080/casper01/H3g3gADDS2/13196
+#EXTINF:-1,TR: TiViBU SPOR 1 HD (1920X1080)
+http://sinbox.pro:8080/casper01/H3g3gADDS2/23311
+#EXTINF:-1,TR: TIVIBU SPOR 2 FHD (VIP)
+http://sinbox.pro:8080/casper01/H3g3gADDS2/23312
+#EXTINF:-1,TR:TiViBU SPOR 3 HD (1920X1080)
+http://sinbox.pro:8080/casper01/H3g3gADDS2/23310
+#EXTINF:-1,TiViBUSPOR 1 FullHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/49112
+#EXTINF:-1,TiViBUSPOR 2 FullHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/49113
+#EXTINF:-1,TiViBUSPOR 3 FullHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/49114
+#EXTINF:-1,TIVIBU SPOR 1 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/49127
+#EXTINF:-1,TIVIBU SPOR 2 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/49128
+#EXTINF:-1,★✦★ TURK  ULUSAL  SPOR ★✦★
+http://sinbox.pro:8080/casper01/H3g3gADDS2/88133
+#EXTINF:-1,A SPOR HD+
+http://sinbox.pro:8080/casper01/H3g3gADDS2/78496
+#EXTINF:-1,A SPOR HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/78497
+#EXTINF:-1,TRT SPOR HD+
+http://sinbox.pro:8080/casper01/H3g3gADDS2/78489
+#EXTINF:-1,TR : TRT SPOR HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/78490
+#EXTINF:-1,TRT SPOR YILDIZ HEVC
+http://sinbox.pro:8080/casper01/H3g3gADDS2/78491
+#EXTINF:-1,TRT SPOR YILDIZ HD+
+http://sinbox.pro:8080/casper01/H3g3gADDS2/78492
+#EXTINF:-1,TRT SPOR YILDIZ HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/78493
+#EXTINF:-1,TRT 3 SPOR (TBMM) HD+
+http://sinbox.pro:8080/casper01/H3g3gADDS2/78494
+#EXTINF:-1,TR : GS TV FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/78503
+#EXTINF:-1,FIGHTBOX HD+
+http://sinbox.pro:8080/casper01/H3g3gADDS2/78511
+#EXTINF:-1,NBA TV HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/78512
+#EXTINF:-1,TJK TV HD+
+http://sinbox.pro:8080/casper01/H3g3gADDS2/78513
+#EXTINF:-1,TAY TV HD+
+http://sinbox.pro:8080/casper01/H3g3gADDS2/78514
+#EXTINF:-1,TR: TRT SPOR FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/6890
+#EXTINF:-1,TR: TRT SPOR FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/1476
+#EXTINF:-1,TR: A SPOR FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/1397
+#EXTINF:-1,TR: A SPOR HEVC
+http://sinbox.pro:8080/casper01/H3g3gADDS2/23308
+#EXTINF:-1,A SPOR HEVC
+http://sinbox.pro:8080/casper01/H3g3gADDS2/49098
+#EXTINF:-1,A SPOR FullHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/49107
+#EXTINF:-1,A SPOR HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/49124
+#EXTINF:-1,SPORTS TV HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/49120
+#EXTINF:-1,TR: FB TV 1080 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/1426
+#EXTINF:-1,TR: FB TV  HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/6662
+#EXTINF:-1,TR: TAY TV HEVC
+http://sinbox.pro:8080/casper01/H3g3gADDS2/7003
+#EXTINF:-1,TR : TJK TV HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/18487
+#EXTINF:-1,TR: TRT SPOR YILDIZ RAW
+http://sinbox.pro:8080/casper01/H3g3gADDS2/23024
+#EXTINF:-1,TR: TRT SPOR Hevc
+http://sinbox.pro:8080/casper01/H3g3gADDS2/23025
+#EXTINF:-1,TR: A SPOR UHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/23023
+#EXTINF:-1,TRT SPOR 2 HEVC
+http://sinbox.pro:8080/casper01/H3g3gADDS2/49097
+#EXTINF:-1,NBA TV 1280*720
+http://sinbox.pro:8080/casper01/H3g3gADDS2/49108
+#EXTINF:-1,FB TV HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/49121
+#EXTINF:-1,TR : GS TV HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/49122
+#EXTINF:-1,TRT SPOR FullHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/49125
+#EXTINF:-1,TRT SPOR 2 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/49126
+#EXTINF:-1,NBA TV HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/49131
+#EXTINF:-1,TJK TV HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/49134
+#EXTINF:-1,TR:  EUROSPORT 1 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/7038
+#EXTINF:-1,TR: EUROSPORT 2 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/7039
+#EXTINF:-1,TR: TRT SPOR YILDIZ Hevc
+http://sinbox.pro:8080/casper01/H3g3gADDS2/44631
+#EXTINF:-1,SPOR SMART 2 FullHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/49110
+#EXTINF:-1,TIVIBU SPOR 3 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/49129
+#EXTINF:-1,✦ ✦ ✦ TR SPOR ✦ ✦ ✦
+http://sinbox.pro:8080/casper01/H3g3gADDS2/109532
+#EXTINF:-1,TR: A SPOR FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/109533
+#EXTINF:-1,TR: TiViBUSPOR 1 FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/109534
+#EXTINF:-1,TR: TiViBUSPOR 2 FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/109535
+#EXTINF:-1,TR: TiViBUSPOR 3 FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/109536
+#EXTINF:-1,TR: TiViBUSPOR 4 FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/109537
+#EXTINF:-1,TR: FENERBAHÇE YOUTUBE
+http://sinbox.pro:8080/casper01/H3g3gADDS2/109538
+#EXTINF:-1,TR: BlueTV SMACKDOWN FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/109539
+#EXTINF:-1,TR: Blue TV BOX FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/109540
+#EXTINF:-1,SPOR SMART 1 HEVC
+http://sinbox.pro:8080/casper01/H3g3gADDS2/78499
+#EXTINF:-1,SPOR SMART 1 FHD (TR)
+http://sinbox.pro:8080/casper01/H3g3gADDS2/87378
+#EXTINF:-1,TR: SPOR SMART YUKSEK KALITE
+http://sinbox.pro:8080/casper01/H3g3gADDS2/42518
+#EXTINF:-1,TR: SPORT SMART MOBIL (720P)
+http://sinbox.pro:8080/casper01/H3g3gADDS2/106672
+#EXTINF:-1,TR: SPORT SMART FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/106670
+#EXTINF:-1,TR: SPORT SMART HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/106671
+#EXTINF:-1,SPOR SMART HEVC
+http://sinbox.pro:8080/casper01/H3g3gADDS2/49099
+#EXTINF:-1,SPOR SMART 1 FullHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/49109
+#EXTINF:-1,TR : SPOR SMART 1 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/78500
+#EXTINF:-1,SPOR SMART 1 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/49133
+#EXTINF:-1,TR: SPOR SMART Hevc
+http://sinbox.pro:8080/casper01/H3g3gADDS2/23017
+#EXTINF:-1,TR: SPOR SMART FHD 
+http://sinbox.pro:8080/casper01/H3g3gADDS2/6666
+#EXTINF:-1,TR: SPOR SMART HD 
+http://sinbox.pro:8080/casper01/H3g3gADDS2/42517
+#EXTINF:-1,★✦★ EXXEN SPORTS ★✦★
+http://sinbox.pro:8080/casper01/H3g3gADDS2/90354
+#EXTINF:-1,EXXEN SPOR 1
+http://sinbox.pro:8080/casper01/H3g3gADDS2/90374
+#EXTINF:-1,EXXEN SPOR 2 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/90375
+#EXTINF:-1,EXXEN SPOR 3 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/90376
+#EXTINF:-1,EXXEN SPORT 4 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/90377
+#EXTINF:-1,EXXEN SPORT 5 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/90378
+#EXTINF:-1,EXXEN SPORT 6 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/90379
+#EXTINF:-1,EXXEN SPORT 7 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/90380
+#EXTINF:-1,EXXEN SPORT 8 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/90381
+
 #EXTINF:1,Akın Tv HD
 https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
 https://59cba4d34b678.streamlock.net/live/akintv/chunklist_w879138092.m3u8
@@ -287,6 +1038,9 @@ http://5.254.16.186:80/TRTCocuk/mono.m3u8
 #EXTINF:0,TARİH TV
 https://bit.ly/3e6ppYK
 
+#EXTINF:0 tvg-rec="3",Meltem TV 
+https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://1.bp.blogspot.com/-bsNEF6lMbtg/XuJWBTB9JUI/AAAAAAAANso/3BIaAuu_uF4zhCdxndSpcgHgtYGLW180QCLcBGAsYHQ/s1600/C%25C4%25B0NE5TV.PNG", CiNE5 TV HD
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 
@@ -302,6 +1056,49 @@ https://clcmediatv.ozelip.com:3192/stream/play.m3u8
 #EXTINF:0,DÜZGÜN TV HD
 http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
 
+#EXTINF:-1 TGRT EU group-title="ULUSAL-UHD", TGRT EU
+http://iptvmasterlink.dyndns.org:8080/TgrtEu/playlist.m3u8
+
+#EXTINF:-1,ATV UHD
+http://u1hlnkbw.russtv.net/iptv/EXZGX33VGKL8A9/2261/index.m3u8
+
+#EXTINF:-1,A2
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001020/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001020&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#http://31.172.87.53:2200/TR-N/A2_HD-tr/index.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165|User-agent=REDLINECLIENT
+#https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8
+
+#EXTINF:1,A2
+http://u1hlnkbw.russtv.net/iptv/EXZGX33VGKL8A9/2260/index.m3u8
+
+#EXTINF:1, STAR TV 4K
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001226/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001226&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001226/sec-f5-v1-a1.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw%3D%3D&terminalflag=5&virtualDomain=001.live_hls.zte.com
+#http://31.172.87.53:2200/TR-N/Star_TV_HD-tr/tracks-v1a1/mono.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165|User-agent=REDLINECLIENT
+
+#EXTINF:0 tvg-rec="3",STAR TV UHD
+#EXTGRP:Турция | Türk
+http://u1hlnkbw.russtv.net/iptv/EXZGX33VGKL8A9/2274/index.m3u8
+
+#EXTINF:0 type="stream" channelId="3119" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-IFJJtdqvx9M/YI3eO_khbTI/AAAAAAAATRI/f0PKzmJl_YURx2cHfdzWcl7YdrphjKNkwCLcBGAsYHQ/s0/SHOW%2B-%2BKopya.png", SHOW TV HD
+https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
+
+
+#EXTINF:0 type="stream" channelId="1045" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-IFJJtdqvx9M/YI3eO_khbTI/AAAAAAAATRI/f0PKzmJl_YURx2cHfdzWcl7YdrphjKNkwCLcBGAsYHQ/s0/SHOW%2B-%2BKopya.png",SHOW MAX HD 
+http://u1hlnkbw.russtv.net/iptv/EXZGX33VGKL8A9/6890/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_ULUSAL_KANALLAR" logo="https://www.tv4.com.tr/assets/img/tv4fav.png", TV4 HD TR
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+
+#EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="ULUSAL-UHD",KANAL D UHD
+http://195.189.62.147:8000/play/a036
+
+#EXTINF:0 type="stream" channelId="1044" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-dHogV1SHMHc/YI3eO_hCxYI/AAAAAAAATRE/hq72CRTA0CgGu9fSGm-dZM3liELp_DllwCLcBGAsYHQ/s0/KANALD%2B-%2BKopya.png", KANAL D drama
+http://146.59.19.1/5062/mpegts
+
+#EXTINF:0 tvg-rec="3",KANAL D world
+#EXTGRP:Германия | Germany
+https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8
+
 #EXTINF:0 type="stream" channelId="1056" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-A7jlB-1wNCg/YI3eP4T69AI/AAAAAAAATRc/RahKYoYUqN0gBGptWOjet7jnYp4hQN_wACLcBGAsYHQ/s0/TRT1%2B-%2BKopya.png", TRT1 HD
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 type="stream" channelId="1056" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-A7jlB-1wNCg/YI3eP4T69AI/AAAAAAAATRc/RahKYoYUqN0gBGptWOjet7jnYp4hQN_wACLcBGAsYHQ/s0/TRT1%2B-%2BKopya.png", TRT 1 HD YEDEK
@@ -312,7 +1109,12 @@ http://134.209.229.149/trt1trfhd/index.m3u8
 http://134.209.229.149/atvtrfhd/index.m3u8
 #EXTINF:0 type="stream" channelId="3996" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-b1BHMpUZAQg/YI3eM-4AbOI/AAAAAAAATQk/-sFIDuHn6JIy2SC-_pD8HytiquHERf9YACLcBGAsYHQ/s0/ATV%2B-%2BKopya.png", ATV TR SD
 http://ecanlitv3.etvserver.com/live_sd/atv/chunks.m3u8
-
+#EXTINF:0 type="stream" channelId="208" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-aNHq9fXOobA/YI3eOUhdOEI/AAAAAAAATQ8/tudnxeQ3XuMwFqGfRXlu6ZUiWj-o3mUGQCLcBGAsYHQ/s0/FOX%2B-%2BKopya.png", FOX TV  HD
+https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+#EXTINF:0 type="stream" channelId="208" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-aNHq9fXOobA/YI3eOUhdOEI/AAAAAAAATQ8/tudnxeQ3XuMwFqGfRXlu6ZUiWj-o3mUGQCLcBGAsYHQ/s0/FOX%2B-%2BKopya.png", FOX TV HD [OZEL]
+http://134.209.229.149/foxtvtrfhd/index.m3u8
+#EXTINF:0 type="stream" channelId="208" group-title="1_ULUSAL_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=208", FOX TV  HD YEDEK
+http://134.209.229.149/foxtv_backup/index.m3u8
 #EXTINF:0 type="stream" channelId="3999" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-U77k-Bd37xE/YI3ePYaRVxI/AAAAAAAATRQ/Ks0e3x6RJK8JO73JumGQlDmStIi9j7-oQCLcBGAsYHQ/s0/STAR%2B-%2BKopya.png", STAR TV HD
 https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
 #EXTINF:0 type="stream" channelId="3999" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-U77k-Bd37xE/YI3ePYaRVxI/AAAAAAAATRQ/Ks0e3x6RJK8JO73JumGQlDmStIi9j7-oQCLcBGAsYHQ/s0/STAR%2B-%2BKopya.png", STAR TV HD YEDEK
@@ -331,14 +1133,18 @@ https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 https://kanalddvr.blutv.com/blutv_kanald_dvr2/live_720p2000000kbps/index.m3u8
 #EXTINF:0 type="stream" channelId="3077" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-dHogV1SHMHc/YI3eO_hCxYI/AAAAAAAATRE/hq72CRTA0CgGu9fSGm-dZM3liELp_DllwCLcBGAsYHQ/s0/KANALD%2B-%2BKopya.png", KANAL D FHD [OZEL]
 http://134.209.229.149/kanaldtrhd/index.m3u8
-
-#EXTINF:0 type="stream" channelId="1076" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-GWmwAkiTtZg/YI3gWQsQSpI/AAAAAAAATR8/jM4xk3oIcDwNX6LWypePM-ZsC89xN3cdwCLcBGAsYHQ/s0/TV8.png", TV8 FHD
+#EXTINF:0 type="stream" channelId="1076" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-GWmwAkiTtZg/YI3gWQsQSpI/AAAAAAAATR8/jM4xk3oIcDwNX6LWypePM-ZsC89xN3cdwCLcBGAsYHQ/s0/TV8.png", TV8 HD
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:0 type="stream" channelId="1076" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-GWmwAkiTtZg/YI3gWQsQSpI/AAAAAAAATR8/jM4xk3oIcDwNX6LWypePM-ZsC89xN3cdwCLcBGAsYHQ/s0/TV8.png", TV8 FHD [OZEL]
 http://134.209.229.149/tv8tr/index.m3u8
 #EXTINF:0 type="stream" channelId="3991" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-f_Y8Igvh2NY/YI3eQBolpXI/AAAAAAAATRg/HQFrcs6G5Lo5UJ4jc313jhqO6w1wvClUQCLcBGAsYHQ/s0/TV85%2B-%2BKopya.png", TV8_5 TR
 http://134.209.229.149/tv8bucuktrhd/index.m3u8
-
-
-
+#EXTINF:0 type="stream" channelId="3991" group-title="1_ULUSAL_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=3991", TV8_5 YEDEK
+http://ecanlitv4.etvserver.com/live_sd/tv85/chunks.m3u8
+#EXTINF:0 type="stream" channelId="18" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-RL3Nn27pxE0/YI3eNix6n9I/AAAAAAAATQs/Qpc_9jpoQD8ZqMHL7PBtNT5VNtKXWY6TwCLcBGAsYHQ/s0/BEYAZ%2B-%2BKopya.png", BEYAZ TV HD
+https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
+#EXTINF:0 type="stream" channelId="18" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-RL3Nn27pxE0/YI3eNix6n9I/AAAAAAAATQs/Qpc_9jpoQD8ZqMHL7PBtNT5VNtKXWY6TwCLcBGAsYHQ/s0/BEYAZ%2B-%2BKopya.png", BEYAZ TV HD YEDEK
+https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live_720p2000000kbps/index.m3u8
 #EXTINF:0 type="stream" channelId="1941" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-y-JCN-jP-2o/YI3eOgNoDPI/AAAAAAAATRA/1WdyRekkY9Y1uhMB5Gr7fQOD9JuFhtpHgCLcBGAsYHQ/s0/KANAL7%2B-%2BKopya.png", KANAL 7 FHD
 http://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
 #EXTINF:0 type="stream" channelId="1941" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-y-JCN-jP-2o/YI3eOgNoDPI/AAAAAAAATRA/1WdyRekkY9Y1uhMB5Gr7fQOD9JuFhtpHgCLcBGAsYHQ/s0/KANAL7%2B-%2BKopya.png", KANAL 7 HD
@@ -380,9 +1186,15 @@ http://149.100.11.250:8002/play/a01a/index.m3u8
 #EXTINF:0,YEŞİL KARADENİZ TV
 https://tv167200.ozelip.com:1936/ykaradeniztv/ykaradeniztv/chunklist_w173440858.m3u8
 
+#EXTINF:0 type="stream" channelId="1941" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-y-JCN-jP-2o/YI3eOgNoDPI/AAAAAAAATRA/1WdyRekkY9Y1uhMB5Gr7fQOD9JuFhtpHgCLcBGAsYHQ/s0/KANAL7%2B-%2BKopya.png", KANAL 7 FHD
+http://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
 
+#EXTINF:0 tvg-rec="3",Kanal 7 Avrupa TR
+#EXTGRP:Турция | Türk
+http://u1hlnkbw.russtv.net/iptv/EXZGX33VGKL8A9/6905/index.m3u8
 
-
+#EXTINF:0 type="stream" channelId="1941" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-y-JCN-jP-2o/YI3eOgNoDPI/AAAAAAAATRA/1WdyRekkY9Y1uhMB5Gr7fQOD9JuFhtpHgCLcBGAsYHQ/s0/KANAL7%2B-%2BKopya.png", KANAL 7 Hz.Yusuf
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://youtu.be/6Wh2WqoppUg.m3u8
 
 #EXTINF:0 type="stream" channelId="1076" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-GWmwAkiTtZg/YI3gWQsQSpI/AAAAAAAATR8/jM4xk3oIcDwNX6LWypePM-ZsC89xN3cdwCLcBGAsYHQ/s0/TV8.png", TV8 HD
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
@@ -1851,29 +2663,6 @@ https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://youtu.be/DL
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/hurturktv
 
 ----Muzik.tr---
-#EXTINF:-1,KRAL TV
-https://dogus-live.daioncdn.net/kraltv/kraltv_720p.m3u8
-
-#EXTINF:-1,KRAL POP TV
-https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
-
-#EXTINF:-1,TATLISES TV 
-https://waw2.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8
-
-#EXTINF:-1,SLOW KARADENIZ TV
-https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
-
-#EXTINF:-1,RIZE TURK TV
-https://yayin.rizeturk.com:3777/multi_web/play.m3u8
-
-#EXTINF:-1,MILYON TV
-https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
-
-#EXTINF:-1,POWER TURK TV
-https://h92.artiyerelmedya.net/powerturktv/bant1/chunks.m3u8 
-
-#EXTINF:-1,POWER TV
-https://waw1.artiyerelmedya.net/powertv/bant1/playlist.m3u8
 
 #EXTINF:1 tvg-id="KralTV.tr" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/a2a2c267-f41c-4825-aa80-6d1077e43b1f.png" grubu -title="Müzik",Kral TV
 https://dogus-live.daioncdn.net/kraltv/kraltv_720p.m3u8
@@ -17632,11 +18421,6 @@ http://vip.etibsa.pro:8080/Lorentadult/d2gnX355JFUB/10274
 #EXTINF:-1 tvg-id="" tvg-name="XXX: 4K PORN 4 UHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/ADULT/4K.PORN.png" group-title="18+ ADULTS ONLY",XXX: 4K PORN 4 UHD
 http://vip.etibsa.pro:8080/Lorentadult/d2gnX355JFUB/10275
 
-#EXTINF:1,Miami tv XXL
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
-
-#EXTINF:1,HUSTLER HD
-http://193.33.240.8/hustler_hd/index.m3u8
 
 ----------MÜZİK--------
 #EXTINF:1,TİMUR MEDYA TV 
@@ -17660,4 +18444,5 @@ http://149.56.16.240:1935//videonow/bulut/chunklist_w110952983.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgGaFgdYpykWk0Nbkk28NC41yRzrmWFFi0SGjYHcbaPdQkKNWFJkxsNitQY-RkK-LiscMF5R-QAwBIYco8O-HqDQRIx7DO2AnEpory15pgVmxKp1hroq6glva0wLtnlLWhtADukbN3vBW20SPf1WETni8VJmCKj3hb5A62_iMtY8OGGkrptFSveUzUqSA=s130", TEBER 4
 http://149.56.16.240:1935/videonow/demir/chunklist_w864557433.m3u8
 
-
+#EXTINF:0 type="stream" channelId="-1" group-title="40_NELERYENi_KASIM_2022" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgGaFgdYpykWk0Nbkk28NC41yRzrmWFFi0SGjYHcbaPdQkKNWFJkxsNitQY-RkK-LiscMF5R-QAwBIYco8O-HqDQRIx7DO2AnEpory15pgVmxKp1hroq6glva0wLtnlLWhtADukbN3vBW20SPf1WETni8VJmCKj3hb5A62_iMtY8OGGkrptFSveUzUqSA=s130", NELER YENiLENDi
+http://134.209.229.149/vod1/neleryenimax.mp4/index.m3u8
