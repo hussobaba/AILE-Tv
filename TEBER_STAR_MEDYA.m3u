@@ -94,7 +94,7 @@ https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
 
 #EXTINF:0 type="stream" channelId="1045" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-IFJJtdqvx9M/YI3eO_khbTI/AAAAAAAATRI/f0PKzmJl_YURx2cHfdzWcl7YdrphjKNkwCLcBGAsYHQ/s0/SHOW%2B-%2BKopya.png",SHOW MAX HD 
-http://u1hlnkbw.russtv.net/iptv/EXZGX33VGKL8A9/6890/index.m3u8
+http://sinbox.pro:8080/casper01/H3g3gADDS2/81342
 
 #EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="ULUSAL-UHD",KANAL D
 http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001208/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001208&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
@@ -386,6 +386,16 @@ http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/340
 #EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Star Wars ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/STAR.WARS.png" group-title="TR - SINEMA",TR: BlueTV Star Wars ʜᴅ
 http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/342
 
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Yeşilçam 1 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KANAL.1.png" group-title="TR - YESILCAM",TR: BlueTV Yeşilçam 1 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/81
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Yeşilçam 2 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KANAL.2.png" group-title="TR - YESILCAM",TR: BlueTV Yeşilçam 2 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/82
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Yeşilçam 3 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KANAL.3.png" group-title="TR - YESILCAM",TR: BlueTV Yeşilçam 3 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/83
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Yeşilçam 4 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KANAL.4.png" group-title="TR - YESILCAM",TR: BlueTV Yeşilçam 4 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/84
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Yeşilçam 5 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KANAL.5.png" group-title="TR - YESILCAM",TR: BlueTV Yeşilçam 5 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/85
 
 #EXTINF:-1,Anonym TV Yeşilçam Sinema 1 HD
 http://sinbox.pro:8080/casper01/H3g3gADDS2/125751
@@ -417,6 +427,44 @@ http://bit.ly/38uoJdb
 http://bit.ly/3lWMTjI
 #EXTINF:21,SINEMA 1002
 http://bit.ly/3a7nIYL
+
+🌟NETFİLX🇹🇷TV
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix 1 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/KANAL.1.png" group-title="TR - NETFLIX",TR: Netflix 1 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/62
+#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix 2 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/KANAL.2.png" group-title="TR - NETFLIX",TR: Netflix 2 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/63
+#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix 3 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/KANAL.3.png" group-title="TR - NETFLIX",TR: Netflix 3 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/64
+#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix  4 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/KANAL.4.png" group-title="TR - NETFLIX",TR: Netflix  4 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/65
+#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix 5 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/KANAL.5.png" group-title="TR - NETFLIX",TR: Netflix 5 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/66
+#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix Aksiyon ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/AKSIYON.png" group-title="TR - NETFLIX",TR: Netflix Aksiyon ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/67
+#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix Animasyon ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/ANIMASYON.png" group-title="TR - NETFLIX",TR: Netflix Animasyon ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/68
+#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix Macera ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/MACERA.png" group-title="TR - NETFLIX",TR: Netflix Macera ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/69
+#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix Bilim Kurgu ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/BILIM.KURGU.png" group-title="TR - NETFLIX",TR: Netflix Bilim Kurgu ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/70
+#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix Dram ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/DRAM.png" group-title="TR - NETFLIX",TR: Netflix Dram ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/71
+#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix Gerilim ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/GERILIM.png" group-title="TR - NETFLIX",TR: Netflix Gerilim ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/72
+#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix Gizem ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/GIZEM.png" group-title="TR - NETFLIX",TR: Netflix Gizem ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/73
+#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix Komedi ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/KOMEDI.png" group-title="TR - NETFLIX",TR: Netflix Komedi ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/74
+#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix Korku ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/KORKU.png" group-title="TR - NETFLIX",TR: Netflix Korku ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/75
+#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix Romantik ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/ROMANTIK.png" group-title="TR - NETFLIX",TR: Netflix Romantik ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/76
+#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix Fantastik ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/FANTASTIK.png" group-title="TR - NETFLIX",TR: Netflix Fantastik ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/371
+#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix Suç ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/SUC.png" group-title="TR - NETFLIX",TR: Netflix Suç ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/372
+
 
 🌟YEDEK SİNEMA TV🌟
 
@@ -536,8 +584,6 @@ http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/328
 #EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Şafak Sezer ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/SAFAK.SEZER.png" group-title="TR - SINEMA",TR: BlueTV Şafak Sezer ʜᴅ
 http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/341
 
-
-
 #EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Yeraltı Canavarı ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/YERALTI.CANAVARI.png" group-title="TR - SINEMA",TR: BlueTV Yeraltı Canavarı ʜᴅ
 http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/344
 #EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Alacakaranlık ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/ALACAKARANLIK.png" group-title="TR - SINEMA",TR: BlueTV Alacakaranlık ʜᴅ
@@ -560,16 +606,6 @@ http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/78
 http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/79
 #EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Kemal Sunal 3 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KEMAL.SUNAL.3.png" group-title="TR - YESILCAM",TR: BlueTV Kemal Sunal 3 ʜᴅ
 http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/80
-#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Yeşilçam 1 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KANAL.1.png" group-title="TR - YESILCAM",TR: BlueTV Yeşilçam 1 ʜᴅ
-http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/81
-#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Yeşilçam 2 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KANAL.2.png" group-title="TR - YESILCAM",TR: BlueTV Yeşilçam 2 ʜᴅ
-http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/82
-#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Yeşilçam 3 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KANAL.3.png" group-title="TR - YESILCAM",TR: BlueTV Yeşilçam 3 ʜᴅ
-http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/83
-#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Yeşilçam 4 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KANAL.4.png" group-title="TR - YESILCAM",TR: BlueTV Yeşilçam 4 ʜᴅ
-http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/84
-#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Yeşilçam 5 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KANAL.5.png" group-title="TR - YESILCAM",TR: BlueTV Yeşilçam 5 ʜᴅ
-http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/85
 
 🌟SİNBOX SİNEMA TV
 
@@ -720,44 +756,6 @@ http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/98
 http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/99
 #EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Güldür Güldür ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/GULDUR.GULDUR.png" group-title="TR - DIZI",TR: BlueTV Güldür Güldür ʜᴅ
 http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/100
-
-🌟NETFİLX🇹🇷TV
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix 1 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/KANAL.1.png" group-title="TR - NETFLIX",TR: Netflix 1 ʜᴅ
-http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/62
-#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix 2 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/KANAL.2.png" group-title="TR - NETFLIX",TR: Netflix 2 ʜᴅ
-http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/63
-#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix 3 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/KANAL.3.png" group-title="TR - NETFLIX",TR: Netflix 3 ʜᴅ
-http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/64
-#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix  4 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/KANAL.4.png" group-title="TR - NETFLIX",TR: Netflix  4 ʜᴅ
-http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/65
-#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix 5 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/KANAL.5.png" group-title="TR - NETFLIX",TR: Netflix 5 ʜᴅ
-http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/66
-#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix Aksiyon ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/AKSIYON.png" group-title="TR - NETFLIX",TR: Netflix Aksiyon ʜᴅ
-http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/67
-#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix Animasyon ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/ANIMASYON.png" group-title="TR - NETFLIX",TR: Netflix Animasyon ʜᴅ
-http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/68
-#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix Macera ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/MACERA.png" group-title="TR - NETFLIX",TR: Netflix Macera ʜᴅ
-http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/69
-#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix Bilim Kurgu ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/BILIM.KURGU.png" group-title="TR - NETFLIX",TR: Netflix Bilim Kurgu ʜᴅ
-http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/70
-#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix Dram ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/DRAM.png" group-title="TR - NETFLIX",TR: Netflix Dram ʜᴅ
-http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/71
-#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix Gerilim ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/GERILIM.png" group-title="TR - NETFLIX",TR: Netflix Gerilim ʜᴅ
-http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/72
-#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix Gizem ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/GIZEM.png" group-title="TR - NETFLIX",TR: Netflix Gizem ʜᴅ
-http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/73
-#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix Komedi ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/KOMEDI.png" group-title="TR - NETFLIX",TR: Netflix Komedi ʜᴅ
-http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/74
-#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix Korku ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/KORKU.png" group-title="TR - NETFLIX",TR: Netflix Korku ʜᴅ
-http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/75
-#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix Romantik ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/ROMANTIK.png" group-title="TR - NETFLIX",TR: Netflix Romantik ʜᴅ
-http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/76
-#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix Fantastik ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/FANTASTIK.png" group-title="TR - NETFLIX",TR: Netflix Fantastik ʜᴅ
-http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/371
-#EXTINF:-1 tvg-id="" tvg-name="TR: Netflix Suç ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/SUC.png" group-title="TR - NETFLIX",TR: Netflix Suç ʜᴅ
-http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/372
-
 
 #EXTINF:-1,Anonym Tv Cüneyt Arkın HD 1
 http://sinbox.pro:8080/casper01/H3g3gADDS2/125716
