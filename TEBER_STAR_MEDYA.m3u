@@ -188,6 +188,9 @@ https://tv.ntnhd.com:3588/multi_web/play_1080.m3u8
 #EXTINF:1,NTN BELGESEL
 https://tv.ntnhd.com:3189/multi_web/play_1080.m3u8
 
+#EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/15ac1875-9023-4cd9-a7a8-41b54c8e9cc3.png" group-title= "Özel", Akıllı TV
+http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8 
+
 #EXTINF:1,ART TV 
 https://59cba4d34b678.streamlock.net/canlitv/arttv/chunklist_w656535413.m3u8
 
@@ -242,13 +245,6 @@ http://64.225.99.57:3923/hybrid/play.m3u8
 http://91.134.203.253:30124/baskantv/baskantv/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://1.bp.blogspot.com/-bx0rRUWn2yY/XrQoySUd1CI/AAAAAAAAM1U/WKmSOXvlDEc3MBtkGP8WGubsORsr4Dj1ACLcBGAsYHQ/s200/viyanatvlogo.png", ViYANA TV HD
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
-
-#EXTINF:-1,SLOW KARADENIZ TV
-https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
-
-#EXTINF:-1,RIZE TURK TV
-https://yayin.rizeturk.com:3777/multi_web/play.m3u8
-
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/60995084866ac3099473a292?w=80&q=75", ID HD TR
 https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/60995084866ac3099473a292?w=80&q=75", ID FHD TR
@@ -286,6 +282,7 @@ http://aktif2830.ozelip.com:30124/isvicretv/isvicretv/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="2_TEBER_MEDYA_1" logo="https://1.bp.blogspot.com/-ouK2ZRcNR84/X3Lqgg1pzPI/AAAAAAAAPAM/kyUOyu2ogd0MqTLkN38iw2JXPy8PTx-ywCLcBGAsYHQ/s0/kanal2000.PNG", MSCB KANAL 2000 HD
 http://yerelmedya.tv:1935/kanal2000/bant1/playlist.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="2_TEBER_MEDYA_1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEi677HirxrOAgcd2LLCn0itdIWF84tqd7XZ2koLBUUqw123H0L2-n7QUo2t-EXPks5jiID1IUEAIblBBL4HbU0WxQs0u8Or5Mh6IAG8_awh_EcyYMJ-Oea9KzwddVn05glaLRmc9WVnBm-5Vx7lsECc_NWFRGJQt4OWpjZKc4jypzTI3mt5WfQDC9FHFQ=w134-h38", MMN TURK TV
 http://mmn.mypsx.net:1935/live/mmnhdradioturky/chunklist.m3u8
 
@@ -305,11 +302,76 @@ http://50.7.136.162:1935/canlitv/yarentv/chunklist.m3u8
           
    🌟SİNEMA TV
 
-#EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8cbc8938-0a17-4cf6-9bc3-cfc2f7a21dd5.png" group-title= "Özel",Şaban TV
-https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCE1XdVHzOdMnUsUMatIzjag/live
-#EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/15ac1875-9023-4cd9-a7a8-41b54c8e9cc3.png" group-title= "Özel", Akıllı TV
-http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV X-Men ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/X.MEN.png" group-title="TR - SINEMA",TR: BlueTV X-Men ʜᴅ
+-----KOMEDİ------------
+
+#EXTINF:-1,KEMAL SUNAL TV 1
+http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/69443.ts
+#EXTINF:-1,KEMAL SUNAL TV 2
+http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/69444.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Kemal Sunal 3 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KEMAL.SUNAL.1.png" group-title="TR - YESILCAM",TR: BlueTV Kemal Sunal 3 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/78
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Kemal Sunal 4 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KEMAL.SUNAL.2.png" group-title="TR - YESILCAM",TR: BlueTV Kemal Sunal 4 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/79
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Kemal Sunal 5 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KEMAL.SUNAL.3.png" group-title="TR - YESILCAM",TR: BlueTV Kemal Sunal 5 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/80
+#EXTINF:-1,Anonym TV Zeki Metin
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125748
+#EXTINF:-1,Anonym TV  Şener Şen HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125750
+#EXTINF:-1,Anonym TV Şener Şen
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125765#EXTINF:-1,Anonym TV İlyas Salman
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125761
+#EXTINF:-1,Anonym TV Öztürk SERENGİL HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125758
+#EXTINF:-1,Anonym TV Aydemir  Akbaş
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125759
+#EXTINF:-1,Anonym TV Müjdat Gezen
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125753
+#EXTINF:-1,Anonym TV Sadri Alışık
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125764
+#EXTINF:-1,Anonym TV Recep İvedik
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125763
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Recep İvedik ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/RECEP.IVEDIK.png" group-title="TR - SINEMA",TR: BlueTV Recep İvedik ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/77
+#EXTINF:-1,Anonym TV Safak Sezer HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125767
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Şafak Sezer ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/SAFAK.SEZER.png" group-title="TR - SINEMA",TR: BlueTV Şafak Sezer ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/341
+#EXTINF:-1,Anonym TV Yılmaz Güney HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125749
+
+-------YEŞİL--ÇAM---------
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Yeşilçam 1 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KANAL.1.png" group-title="TR - YESILCAM",TR: BlueTV Yeşilçam 1 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/81
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Yeşilçam 2 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KANAL.2.png" group-title="TR - YESILCAM",TR: BlueTV Yeşilçam 2 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/82
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Yeşilçam 3 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KANAL.3.png" group-title="TR - YESILCAM",TR: BlueTV Yeşilçam 3 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/83
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Yeşilçam 4 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KANAL.4.png" group-title="TR - YESILCAM",TR: BlueTV Yeşilçam 4 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/84
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Yeşilçam 5 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KANAL.5.png" group-title="TR - YESILCAM",TR: BlueTV Yeşilçam 5 ʜᴅ
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/85
+
+#EXTINF:-1,Anonym TV Yeşilçam Sinema 1 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125751
+
+#EXTINF:-1,Anonym TV Yeşilçam Sinema 2 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125752
+
+#EXTINF:14,SINEMA YERLİ 1
+http://bit.ly/3N3z7Yk
+#EXTINF:15,SINEMA YERLİ 2
+http://bit.ly/3LXuptR
+
+-----AXION----------------------
+
+#EXTINF:-1, Mumya 
+https://eu2.vod.rdncdn.com/VOD1/Movies/TR/Mumya1.mp4/index.m3u8
+#EXTINF:-1, Mumya 2: Mumya Geri Dönüyor 
+https://eu2.vod.rdncdn.com/VOD1/Movies/TR/Mumya2.mp4/index.m3u8
+#EXTINF:-1, Mumya 3: Ejder İmparatoru\'nun Mezarı 
+https://eu2.vod.rdncdn.com/VOD1/Movies/TR/Mumya3.mp4/index.m3u8#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV X-Men ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/X.MEN.png" group-title="TR - SINEMA",TR: BlueTV X-Men ʜᴅ
 http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/326
 #EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Yenilmezler ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/YENILMEZLER.png" group-title="TR - SINEMA",TR: BlueTV Yenilmezler ʜᴅ
 http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/343
@@ -321,8 +383,6 @@ http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/489
 #EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Dövüş ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/DOVUS.png" group-title="TR - SINEMA",TR: BlueTV Dövüş ʜᴅ
 http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/487
 #EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Bruce Lee ʜᴅ" tvg-
-#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Box FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/TR.SPOR/FHD/BOX.png" group-title="TR - SPOR",TR: BlueTV Box FHD
-http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/10267
 #EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Görevimiz Tehlike ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/GOREVIMIZ.TEHLIKE.png" group-title="TR - SINEMA",TR: BlueTV Görevimiz Tehlike ʜᴅ
 http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/329
 #EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Harry Potter ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/HARRY.POTTER.png" group-title="TR - SINEMA",TR: BlueTV Harry Potter ʜᴅ
@@ -347,28 +407,12 @@ http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/339
 http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/340
 #EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Star Wars ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/STAR.WARS.png" group-title="TR - SINEMA",TR: BlueTV Star Wars ʜᴅ
 http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/342
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Marvel Cinema 1 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/MARVEL/BLUE.MARVEL.1.png" group-title="TR - SINEMA",TR: BlueTV Marvel Cinema 1 HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/247
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Marvel Cinema 2 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/MARVEL/BLUE.MARVEL.2.png" group-title="TR - SINEMA",TR: BlueTV Marvel Cinema 2 HD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/248
+----MACERA---------------
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Yeşilçam 1 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KANAL.1.png" group-title="TR - YESILCAM",TR: BlueTV Yeşilçam 1 ʜᴅ
-http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/81
-#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Yeşilçam 2 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KANAL.2.png" group-title="TR - YESILCAM",TR: BlueTV Yeşilçam 2 ʜᴅ
-http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/82
-#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Yeşilçam 3 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KANAL.3.png" group-title="TR - YESILCAM",TR: BlueTV Yeşilçam 3 ʜᴅ
-http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/83
-#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Yeşilçam 4 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KANAL.4.png" group-title="TR - YESILCAM",TR: BlueTV Yeşilçam 4 ʜᴅ
-http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/84
-#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Yeşilçam 5 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KANAL.5.png" group-title="TR - YESILCAM",TR: BlueTV Yeşilçam 5 ʜᴅ
-http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/85
-
-#EXTINF:-1,Anonym TV Yeşilçam Sinema 1 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/125751
-
-#EXTINF:-1,Anonym TV Yeşilçam Sinema 2 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/125752
-
-#EXTINF:14,SINEMA YERLİ
-http://bit.ly/3N3z7Yk
-#EXTINF:15,SINEMA YERLİ 2
-http://bit.ly/3LXuptR
 #EXTINF:10,SINEMA TV
 http://bit.ly/3GytGyk
 #EXTINF:11,SINEMA 2
@@ -426,103 +470,6 @@ http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/76
 http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/371
 #EXTINF:-1 tvg-id="" tvg-name="TR: Netflix Suç ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/SUC.png" group-title="TR - NETFLIX",TR: Netflix Suç ʜᴅ
 http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/372
-
------YENİ DİJİTAL MEDYA---TV----
-
-#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN BOX OFFICE 1" tvg-logo="http://contentlibrary.DİJİTAL MEDYA.com.tr/Channel/36/Image/205_salon01-son.png" group-title="| TR | DİJİTAL MEDYA SINEMA",|TR| BEIN BOX OFFICE 1
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110146
-#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN BOX OFFICE 2" tvg-logo="http://contentlibrary.DİJİTAL MEDYA.com.tr/Channel/37/Image/205_salon02-son.png" group-title="| TR | DİJİTAL MEDYA SINEMA",|TR| BEIN BOX OFFICE 2
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110147
-#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN BOX OFFICE 3" tvg-logo="http://contentlibrary.DİJİTAL MEDYA.com.tr/Channel/38/Image/205_salon03-son.png" group-title="| TR | DİJİTAL MEDYA SINEMA",|TR| BEIN BOX OFFICE 3
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110148
-#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN MOVIES PREMIER 1" tvg-logo="http://www.DİJİTAL MEDYA.com.tr/icerik/2015logos/premier_hd.png" group-title="| TR | DİJİTAL MEDYA SINEMA",|TR| BEIN MOVIES PREMIER 1
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110151
-#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN MOVIES PREMIER 2" tvg-logo="http://www.DİJİTAL MEDYA.com.tr/icerik/2015logos/premier_2_hd.png" group-title="| TR | DİJİTAL MEDYA SINEMA",|TR| BEIN MOVIES PREMIER 2
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110152
-#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN MOVIES TÜRK" tvg-logo="http://www.DİJİTAL MEDYA.com.tr/icerik/2015logos/mm_turk_hd.png" group-title="| TR | DİJİTAL MEDYA SINEMA",|TR| BEIN MOVIES TÜRK
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110153
-#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN MOVIES FAMILY" tvg-logo="http://www.DİJİTAL MEDYA.com.tr/icerik/2015logos/family_hd.png" group-title="| TR | DİJİTAL MEDYA SINEMA",|TR| BEIN MOVIES FAMILY
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110155
-#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SERIES COMEDY HD" tvg-logo="http://www.DİJİTAL MEDYA.com.tr/icerik/2015logos/d_comedy_hd.png" group-title="| TR | DİJİTAL MEDYA SINEMA",|TR| BEIN SERIES COMEDY HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110156
-#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SERIES SCI-FI HD" tvg-logo="http://www.DİJİTAL MEDYA.com.tr/icerik/2015logos/sci_fi_hd.png" group-title="| TR | DİJİTAL MEDYA SINEMA",|TR| BEIN SERIES SCI-FI HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110157
-#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SERIES VICE HD" tvg-logo="http://www.DİJİTAL MEDYA.com.tr/icerik/2015logos/vice_hd.png" group-title="| TR | DİJİTAL MEDYA SINEMA",|TR| BEIN SERIES VICE HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110158
-#EXTINF:-1 tvg-id="" tvg-name="|TR| MOVIE SMART TÜRK" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/TURKIYE/BEINMOVIEST%c3%9cRK.png" group-title="| TR | D-SMART SINEMA",|TR| MOVIE SMART TÜRK
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110159
-#EXTINF:-1 tvg-id="" tvg-name="|TR| MOVIE SMART PREMIUM 1" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/movismart_premium.png" group-title="| TR | D-SMART SINEMA",|TR| MOVIE SMART PREMIUM 1
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110160
-#EXTINF:-1 tvg-id="" tvg-name="|TR| MOVIE SMART PREMIUM 2" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/movismart_premium_2.png" group-title="| TR | D-SMART SINEMA",|TR| MOVIE SMART PREMIUM 2
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110161
-#EXTINF:-1 tvg-id="" tvg-name="|TR| MOVIE SMART PLATIN 2" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/movismart_platin_2.png" group-title="| TR | D-SMART SINEMA",|TR| MOVIE SMART PLATIN 2
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110162
-#EXTINF:-1 tvg-id="" tvg-name="|TR| MOVIE SMART GOLD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/movismart_gold.png" group-title="| TR | D-SMART SINEMA",|TR| MOVIE SMART GOLD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110163
-#EXTINF:-1 tvg-id="" tvg-name="|TR| MOVIE SMART FAMİLY" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/movismart_family.png" group-title="| TR | D-SMART SINEMA",|TR| MOVIE SMART FAMİLY
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110164
-#EXTINF:-1 tvg-id="" tvg-name="|TR| MOVIE SMART ACTION" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/movismart_action.png" group-title="| TR | D-SMART SINEMA",|TR| MOVIE SMART ACTION
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110165
-#EXTINF:-1 tvg-id="" tvg-name="|TR| MAX KOMEDİ 1" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/sinema_komedi.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| MAX KOMEDİ 1
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110169
-#EXTINF:-1 tvg-id="" tvg-name="|TR| MAX KOMEDİ 2" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/sinema_komedi.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| MAX KOMEDİ 2
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110170
-#EXTINF:-1 tvg-id="" tvg-name="|TR| MAX KOMEDİ 3" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/sinema_komedi.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| MAX KOMEDİ 3
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110171
-#EXTINF:-1 tvg-id="" tvg-name="|TR| MAX KOMEDİ 4" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/sinema_komedi.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| MAX KOMEDİ 4
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110172
-#EXTINF:-1 tvg-id="" tvg-name="|TR| MAX KOMEDİ 5" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/sinema_komedi.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| MAX KOMEDİ 5
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110173
-#EXTINF:-1 tvg-id="" tvg-name="|TR| CEO SİNEMA TÜRK 1" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/slsinematurk.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| CEO SİNEMA TÜRK 1
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110174
-#EXTINF:-1 tvg-id="" tvg-name="|TR| CEO SİNEMA TÜRK 2" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/slsinematurk.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| CEO SİNEMA TÜRK 2
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110175
-#EXTINF:-1 tvg-id="" tvg-name="|TR| CEO SİNEMA TÜRK 3" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/slsinematurk.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| CEO SİNEMA TÜRK 3
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110176
-#EXTINF:-1 tvg-id="" tvg-name="|TR| CEO SİNEMA TÜRK 4" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/slsinematurk.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| CEO SİNEMA TÜRK 4
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110177
-#EXTINF:-1 tvg-id="" tvg-name="|TR| CEO SİNEMA TÜRK 5" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/slsinematurk.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| CEO SİNEMA TÜRK 5
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110178
-#EXTINF:-1,TR: ENO ANiMASYON
-http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/66478.ts
-#EXTINF:-1,TR: ENO TURK 1
-http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/66479.ts
-#EXTINF:-1,TR: ENO ViZYON 1
-http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/66480.ts
-#EXTINF:-1,TR: ENO ViZYON 2
-http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/66481.ts
-#EXTINF:-1,TR: ENO ViZYON 3
-http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/66482.ts
-#EXTINF:-1,TR: ENO ViZYON 4
-http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/66483.ts
-#EXTINF:-1,TR: ENO ViZYON 5
-http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/66484.ts
-#EXTINF:-1,TR: ENO ViZYON 6
-http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/66485.ts
-#EXTINF:-1,TR: ENO ViZYON 7
-http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/66486.ts
-#EXTINF:-1,TR: ENO ViZYON 8
-http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/66487.ts
-#EXTINF:-1,TR: ENO ViZYON 9
-http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/66488.ts
-#EXTINF:-1,TR: ENO ViZYON 10
-http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/66489.ts
-#EXTINF:-1,TR: ENO ViZYON 11
-http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/66490.ts
-#EXTINF:-1,TR: ENO ViZYON 12
-http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/66491.ts
-#EXTINF:-1,TR: ENO ViZYON 13
-http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/66492.ts
-#EXTINF:-1,TR: ENO ViZYON 14
-http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/66493.ts
-#EXTINF:-1,TR: ENO ViZYON 15
-http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/66494.ts
-#EXTINF:-1,TR: ENO WESTERN
-http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/66495.ts
-#EXTINF:-1,KEMAL SUNAL TV 1
-http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/69443.ts
-#EXTINF:-1,KEMAL SUNAL TV 2
-http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/69444.ts
 #EXTINF:-1,Netflix HD 1
 http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/83133.ts
 #EXTINF:-1,Netflix HD 2
@@ -543,161 +490,8 @@ http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/83140.ts
 http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/83141.ts
 #EXTINF:-1,Netflix HD 10
 http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/83142.ts
-#EXTINF:-1 tvg-id="" tvg-name="|TR| FOX CRIME HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkey/fox_crime_global.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| FOX CRIME HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110180
-#EXTINF:-1 tvg-id="" tvg-name="|TR| FOX LIFE" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkey/fox_life_global.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| FOX LIFE
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110181
-#EXTINF:-1 tvg-id="" tvg-name="|TR| FX" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/fx.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| FX
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110182
-#EXTINF:-1 tvg-id="" tvg-name="|TR| KEMAL SUNAL TV 1" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/slsinemakemalsunal1.png" group-title="| TR | VIP YESILCAM",|TR| KEMAL SUNAL TV 1
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110264
-#EXTINF:-1 tvg-id="" tvg-name="|TR| KEMAL SUNAL TV 2" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/slsinemakemalsunal2.png" group-title="| TR | VIP YESILCAM",|TR| KEMAL SUNAL TV 2
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110265
-#EXTINF:-1 tvg-id="" tvg-name="|TR| ŞENER ŞEN TV" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/sltv_yesilcam1.png" group-title="| TR | VIP YESILCAM",|TR| ŞENER ŞEN TV
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110266
-#EXTINF:-1 tvg-id="" tvg-name="|TR| ZEKİ - METİN TV" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/sltv_yesilcam1.png" group-title="| TR | VIP YESILCAM",|TR| ZEKİ - METİN TV
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110267
-#EXTINF:-1 tvg-id="" tvg-name="|TR| TATLISES TV" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/sltv_yesilcam1.png" group-title="| TR | VIP YESILCAM",|TR| TATLISES TV
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110268
-#EXTINF:-1 tvg-id="" tvg-name="|TR| CÜNEYT ARKIN TV" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/sltv_yesilcam1.png" group-title="| TR | VIP YESILCAM",|TR| CÜNEYT ARKIN TV
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110269
-#EXTINF:-1 tvg-id="" tvg-name="|TR| MÜSLÜM GÜRSES TV" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/sltv_yesilcam1.png" group-title="| TR | VIP YESILCAM",|TR| MÜSLÜM GÜRSES TV
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110270
-#EXTINF:-1 tvg-id="" tvg-name="|TR| FERDİ TAYFUR TV" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/sltv_yesilcam1.png" group-title="| TR | VIP YESILCAM",|TR| FERDİ TAYFUR TV
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110271
-#EXTINF:-1 tvg-id="" tvg-name="|TR| KADİR İNANIR TV" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/sltv_yesilcam1.png" group-title="| TR | VIP YESILCAM",|TR| KADİR İNANIR TV
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110272
-#EXTINF:-1 tvg-id="" tvg-name="|TR| FİLİZ AKIN TV" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/sltv_yesilcam1.png" group-title="| TR | VIP YESILCAM",|TR| FİLİZ AKIN TV
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110273
-#EXTINF:-1 tvg-id="" tvg-name="|TR| TARIK AKAN TV" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/sltv_yesilcam1.png" group-title="| TR | VIP YESILCAM",|TR| TARIK AKAN TV
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110274
-#EXTINF:-1 tvg-id="" tvg-name="|TR| TÜRKAN ŞORAY TV" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/sltv_yesilcam1.png" group-title="| TR | VIP YESILCAM",|TR| TÜRKAN ŞORAY TV
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110275
-#EXTINF:-1 tvg-id="" tvg-name="|TR| HÜLYA KOÇYİĞİT TV" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/sltv_yesilcam1.png" group-title="| TR | VIP YESILCAM",|TR| HÜLYA KOÇYİĞİT TV
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110276
-#EXTINF:-1 tvg-id="" tvg-name="|TR| ORHAN GENCEBAY TV" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/sltv_yesilcam1.png" group-title="| TR | VIP YESILCAM",|TR| ORHAN GENCEBAY TV
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110277
-#EXTINF:-1 tvg-id="" tvg-name="|TR| WEST SİNEMA TV 1 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/cinemawest.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| WEST SİNEMA TV 1 HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110340
-#EXTINF:-1 tvg-id="" tvg-name="|TR| WEST SİNEMA TV 2 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/cinemawest.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| WEST SİNEMA TV 2 HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110341
-#EXTINF:-1 tvg-id="" tvg-name="|TR| WEST SİNEMA TV 3 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/cinemawest.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| WEST SİNEMA TV 3 HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110342
-#EXTINF:-1 tvg-id="" tvg-name="|TR| WEST SİNEMA TV 4 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/cinemawest.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| WEST SİNEMA TV 4 HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110343
-#EXTINF:-1 tvg-id="" tvg-name="|TR| WEST SİNEMA TV 5 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/cinemawest.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| WEST SİNEMA TV 5 HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110344
-#EXTINF:-1 tvg-id="" tvg-name="|TR| WEST SİNEMA TV 6 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/cinemawest.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| WEST SİNEMA TV 6 HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110345
-#EXTINF:-1 tvg-id="" tvg-name="|TR| WEST SİNEMA TV 7 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/cinemawest.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| WEST SİNEMA TV 7 HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110346
-#EXTINF:-1 tvg-id="" tvg-name="|TR| WEST SİNEMA TV 8 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/cinemawest.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| WEST SİNEMA TV 8 HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110347
-#EXTINF:-1 tvg-id="" tvg-name="|TR| WEST SİNEMA TV 9 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/cinemawest.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| WEST SİNEMA TV 9 HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110348
-#EXTINF:-1 tvg-id="" tvg-name="|TR| WEST SİNEMA TV 10 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/cinemawest.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| WEST SİNEMA TV 10 HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110349
-#EXTINF:-1 tvg-id="" tvg-name="|TR| FILM BOX OFFICE 1" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/film_box_office_Logo/1.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| FILM BOX OFFICE 1
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110350
-#EXTINF:-1 tvg-id="" tvg-name="|TR| FILM BOX OFFICE 2" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/film_box_office_Logo/2.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| FILM BOX OFFICE 2
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110351
-#EXTINF:-1 tvg-id="" tvg-name="|TR| FILM BOX OFFICE 3" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/film_box_office_Logo/3.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| FILM BOX OFFICE 3
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110352
-#EXTINF:-1 tvg-id="" tvg-name="|TR| FILM BOX OFFICE 4" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/film_box_office_Logo/4.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| FILM BOX OFFICE 4
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110353
-#EXTINF:-1 tvg-id="" tvg-name="|TR| FILM BOX OFFICE 5" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/film_box_office_Logo/5.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| FILM BOX OFFICE 5
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110354
-#EXTINF:-1 tvg-id="" tvg-name="|TR| FILM BOX OFFICE 6" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/film_box_office_Logo/6.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| FILM BOX OFFICE 6
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110355
-#EXTINF:-1 tvg-id="" tvg-name="|TR| FILM BOX OFFICE 7" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/film_box_office_Logo/7.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| FILM BOX OFFICE 7
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110356
-#EXTINF:-1 tvg-id="" tvg-name="|TR| FILM BOX OFFICE 8" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/film_box_office_Logo/8.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| FILM BOX OFFICE 8
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110357
-#EXTINF:-1 tvg-id="" tvg-name="|TR| FILM BOX OFFICE 9" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/film_box_office_Logo/9.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| FILM BOX OFFICE 9
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110358
-#EXTINF:-1 tvg-id="" tvg-name="|TR| FILM BOX OFFICE 10" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/film_box_office_Logo/10.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| FILM BOX OFFICE 10
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110359
-#EXTINF:-1 tvg-id="" tvg-name="|TR| SALON 1 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/salonhd/salon1hd.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| SALON 1 HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110370
-#EXTINF:-1 tvg-id="" tvg-name="|TR| SALON 2 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/salonhd/salon2hd.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| SALON 2 HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110371
-#EXTINF:-1 tvg-id="" tvg-name="|TR| SALON 3 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/salonhd/salon3hd.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| SALON 3 HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110372
-#EXTINF:-1 tvg-id="" tvg-name="|TR| SALON 4 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/salonhd/salon4hd.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| SALON 4 HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110373
-#EXTINF:-1 tvg-id="" tvg-name="|TR| SALON 5 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/salonhd/salon5hd.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| SALON 5 HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110374
-#EXTINF:-1 tvg-id="" tvg-name="|TR| SALON  6 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/salonhd/salon6hd.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| SALON  6 HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110375
-#EXTINF:-1 tvg-id="" tvg-name="|TR| SALON 7 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/salonhd/salon7hd.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| SALON 7 HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110376
-#EXTINF:-1 tvg-id="" tvg-name="|TR| SALON 8 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/salonhd/salon7hd.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| SALON 8 HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110377
-#EXTINF:-1 tvg-id="" tvg-name="|TR| SALON 9 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/salonhd/salon9hd.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| SALON 9 HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110378
-#EXTINF:-1 tvg-id="" tvg-name="|TR| SALON 10 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/salonhd/salon10hd.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| SALON 10 HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110379
-#EXTINF:-1 tvg-id="" tvg-name="|TR| LOCA 1 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/locatv/loca1.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| LOCA 1 HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110390
-#EXTINF:-1 tvg-id="" tvg-name="|TR| LOCA 2 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/locatv/loca2.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| LOCA 2 HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110391
-#EXTINF:-1 tvg-id="" tvg-name="|TR| LOCA 3 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/locatv/loca3.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| LOCA 3 HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110392
-#EXTINF:-1 tvg-id="" tvg-name="|TR| LOCA 4 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/locatv/loca4.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| LOCA 4 HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110393
-#EXTINF:-1 tvg-id="" tvg-name="|TR| LOCA 5 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/locatv/loca5.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| LOCA 5 HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110394
-#EXTINF:-1 tvg-id="" tvg-name="|TR| LOCA 6 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/locatv/loca6.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| LOCA 6 HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110395
-#EXTINF:-1 tvg-id="" tvg-name="|TR| LOCA 7 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/locatv/loca7.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| LOCA 7 HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110396
-#EXTINF:-1 tvg-id="" tvg-name="|TR| LOCA 8 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/locatv/loca8.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| LOCA 8 HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110397
-#EXTINF:-1 tvg-id="" tvg-name="|TR| LOCA 9 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/locatv/loca9.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| LOCA 9 HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110398
-#EXTINF:-1 tvg-id="" tvg-name="|TR| LOCA 10 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/locatv/loca10.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| LOCA 10 HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110399
 
-------------------------------
-
-🌟YEDEK SİNEMA TV🌟
-
-#EXTINF:-1,SINEMA TV HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/120858
-#EXTINF:-1,SINEMA TV YERLI FHD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/120862
-#EXTINF:-1,SINEMA TV AILE 2 FHD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/120866
-#EXTINF:-1,SINEMA TV AILE 2 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/120867
-#EXTINF:-1,SINEMA TV AKSIYON 2 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/120871
-#EXTINF:-1,SINEMA TV KOMEDI FHD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/120872
-#EXTINF:-1,SINEMA TV KOMEDI 2 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/120875
-#EXTINF:-1,Sinema TV HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/125657
-#EXTINF:-1,Sinema TV 1 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/125658
-#EXTINF:-1,Sinema TV 2 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/125659
-#EXTINF:-1,Sinema TV Yerli 1 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/125660
-#EXTINF:-1,Sinema TV Yerli 2 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/125661
-#EXTINF:-1,Sinema TV Aksiyon 1 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/125662
-#EXTINF:-1,Sinema TV Aile 1 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/125663
-#EXTINF:-1,Sinema TV 1001 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/125664
-#EXTINF:-1,SInema TV 1002 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/125665
-#EXTINF:26,FX
-http://bit.ly/38XSbZ5
-
-🌟CINEMAXİMUM TV--
+------🌟CINEMAXİMUM TV----ATRAXSİON----
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Aksiyon ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/AKSIYON.png" group-title="TR - CINEMAXIMUM",TR: Cinemaximum Aksiyon ʜᴅ
 http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/40
@@ -756,15 +550,48 @@ http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/323
 #EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Gerilim ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/GERILIM.png" group-title="TR - CINEMAXIMUM",TR: Cinemaximum Gerilim ʜᴅ
 http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/324
 
+-----YENİ DİJİTAL MEDYA---OXSİON----
+
+#EXTINF:-1,TR: ENO ANiMASYON
+http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/66478.ts
+#EXTINF:-1,TR: ENO TURK 1
+http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/66479.ts
+#EXTINF:-1,TR: ENO ViZYON 1
+http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/66480.ts
+#EXTINF:-1,TR: ENO ViZYON 2
+http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/66481.ts
+#EXTINF:-1,TR: ENO ViZYON 3
+http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/66482.ts
+#EXTINF:-1,TR: ENO ViZYON 4
+http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/66483.ts
+#EXTINF:-1,TR: ENO ViZYON 5
+http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/66484.ts
+#EXTINF:-1,TR: ENO ViZYON 6
+http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/66485.ts
+#EXTINF:-1,TR: ENO ViZYON 7
+http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/66486.ts
+#EXTINF:-1,TR: ENO ViZYON 8
+http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/66487.ts
+#EXTINF:-1,TR: ENO ViZYON 9
+http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/66488.ts
+#EXTINF:-1,TR: ENO ViZYON 10
+http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/66489.ts
+#EXTINF:-1,TR: ENO ViZYON 11
+http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/66490.ts
+#EXTINF:-1,TR: ENO ViZYON 12
+http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/66491.ts
+#EXTINF:-1,TR: ENO ViZYON 13
+http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/66492.ts
+#EXTINF:-1,TR: ENO ViZYON 14
+http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/66493.ts
+#EXTINF:-1,TR: ENO ViZYON 15
+http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/66494.ts
+#EXTINF:-1,TR: ENO WESTERN
+http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/66495.ts
+
 🌟BULU-SINEMA-TV-
 
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Recep İvedik ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/RECEP.IVEDIK.png" group-title="TR - SINEMA",TR: BlueTV Recep İvedik ʜᴅ
-http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/77
-#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Marvel Cinema 1 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/MARVEL/BLUE.MARVEL.1.png" group-title="TR - SINEMA",TR: BlueTV Marvel Cinema 1 HD
-http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/247
-#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Marvel Cinema 2 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/MARVEL/BLUE.MARVEL.2.png" group-title="TR - SINEMA",TR: BlueTV Marvel Cinema 2 HD
-http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/248
+
 #EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Western Cinema 1 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/WESTERN.1.png" group-title="TR - SINEMA",TR: BlueTV Western Cinema 1 HD
 http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/249
 #EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Western Cinema 2 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/WESTERN.2.png" group-title="TR - SINEMA",TR: BlueTV Western Cinema 2 HD
@@ -774,9 +601,6 @@ http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/250
 http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/327
 #EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Amerikan Pastası ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/AMERICAN.PASTASI.png" group-title="TR - SINEMA",TR: BlueTV Amerikan Pastası ʜᴅ
 http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/328
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Şafak Sezer ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/SAFAK.SEZER.png" group-title="TR - SINEMA",TR: BlueTV Şafak Sezer ʜᴅ
-http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/341
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Yeraltı Canavarı ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/YERALTI.CANAVARI.png" group-title="TR - SINEMA",TR: BlueTV Yeraltı Canavarı ʜᴅ
 http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/344
@@ -794,12 +618,7 @@ http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/492
 #EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Testere ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/TESTERE.png" group-title="TR - SINEMA",TR: BlueTV Testere ʜᴅ
 http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/493
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Kemal Sunal 1 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KEMAL.SUNAL.1.png" group-title="TR - YESILCAM",TR: BlueTV Kemal Sunal 1 ʜᴅ
-http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/78
-#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Kemal Sunal 2 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KEMAL.SUNAL.2.png" group-title="TR - YESILCAM",TR: BlueTV Kemal Sunal 2 ʜᴅ
-http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/79
-#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Kemal Sunal 3 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KEMAL.SUNAL.3.png" group-title="TR - YESILCAM",TR: BlueTV Kemal Sunal 3 ʜᴅ
-http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/80
+
 #EXTINF:-1,===TR SINEMA===
 http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/6625.ts
 #EXTINF:-1,TR:beIN MOVIES ACITON HD
@@ -864,6 +683,7 @@ http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/83254.ts
 http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/66952.ts
 #EXTINF:-1,Guldur Guldur Show 2
 http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/66953.ts
+
 🌟SİNBOX SİNEMA TV
 
 #EXTINF:-1,BEIN BOX OFFICE 1 FHD
@@ -935,7 +755,8 @@ http://sinbox.pro:8080/casper01/H3g3gADDS2/125714
 http://sinbox.pro:8080/casper01/H3g3gADDS2/125715
 
 ----TV-BU----
-
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Box FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/TR.SPOR/FHD/BOX.png" group-title="TR - SPOR",TR: BlueTV Box FHD
+http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/10267
 #EXTINF:-1 tvg-id="SinemaTV.tr"  tvg-logo="https://picon-13398.kxcdn.com/sinematvtr.jpg" group-title="Sinema",Sinema ᴴᴰ TR
 http://195.175.224.219:6610/001/2/ch00000090990000001242/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001242&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
@@ -1036,16 +857,7 @@ http://sinbox.pro:8080/casper01/H3g3gADDS2/125745
 #EXTINF:-1,Anonym TV Ask Romantik
 http://sinbox.pro:8080/casper01/H3g3gADDS2/125746
 
-#EXTINF:-1,Anonym TV Zeki Metin
-http://sinbox.pro:8080/casper01/H3g3gADDS2/125748
 
-#EXTINF:-1,Anonym TV Yılmaz Güney HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/125749
-#EXTINF:-1,Anonym TV  Şener Şen HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/125750
-
-#EXTINF:-1,Anonym TV Müjdat Gezen
-http://sinbox.pro:8080/casper01/H3g3gADDS2/125753
 #EXTINF:-1,Anonym TV Çocuk Animasyon
 http://sinbox.pro:8080/casper01/H3g3gADDS2/125754
 #EXTINF:-1,Anonym TV İbrahim TATLISES HD
@@ -1054,26 +866,12 @@ http://sinbox.pro:8080/casper01/H3g3gADDS2/125755
 http://sinbox.pro:8080/casper01/H3g3gADDS2/125756
 #EXTINF:-1,Anonym TV Tarık AKAN HD
 http://sinbox.pro:8080/casper01/H3g3gADDS2/125757
-#EXTINF:-1,Anonym TV Öztürk SERENGİL HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/125758
-#EXTINF:-1,Anonym TV Aydemir  Akbaş
-http://sinbox.pro:8080/casper01/H3g3gADDS2/125759
 #EXTINF:-1,Anonym TV Ferdi Tayfur
 http://sinbox.pro:8080/casper01/H3g3gADDS2/125760
-#EXTINF:-1,Anonym TV İlyas Salman
-http://sinbox.pro:8080/casper01/H3g3gADDS2/125761
 #EXTINF:-1,Anonym TV Müjde AR
 http://sinbox.pro:8080/casper01/H3g3gADDS2/125762
-#EXTINF:-1,Anonym TV Recep İvedik
-http://sinbox.pro:8080/casper01/H3g3gADDS2/125763
-#EXTINF:-1,Anonym TV Sadri Alışık
-http://sinbox.pro:8080/casper01/H3g3gADDS2/125764
-#EXTINF:-1,Anonym TV Şener Şen
-http://sinbox.pro:8080/casper01/H3g3gADDS2/125765
 #EXTINF:-1,Anonym TV Türkan Şoray
 http://sinbox.pro:8080/casper01/H3g3gADDS2/125766
-#EXTINF:-1,Anonym TV Safak Sezer HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/125767
 #EXTINF:-1 tvg-id="" tvg-name="DE: BlueTV 4K ACTION" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/4K/ACTION.png" group-title="DE - 4K CINEMA",DE: BlueTV 4K ACTION
 http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/139
 #EXTINF:-1,Adalet (1977)
@@ -2191,26 +1989,46 @@ http://serkan.oses35.info:8080/movie/ziyasaricigdem03/ziya1045/59233.mkv
 http://serkan.oses35.info:8080/movie/ziyasaricigdem03/ziya1045/59234.mkv
 #EXTINF:-1,Mehmet Salih (2016)
 http://serkan.oses35.info:8080/movie/ziyasaricigdem03/ziya1045/59235.mkv
-#EXTINF:-1,7.Gefangene.2021
-http://serkan.oses35.info:8080/movie/ziyasaricigdem03/ziya1045/60953.mkv
-#EXTINF:-1,Beckenrand Sheriff (2021)
-http://serkan.oses35.info:8080/movie/ziyasaricigdem03/ziya1045/60954.mkv
-#EXTINF:-1,Benedetta (2021)
-http://serkan.oses35.info:8080/movie/ziyasaricigdem03/ziya1045/60955.mkv
-#EXTINF:-1,Black.Box.Gefaehrliche.Wahrheit.2021
-http://serkan.oses35.info:8080/movie/ziyasaricigdem03/ziya1045/60956.mkv
-#EXTINF:-1,Copshop.2021
-http://serkan.oses35.info:8080/movie/ziyasaricigdem03/ziya1045/60957.mkv
-#EXTINF:-1,Deadlock.German.2021
-http://serkan.oses35.info:8080/movie/ziyasaricigdem03/ziya1045/60958.mkv
-#EXTINF:-1,Dear.Evan.Hansen.2021
-http://serkan.oses35.info:8080/movie/ziyasaricigdem03/ziya1045/60959.mkv
-#EXTINF:-1,Die.Geige.meines.Vaters.2022
-http://serkan.oses35.info:8080/movie/ziyasaricigdem03/ziya1045/60960.mkv
-#EXTINF:-1,Eternals (2021)
-http://serkan.oses35.info:8080/movie/ziyasaricigdem03/ziya1045/60961.mkv
-#EXTINF:-1,Fabian oder Der Gang vor die Hunde (2021)
-http://serkan.oses35.info:8080/movie/ziyasaricigdem03/ziya1045/60962.mkv
+
+------------🌟YEDEK SİNEMA TV🌟------------------
+
+
+#EXTINF:-1,SINEMA TV HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/120858
+#EXTINF:-1,SINEMA TV YERLI FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/120862
+#EXTINF:-1,SINEMA TV AILE 2 FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/120866
+#EXTINF:-1,SINEMA TV AILE 2 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/120867
+#EXTINF:-1,SINEMA TV AKSIYON 2 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/120871
+#EXTINF:-1,SINEMA TV KOMEDI FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/120872
+#EXTINF:-1,SINEMA TV KOMEDI 2 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/120875
+#EXTINF:-1,Sinema TV HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125657
+#EXTINF:-1,Sinema TV 1 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125658
+#EXTINF:-1,Sinema TV 2 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125659
+#EXTINF:-1,Sinema TV Yerli 1 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125660
+#EXTINF:-1,Sinema TV Yerli 2 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125661
+#EXTINF:-1,Sinema TV Aksiyon 1 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125662
+#EXTINF:-1,Sinema TV Aile 1 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125663
+#EXTINF:-1,Sinema TV 1001 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125664
+#EXTINF:-1,SInema TV 1002 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125665
+#EXTINF:26,FX
+http://bit.ly/38XSbZ5
+
+
 #EXTINF:-1,Hard Hit (2021)
 http://serkan.oses35.info:8080/movie/ziyasaricigdem03/ziya1045/60963.mkv
 #EXTINF:-1,Hayat Beklemez (2021)
@@ -2258,7 +2076,10 @@ http://sinbox.pro:8080/casper01/H3g3gADDS2/125737
 
 #EXTINF:-1,Anonym TV Cem Yılmaz
 http://sinbox.pro:8080/casper01/H3g3gADDS2/125747
-
+#EXTINF:-1,SLOW KARADENIZ TV
+https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
+#EXTINF:-1,RIZE TURK TV
+https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 #EXTINF:-1,Anonym TV Konuşanlar
 http://sinbox.pro:8080/casper01/H3g3gADDS2/125768
 #EXTINF:-1,Anonym TV Stalk Show
@@ -2329,27 +2150,6 @@ http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/10268
 
 --------------ÇOCUK--------------------
 
-#EXTINF:-1 tvg-id="" tvg-name="|TR| ANIMASYON TV 1" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Animasyon_logo/1.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| ANIMASYON TV 1
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110410
-#EXTINF:-1 tvg-id="" tvg-name="|TR| ANIMASYON TV 2" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Animasyon_logo/2.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| ANIMASYON TV 2
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110411
-#EXTINF:-1 tvg-id="" tvg-name="|TR| ANIMASYON TV 3" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Animasyon_logo/3.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| ANIMASYON TV 3
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110412
-#EXTINF:-1 tvg-id="" tvg-name="|TR| ANIMASYON TV 4" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Animasyon_logo/4.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| ANIMASYON TV 4
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110413
-#EXTINF:-1 tvg-id="" tvg-name="|TR| ANIMASYON TV 5" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Animasyon_logo/5.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| ANIMASYON TV 5
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110414
-#EXTINF:-1 tvg-id="" tvg-name="|TR| ANIMASYON TV 6" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Animasyon_logo/6.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| ANIMASYON TV 6
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110415
-#EXTINF:-1 tvg-id="" tvg-name="|TR| ANIMASYON TV 7" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Animasyon_logo/7.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| ANIMASYON TV 7
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110416
-#EXTINF:-1 tvg-id="" tvg-name="|TR| ANIMASYON TV 8" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Animasyon_logo/8.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| ANIMASYON TV 8
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110417
-#EXTINF:-1 tvg-id="" tvg-name="|TR| ANIMASYON TV 9" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Animasyon_logo/9.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| ANIMASYON TV 9
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110418
-#EXTINF:-1 tvg-id="" tvg-name="|TR| ANIMASYON TV 10" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Animasyon_logo/10.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| ANIMASYON TV 10
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110419
-
 #EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Maşa ile Koca Ayı HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/COCUK/MASA.ILE.KOCA.AYI.png" group-title="TR - COCUK",TR: BlueTV Maşa ile Koca Ayı HD
 http://vip.etibsa.pro:8080/bizimpanel/vtmP8wxADCT5/115
 #EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Animasyon 1 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/COCUK/ANIMASYON.1.png" group-title="TR - COCUK",TR: BlueTV Animasyon 1 HD
@@ -2386,6 +2186,7 @@ http://lideriptv200.xyz:8080/Cihan/Cihan123/110714
 http://lideriptv200.xyz:8080/Cihan/Cihan123/110716
 #EXTINF:-1 tvg-id="" tvg-name="|TR| PEPEE TV" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/pepee_tv.png" group-title="| TR | TURKIYE COCUK",|TR| PEPEE TV
 http://lideriptv200.xyz:8080/Cihan/Cihan123/110717
+
 ----------MÜZİK---------------------
 
 #EXTINF:-1 tvg-id="" tvg-name="TR:  BlueTV Karadeniz HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/MUZIK/KARADENIZ.png" group-title="TR - MÜZIK",TR:  BlueTV Karadeniz HD
@@ -2776,12 +2577,8 @@ https://yayin30.haber100.com/live/womanlifetv/chunklist_w1849606546.m3u8
 https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
 #EXTINF:0 type="stream" channelId="4630" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-D3Z_juwLUO4/YI3eODT7eKI/AAAAAAAATQ4/nd79x-fS78A4rx11kbKNzwRCUdCOY6roQCLcBGAsYHQ/s0/EUROSTAR%2B-%2BKopya.png", EURO STAR
 https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8
-
 #EXTINF:0 type="stream" channelId="4629" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-o4BLIBZhiEA/YI3eOJgvp9I/AAAAAAAATQ0/gUXItNN4_h0YQZc3aZCYRMsBOPHSDO9cACLcBGAsYHQ/s0/EUROD%2B-%2BKopya.png", EURO D YEDEK
 https://mn-nl.mncdn.com/blutv_eurod2/live.m3u8
-
-
-
 #EXTINF:0 type="stream" channelId="989" group-title="1_ULUSAL_KANALLAR" logo="https://vipotv.com/wp-content/uploads/2019/05/TRT-Turk-canli-izle-vpiotv-turkiye-haber-bilgi-eglence-servisi.png", TRT TURK HD
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 type="stream" channelId="989" group-title="1_ULUSAL_KANALLAR" logo="https://vipotv.com/wp-content/uploads/2019/05/TRT-Turk-canli-izle-vpiotv-turkiye-haber-bilgi-eglence-servisi.png", TRT TURK HD YEDEK
@@ -2930,7 +2727,6 @@ https://tv.digitalbox.xyz:19360/edessatv/edessatv.m3u8
 https://mn-nl.mncdn.com/blutv_ertv2/live.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="11_YEREL_iPTV_KANALLAR" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcwWseyOai0bt7i3hYzggNGRDXCie_POM9ksCuV3WkCrh6a0FJFbWBpmfXTOQwFMwU_H0GS3zFFj3aIMWEkiivn-WLCwW934t7dzBi2iQ0rdKpYe1dFSaofN6CtHad8fbMeZXCmZhVHDdhFLdgg7fWU7oVH5fSPlQI8K8r2JSSttqbrzN0vzRKtr9ocw/s150/ERTV-izle-malatya-turkiye-vipotv.png", ER TV YEDEK
 https://waw2.artiyerelmedya.net/ertv/bant1/playlist.m3u8
-
 #EXTINF:0 type="stream" channelId="-1" group-title="11_YEREL_iPTV_KANALLAR" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmxx1z92PqT9EjesL8ZYB58OHtEK0lhFcX0V_3Hczf2xAkfb0dujxVYm1SBss1ZMjqqyKed-fubkhenFKFjEAar8i7mHstZ-uQwdk-jo8mV8DeUha5WDCReYv4P8PLbADoCOEH9S398xBI7tyPCZ_0YTzuxGrUd4meRspMlTablW2cU0aT9qi8R7Dpqw/s150/ETV-Kayseri-izle-vipotv-turkiye.png", ETV KAYSERi
 http://yerelmedya.tv:1935/etv/bant1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="11_YEREL_iPTV_KANALLAR" logo="https://1.bp.blogspot.com/-qnvsSfKZkaE/XosbQ_wpk5I/AAAAAAAALZ8/sw51BWqvh7IOBqRYfareRdwGp6lrY2snACLcBGAsYHQ/s200/ETV.PNG", ETV MANiSA
@@ -3208,6 +3004,43 @@ http://sinbox.pro:8080/casper01/H3g3gADDS2/81334
 http://sinbox.pro:8080/casper01/H3g3gADDS2/81337
 #EXTINF:-1,TR: 360 HD
 http://sinbox.pro:8080/casper01/H3g3gADDS2/81341 
+
+------------🌟YEDEK SİNEMA TV🌟------------------
+
+#EXTINF:-1,SINEMA TV HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/120858
+#EXTINF:-1,SINEMA TV YERLI FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/120862
+#EXTINF:-1,SINEMA TV AILE 2 FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/120866
+#EXTINF:-1,SINEMA TV AILE 2 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/120867
+#EXTINF:-1,SINEMA TV AKSIYON 2 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/120871
+#EXTINF:-1,SINEMA TV KOMEDI FHD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/120872
+#EXTINF:-1,SINEMA TV KOMEDI 2 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/120875
+#EXTINF:-1,Sinema TV HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125657
+#EXTINF:-1,Sinema TV 1 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125658
+#EXTINF:-1,Sinema TV 2 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125659
+#EXTINF:-1,Sinema TV Yerli 1 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125660
+#EXTINF:-1,Sinema TV Yerli 2 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125661
+#EXTINF:-1,Sinema TV Aksiyon 1 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125662
+#EXTINF:-1,Sinema TV Aile 1 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125663
+#EXTINF:-1,Sinema TV 1001 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125664
+#EXTINF:-1,SInema TV 1002 HD
+http://sinbox.pro:8080/casper01/H3g3gADDS2/125665
+#EXTINF:26,FX
+http://bit.ly/38XSbZ5
 
 #EXTINF:1,HISTORY TV 
 http://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/chunks.m3u8
@@ -3853,6 +3686,7 @@ http://sinbox.pro:8080/casper01/H3g3gADDS2/44631
 http://sinbox.pro:8080/casper01/H3g3gADDS2/49110
 #EXTINF:-1,TIVIBU SPOR 3 HD
 http://sinbox.pro:8080/casper01/H3g3gADDS2/49129
+
 #EXTINF:-1,✦ ✦ ✦ TR SPOR ✦ ✦ ✦
 http://sinbox.pro:8080/casper01/H3g3gADDS2/109532
 #EXTINF:-1,TR: A SPOR FHD
@@ -5048,12 +4882,7 @@ https://eu1.vod.rdncdn.com/movies/Melekler-Ve-Kumarbazlar.mp4/index.m3u8
 https://eu1.vod.rdncdn.com/vod4/Movies/AutoTopMovies/TR/Mile22.mp4/index.m3u8
 #EXTINF:-1, Gutenberg Projesi 
 https://eu2.vod.rdncdn.com/VOD1/Movies/TR/Mouseung.mp4/index.m3u8
-#EXTINF:-1, Mumya 
-https://eu2.vod.rdncdn.com/VOD1/Movies/TR/Mumya1.mp4/index.m3u8
-#EXTINF:-1, Mumya 2: Mumya Geri Dönüyor 
-https://eu2.vod.rdncdn.com/VOD1/Movies/TR/Mumya2.mp4/index.m3u8
-#EXTINF:-1, Mumya 3: Ejder İmparatoru\'nun Mezarı 
-https://eu2.vod.rdncdn.com/VOD1/Movies/TR/Mumya3.mp4/index.m3u8
+
 #EXTINF:-1, Muro: Nalet Olsun İçimdeki İnsan Sevgisine 
 https://eu1.vod.rdncdn.com/movies/Muro.mp4/index.m3u8
 #EXTINF:-1, Musallat 
@@ -20100,493 +19929,7 @@ https://ia601409.us.archive.org/25/items/122687/7Dak%20-%20dormindo%20com%20prim
 #EXTINF:0,215
 https://ia601409.us.archive.org/25/items/122687/7Dak%20-%20genel%20populer.avi
 
-#EXTM3U
-#EXTINF:-1,XXX 4K porn
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/56718
-#EXTINF:-1,Tiny 4K - VOD 01
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/6868
-#EXTINF:-1,Tiny 4K - VOD 02
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/6869
-#EXTINF:-1,Tiny 4K - VOD 03
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/6870
-#EXTINF:-1,Tiny 4K - VOD 04
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/6871
-#EXTINF:-1,Tiny 4K - VOD 05
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/6872
-#EXTINF:-1,Tiny 4K - VOD 06
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/6873
-#EXTINF:-1,Tiny 4K - VOD 07
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/6874
-#EXTINF:-1,Tiny 4K - VOD 08
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/6875
-#EXTINF:-1,Tiny 4K - VOD 09
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/6876
-#EXTINF:-1,Tiny 4K - VOD 10
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/6877
-#EXTINF:-1,Tiny 4K - VOD 11
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/6878
-#EXTINF:-1,Tiny 4K - VOD 12
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/6879
-#EXTINF:-1,Tiny 4K - VOD 13
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/6880
-#EXTINF:-1,XXX A3Bikini TV (New!)
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/6564
-#EXTINF:-1,XXX Amateur Euro
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/31229
-#EXTINF:-1,XXX ANMIE
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/29824
-#EXTINF:-1,XXX Asian exotic
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/29868
-#EXTINF:-1,XXX BABES TV
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/31219
-#EXTINF:-1,XXX Balkan Erotic
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/31220
-#EXTINF:-1,XXX Barely Legal
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/9354
-#EXTINF:-1,XXX BLUE
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/29875
-#EXTINF:-1,XXX BRAZZERs TV
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/14716
-#EXTINF:-1,XXX Casting Couch HD
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/29866
-#EXTINF:-1,XXX Daddy Porn HD
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/29874
-#EXTINF:-1,XXX International girls
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/29871
-#EXTINF:-1,XXX DDF Network 2
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/29869
-#EXTINF:-1,XXX Porn net
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/29873
-#EXTINF:-1,XXX Dorcel Delux
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/31240
-#EXTINF:-1,XXX DUSK
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/14719
-#EXTINF:-1,XXX EVIL Y ANGEL
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/31244
-#EXTINF:-1,XXX Fake Agent
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/14717
-#EXTINF:-1,XXX Fake Taxi
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/31232
-#EXTINF:-1,XXX FETISH HD
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/31238
-#EXTINF:-1,XXX FTV Midnight Secrets (HD)
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/6568
-#EXTINF:-1,XXX GIRLS GONE WILD
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/31221
-#EXTINF:-1,XXX Glamour porn
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/31223
-#EXTINF:-1,XXX GONZO com HD
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/29872
-#EXTINF:-1,XXX GROUP SEX DON'T BREAK ME
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/31218
-#EXTINF:-1,XXX Hardcore
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/6589
-#EXTINF:-1,XXX HUSTLER TV
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/14720
-#EXTINF:-1,XXX Jasmin TV (HD)
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/6571
-#EXTINF:-1,XXX Massage Parlor
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/29865
-#EXTINF:-1,XXX Mateur Milfs
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/29863
-#EXTINF:-1,XXX Meiden Van Holland
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/14723
-#EXTINF:-1,XXX Mia
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/29827
-#EXTINF:-1,XXX Miami TV Jenny Live (after 8pm)
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/9358
-#EXTINF:-1,XXX Miami TV Latino aftar 8pm
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/9359
-#EXTINF:-1,XXX Midget 1
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/31213
-#EXTINF:-1,XXX MILF
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/6593
-#EXTINF:-1,XXX MILF TV
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/31241
-#EXTINF:-1,XXX PAJEROS
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/31237
-#EXTINF:-1,XXX PENTHOUSE TV
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/14718
-#EXTINF:-1,XXX PLAYBOY
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/14722
-#EXTINF:-1,XXX POV
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/6594
-#EXTINF:-1,XXX PRIVATE TV HD
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/31215
-#EXTINF:-1,XXX PUBLIC SEX
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/32682
-#EXTINF:-1,XXX REALKINGS
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/31216
-#EXTINF:-1,XXX Shemale TV 1
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/9352
-#EXTINF:-1,XXX Shemale TV 2
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/9353
-#EXTINF:-1,XXX TEENS
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/29825
-#EXTINF:-1,XXX TUSHI RAW
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/31243
-#EXTINF:-1,XXX Visit-X TV
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/9370
-#EXTINF:-1,XXX Visit-X TV (Opt-1)
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/6580
-#EXTINF:-1,XXX XPANDED
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/6590
-#EXTINF:-1,XXX | PINK O TV
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/32688
-#EXTINF:-1,XXX:  POV
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/32689
-#EXTINF:-1,XXX: ADULTVS tv rooms
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/49696
-#EXTINF:-1,XXX: ALBA  1  HD
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/35859
-#EXTINF:-1,XXX: ALBA 5
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/31214
-#EXTINF:-1,XXX: ALBA 2
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/35860
-#EXTINF:-1,XXX: ALBA 3
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/35861
-#EXTINF:-1,XXX: ALBA 4
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/35862
-#EXTINF:-1,XXX: ASS Deeper
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/49706
-#EXTINF:-1,XXX: BabyGirl swap
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/45067
-#EXTINF:-1,XXX: BANG BROS
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/32684
-#EXTINF:-1,XXX: Bang.com
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/31233
-#EXTINF:-1,XXX: BIG CALEMBO
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/31239
-#EXTINF:-1,XXX: Blacked
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/29829
-#EXTINF:-1,XXX: Blondie porno HD
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/45065
-#EXTINF:-1,XXX: VIXEN HD
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/49705
-#EXTINF:-1,XXX: BRAZER COMP
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/32686
-#EXTINF:-1,XXX: Brazzers ESp.
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/49704
-#EXTINF:-1,XXX: Brazzers euro
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/32683
-#EXTINF:-1,XXX: BUNGA
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/31242
-#EXTINF:-1,XXX: Busty HD
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/49713
-#EXTINF:-1,XXX: Candy
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/45179
-#EXTINF:-1,XXX: Creampie
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/31230
-#EXTINF:-1,XXX: CZECH STREET HD
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/42767
-#EXTINF:-1,XXX: CZECH STREET PORN
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/31226
-#EXTINF:-1,XXX: DDFNET
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/45066
-#EXTINF:-1,XXX: Desire
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/32691
-#EXTINF:-1,XXX: Dorcel XXX
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/32678
-#EXTINF:-1,XXX: Erotic 8
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/29846
-#EXTINF:-1,XXX: Erox-hd
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/16578
-#EXTINF:-1,XXX: FaKINGS 
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/45069
-#EXTINF:-1,XXX: Fap TV Compilation
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/16588
-#EXTINF:-1,XXX: Fap TV Lesbian
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/16587
-#EXTINF:-1,XXX: Fap TV Teens
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/16586
-#EXTINF:-1,XXX: FETISH HC
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/31224
-#EXTINF:-1,XXX: GAY MAX HD
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/49686
-#EXTINF:-1,XXX: GLORY HOLE
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/32680
-#EXTINF:-1,XXX: Mia Khalifa
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/49687
-#EXTINF:-1,XXX: Hardcore ADULT
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/45035
-#EXTINF:-1,XXX: Hot FHD
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/49728
-#EXTINF:-1,XXX: HotClub FHD
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/29832
-#EXTINF:-1,XXX: Interracial Porn 
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/29876
-#EXTINF:-1,XXX: JASMIN TV.
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/32676
-#EXTINF:-1,XXX: Kinko
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/32687
-#EXTINF:-1,XXX: Girls way HD
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/45064
-#EXTINF:-1,XXX: MGA
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/29840
-#EXTINF:-1,XXX: Miami TV (after 8pm)
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/9357
-#EXTINF:-1,XXX: MOFOS
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/31231
-#EXTINF:-1,XXX: Naked TV HD
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/49694
-#EXTINF:-1,XXX: NEGRAS Y NEGROS
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/31235
-#EXTINF:-1,XXX: NEO Gay 2
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/49688
-#EXTINF:-1,XXX: NUART HD
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/45068
-#EXTINF:-1,XXX: OH LA LA
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/33474
-#EXTINF:-1,XXX: PASSIE Bondage
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/31225
-#EXTINF:-1,XXX: Penthouse 1
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/16581
-#EXTINF:-1,XXX: Penthouse Gold
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/32679
-#EXTINF:-1,XXX: Penthouse Quickies HD
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/16582
-#EXTINF:-1,XXX: PINK EROTIC 1
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/42759
-#EXTINF:-1,XXX: PINK EROTIC 2
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/42760
-#EXTINF:-1,XXX: PINK EROTIC 3
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/42761
-#EXTINF:-1,XXX: PINK EROTIC 4
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/42762
-#EXTINF:-1,XXX: PINK EROTIC 5
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/42763
-#EXTINF:-1,XXX: PINK EROTIC 6
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/42764
-#EXTINF:-1,XXX: PINK EROTIC 7
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/42765
-#EXTINF:-1,XXX: Playboy Europe
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/31234
-#EXTINF:-1,XXX: Private TV
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/16583
-#EXTINF:-1,XXX: REALITY KINGS
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/32677
-#EXTINF:-1,XXX: Redlight HD
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/16576
-#EXTINF:-1,XXX: Rough SEX
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/9347
-#EXTINF:-1,XXX: SEMEX
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/31236
-#EXTINF:-1,XXX: SEXT6SENSO
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/29842
-#EXTINF:-1,XXX: Sextreme SD/hd
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/49726
-#EXTINF:-1,XXX: SHALUN TV
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/29834
-#EXTINF:-1,XXX: Super One
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/32681
-#EXTINF:-1,XXX: Taboo
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/29851
-#EXTINF:-1,XXX: TEENS FOR CASH
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/31222
-#EXTINF:-1,XXX: VIVID RED
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/32690
-#EXTINF:-1,XXX: Vivid Red HD
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/16574
-#EXTINF:-1,XXX: XY MIX
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/49685
-#EXTINF:-1,XXX: XY PLUS
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/33481
-#EXTINF:-1,XXX: MiamiTV Naked Bar
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/82361
-#EXTINF:-1,XXX: Girls Try Anal
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/82364
-#EXTINF:-1,XXX: MiamiTV Naked Kitchen
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/82362
-#EXTINF:-1,XXX: MiamiTV Naked Yoga
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/82363
-#EXTINF:-1,XXX: 24/7 Playboy-Swing
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/87686
-#EXTINF:-1,XXX: 24/7 First BGG
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/87687
-#EXTINF:-1,XXX: 24/7 Amia Miley
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/87688
-#EXTINF:-1,XXX: 24/7 All Holes Filled
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/87689
-#EXTINF:-1,XXX: 24/7 Pleasure
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/87690
-#EXTINF:-1,XXX: 24/7 Girls Having Fun
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/87691
-#EXTINF:-1,XXX: 24/7 Busty Clary
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/87693
-#EXTINF:-1,XXX: 24/7 Cream Pie
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/87694
-#EXTINF:-1,XXX: 24/7 Pure Filth
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/87695
-#EXTINF:-1,XXX: 24/7 Naomi
-http://gunslingertv.org:8080/iptvking150/GZDMfzp7YX/87696
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| Adult" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Xxx-Adult-Rubber-Stamp-square.png" group-title="| XX | FOR ADULTS +18",|XXX| Adult
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110750
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| Squirt de teen" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Xxx-Adult-Rubber-Stamp-square.png" group-title="| XX | FOR ADULTS +18",|XXX| Squirt de teen
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110749
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| Squirt de teen" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Xxx-Adult-Rubber-Stamp-square.png" group-title="| XX | FOR ADULTS +18",|XXX| Squirt de teen
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110747
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| Other - Nubiles Porn - Ricky" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Xxx-Adult-Rubber-Stamp-square.png" group-title="| XX | FOR ADULTS +18",|XXX| Other - Nubiles Porn - Ricky
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110745
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| Other - Lust Cinema - Sex Fetish" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Xxx-Adult-Rubber-Stamp-square.png" group-title="| XX | FOR ADULTS +18",|XXX| Other - Lust Cinema - Sex Fetish
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110744
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| Other - Nubiles Porn - Ricky" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Xxx-Adult-Rubber-Stamp-square.png" group-title="| XX | FOR ADULTS +18",|XXX| Other - Nubiles Porn - Ricky
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110740
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| Other - Dane Jones - My Sweet Spot" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Xxx-Adult-Rubber-Stamp-square.png" group-title="| XX | FOR ADULTS +18",|XXX| Other - Dane Jones - My Sweet Spot
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110738
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| Other - Public Pick Ups" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Xxx-Adult-Rubber-Stamp-square.png" group-title="| XX | FOR ADULTS +18",|XXX| Other - Public Pick Ups
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110737
-#EXTINF:-1 tvg-id="EBATVOrtaokul.tr" tvg-name="|TR| Trt Eba TV Ortaokul HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/eba-tv-lise.png" group-title="| TR | TURKIYE COCUK",|TR| Trt Eba TV Ortaokul HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/110726
-#EXTINF:-1 tvg-id="" tvg-name="|TR| SPOR SMART 1 FHD" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/sporsmart.png" group-title="| TR | D-SMART SPOR",|TR| SPOR SMART 1 FHD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/135070
-#EXTINF:-1 tvg-id="" tvg-name="|TR| 4K CINEMA TV 1" tvg-logo="http://play.lideriptv150.com:8080/images/d5e43103389e72ff1ed51420148f442d.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| 4K CINEMA TV 1
-http://lideriptv200.xyz:8080/Cihan/Cihan123/135072
-#EXTINF:-1 tvg-id="" tvg-name="|TR| 4K CINEMA TV 2" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/4kcinematv.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| 4K CINEMA TV 2
-http://lideriptv200.xyz:8080/Cihan/Cihan123/135073
-#EXTINF:-1 tvg-id="" tvg-name="|TR| 4K CINEMA TV 3" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/4kcinematv.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| 4K CINEMA TV 3
-http://lideriptv200.xyz:8080/Cihan/Cihan123/135074
-#EXTINF:-1 tvg-id="" tvg-name="|TR| 4K CINEMA TV 4" tvg-logo="http://play.lideriptv150.com:8080/images/d5e43103389e72ff1ed51420148f442d.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| 4K CINEMA TV 4
-http://lideriptv200.xyz:8080/Cihan/Cihan123/135075
-#EXTINF:-1 tvg-id="" tvg-name="|TR| 4K CINEMA TV 5" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/4kcinematv.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| 4K CINEMA TV 5
-http://lideriptv200.xyz:8080/Cihan/Cihan123/135076
-#EXTINF:-1 tvg-id="" tvg-name="|TR| 4K CINEMA TV 6" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/4kcinematv.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| 4K CINEMA TV 6
-http://lideriptv200.xyz:8080/Cihan/Cihan123/135077
-#EXTINF:-1 tvg-id="" tvg-name="|TR| 4K CINEMA TV 7" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/4kcinematv.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| 4K CINEMA TV 7
-http://lideriptv200.xyz:8080/Cihan/Cihan123/135078
-#EXTINF:-1 tvg-id="" tvg-name="|TR| 4K CINEMA TV 8" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/4kcinematv.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| 4K CINEMA TV 8
-http://lideriptv200.xyz:8080/Cihan/Cihan123/135079
-#EXTINF:-1 tvg-id="" tvg-name="|TR| 4K CINEMA TV 9" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/4kcinematv.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| 4K CINEMA TV 9
-http://lideriptv200.xyz:8080/Cihan/Cihan123/135080
-#EXTINF:-1 tvg-id="" tvg-name="|TR| 4K CINEMA TV 10" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/4kcinematv.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| 4K CINEMA TV 10
-http://lideriptv200.xyz:8080/Cihan/Cihan123/135081
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| BRAZZERS" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Xxx-Adult-Rubber-Stamp-square.png" group-title="| XX | FOR ADULTS +18",|XXX| BRAZZERS
-http://lideriptv200.xyz:8080/Cihan/Cihan123/135442
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| Massage Rooms HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Xxx-Adult-Rubber-Stamp-square.png" group-title="| XX | FOR ADULTS +18",|XXX| Massage Rooms HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/135443
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| XPLUS-FETİSH  HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Xxx-Adult-Rubber-Stamp-square.png" group-title="| XX | FOR ADULTS +18",|XXX| XPLUS-FETİSH  HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/135444
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| Russian" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Xxx-Adult-Rubber-Stamp-square.png" group-title="| XX | FOR ADULTS +18",|XXX| Russian
-http://lideriptv200.xyz:8080/Cihan/Cihan123/135445
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| HARD X" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Xxx-Adult-Rubber-Stamp-square.png" group-title="| XX | FOR ADULTS +18",|XXX| HARD X
-http://lideriptv200.xyz:8080/Cihan/Cihan123/135446
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| Blue Hustler HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Xxx-Adult-Rubber-Stamp-square.png" group-title="| XX | FOR ADULTS +18",|XXX| Blue Hustler HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/135447
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| Family Strokes" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Xxx-Adult-Rubber-Stamp-square.png" group-title="| XX | FOR ADULTS +18",|XXX| Family Strokes
-http://lideriptv200.xyz:8080/Cihan/Cihan123/135448
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| Penthouse 2 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Xxx-Adult-Rubber-Stamp-square.png" group-title="| XX | FOR ADULTS +18",|XXX| Penthouse 2 HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/135449
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| Dorcel TV HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Xxx-Adult-Rubber-Stamp-square.png" group-title="| XX | FOR ADULTS +18",|XXX| Dorcel TV HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/135450
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| Penthouse Gold FHD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Xxx-Adult-Rubber-Stamp-square.png" group-title="| XX | FOR ADULTS +18",|XXX| Penthouse Gold FHD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/135451
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| Dusk TV" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Xxx-Adult-Rubber-Stamp-square.png" group-title="| XX | FOR ADULTS +18",|XXX| Dusk TV
-http://lideriptv200.xyz:8080/Cihan/Cihan123/135452
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| Adult Tv 1" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Xxx-Adult-Rubber-Stamp-square.png" group-title="| XX | FOR ADULTS +18",|XXX| Adult Tv 1
-http://lideriptv200.xyz:8080/Cihan/Cihan123/146809
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| Adult Tv 2" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Xxx-Adult-Rubber-Stamp-square.png" group-title="| XX | FOR ADULTS +18",|XXX| Adult Tv 2
-http://lideriptv200.xyz:8080/Cihan/Cihan123/146810
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| Adult Tv 3" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Xxx-Adult-Rubber-Stamp-square.png" group-title="| XX | FOR ADULTS +18",|XXX| Adult Tv 3
-http://lideriptv200.xyz:8080/Cihan/Cihan123/146811
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| Adult Tv 4" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Xxx-Adult-Rubber-Stamp-square.png" group-title="| XX | FOR ADULTS +18",|XXX| Adult Tv 4
-http://lideriptv200.xyz:8080/Cihan/Cihan123/146812
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| Adult Tv 5" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Xxx-Adult-Rubber-Stamp-square.png" group-title="| XX | FOR ADULTS +18",|XXX| Adult Tv 5
-http://lideriptv200.xyz:8080/Cihan/Cihan123/146813
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| Adult Tv 6" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Xxx-Adult-Rubber-Stamp-square.png" group-title="| XX | FOR ADULTS +18",|XXX| Adult Tv 6
-http://lideriptv200.xyz:8080/Cihan/Cihan123/146814
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| Adult Tv 7" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Xxx-Adult-Rubber-Stamp-square.png" group-title="| XX | FOR ADULTS +18",|XXX| Adult Tv 7
-http://lideriptv200.xyz:8080/Cihan/Cihan123/146815
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| Adult Tv 8" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Xxx-Adult-Rubber-Stamp-square.png" group-title="| XX | FOR ADULTS +18",|XXX| Adult Tv 8
-http://lideriptv200.xyz:8080/Cihan/Cihan123/146816
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| Adult Tv 9" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Xxx-Adult-Rubber-Stamp-square.png" group-title="| XX | FOR ADULTS +18",|XXX| Adult Tv 9
-http://lideriptv200.xyz:8080/Cihan/Cihan123/146817
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| Fashion TV Midnite Secrets (1080p)" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Xxx-Adult-Rubber-Stamp-square.png" group-title="| XX | FOR ADULTS +18",|XXX| Fashion TV Midnite Secrets (1080p)
-http://lideriptv200.xyz:8080/Cihan/Cihan123/146819
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| Filmon Erotic Sensations (480p) [Not 24/7]" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Xxx-Adult-Rubber-Stamp-square.png" group-title="| XX | FOR ADULTS +18",|XXX| Filmon Erotic Sensations (480p) [Not 24/7]
-http://lideriptv200.xyz:8080/Cihan/Cihan123/146820
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| PlayHouse HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Xxx-Adult-Rubber-Stamp-square.png" group-title="| XX | FOR ADULTS +18",|XXX| PlayHouse HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/146821
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| Reality Kings TV" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Xxx-Adult-Rubber-Stamp-square.png" group-title="| XX | FOR ADULTS +18",|XXX| Reality Kings TV
-http://lideriptv200.xyz:8080/Cihan/Cihan123/146822
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| Amateur Allure" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Xxx-Adult-Rubber-Stamp-square.png" group-title="| XX | FOR ADULTS +18",|XXX| Amateur Allure
-http://lideriptv200.xyz:8080/Cihan/Cihan123/146823
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| Ass Parade" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Xxx-Adult-Rubber-Stamp-square.png" group-title="| XX | FOR ADULTS +18",|XXX| Ass Parade
-http://lideriptv200.xyz:8080/Cihan/Cihan123/146824
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| Babes" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Xxx-Adult-Rubber-Stamp-square.png" group-title="| XX | FOR ADULTS +18",|XXX| Babes
-http://lideriptv200.xyz:8080/Cihan/Cihan123/146825
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| Bang Bus" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Xxx-Adult-Rubber-Stamp-square.png" group-title="| XX | FOR ADULTS +18",|XXX| Bang Bus
-http://lideriptv200.xyz:8080/Cihan/Cihan123/146826
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| Cum 4k" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Xxx-Adult-Rubber-Stamp-square.png" group-title="| XX | FOR ADULTS +18",|XXX| Cum 4k
-http://lideriptv200.xyz:8080/Cihan/Cihan123/146827
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| Exotic 4k" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Xxx-Adult-Rubber-Stamp-square.png" group-title="| XX | FOR ADULTS +18",|XXX| Exotic 4k
-http://lideriptv200.xyz:8080/Cihan/Cihan123/146828
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| Fake Taxi" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Xxx-Adult-Rubber-Stamp-square.png" group-title="| XX | FOR ADULTS +18",|XXX| Fake Taxi
-http://lideriptv200.xyz:8080/Cihan/Cihan123/146829
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| Fucked Hard 18" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Xxx-Adult-Rubber-Stamp-square.png" group-title="| XX | FOR ADULTS +18",|XXX| Fucked Hard 18
-http://lideriptv200.xyz:8080/Cihan/Cihan123/146830
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| NF Busty" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Xxx-Adult-Rubber-Stamp-square.png" group-title="| XX | FOR ADULTS +18",|XXX| NF Busty
-http://lideriptv200.xyz:8080/Cihan/Cihan123/146831
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| PRIVATE HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Xxx-Adult-Rubber-Stamp-square.png" group-title="| XX | FOR ADULTS +18",|XXX| PRIVATE HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/146832
-#EXTINF:-1 tvg-id="" tvg-name="|XX| ALBA HD" tvg-logo="" group-title="| XX | FOR ADULTS +18",|XX| ALBA HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/150411
-#EXTINF:-1 tvg-id="" tvg-name="|XX| VIP +18 FAKE TAXI" tvg-logo="" group-title="| XX | FOR ADULTS +18",|XX| VIP +18 FAKE TAXI
-http://lideriptv200.xyz:8080/Cihan/Cihan123/150412
-#EXTINF:-1 tvg-id="" tvg-name="|XX| VIP +18 JAPANESE" tvg-logo="" group-title="| XX | FOR ADULTS +18",|XX| VIP +18 JAPANESE
-http://lideriptv200.xyz:8080/Cihan/Cihan123/150413
-#EXTINF:-1 tvg-id="" tvg-name="|XX| VIP +18 SOLO" tvg-logo="" group-title="| XX | FOR ADULTS +18",|XX| VIP +18 SOLO
-http://lideriptv200.xyz:8080/Cihan/Cihan123/150414
-#EXTINF:-1 tvg-id="" tvg-name="|XX| VIP +18 ASIAN" tvg-logo="" group-title="| XX | FOR ADULTS +18",|XX| VIP +18 ASIAN
-http://lideriptv200.xyz:8080/Cihan/Cihan123/150415
-#EXTINF:-1 tvg-id="" tvg-name="|XX| REDLIGHT HD" tvg-logo="" group-title="| XX | FOR ADULTS +18",|XX| REDLIGHT HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/150416
-#EXTINF:-1 tvg-id="" tvg-name="|XX| PRIVATE HD" tvg-logo="" group-title="| XX | FOR ADULTS +18",|XX| PRIVATE HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/150417
-#EXTINF:-1 tvg-id="" tvg-name="|XX| PENTHOUSE GOLD" tvg-logo="" group-title="| XX | FOR ADULTS +18",|XX| PENTHOUSE GOLD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/150418
-#EXTINF:-1 tvg-id="" tvg-name="|XX| PENTHOUSE QUICKIES" tvg-logo="" group-title="| XX | FOR ADULTS +18",|XX| PENTHOUSE QUICKIES
-http://lideriptv200.xyz:8080/Cihan/Cihan123/150419
-#EXTINF:-1 tvg-id="" tvg-name="|XX| DORCEL X" tvg-logo="" group-title="| XX | FOR ADULTS +18",|XX| DORCEL X
-http://lideriptv200.xyz:8080/Cihan/Cihan123/150420
-#EXTINF:-1 tvg-id="" tvg-name="|XX| EROXXX HD" tvg-logo="" group-title="| XX | FOR ADULTS +18",|XX| EROXXX HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/150421
-#EXTINF:-1 tvg-id="" tvg-name="|XX| VIVID RED" tvg-logo="" group-title="| XX | FOR ADULTS +18",|XX| VIVID RED
-http://lideriptv200.xyz:8080/Cihan/Cihan123/150422
-#EXTINF:-1 tvg-id="" tvg-name="|XX| HUSTLER TV" tvg-logo="" group-title="| XX | FOR ADULTS +18",|XX| HUSTLER TV
-http://lideriptv200.xyz:8080/Cihan/Cihan123/150423
-#EXTINF:-1 tvg-id="" tvg-name="|XX| BLUE HUSTLER" tvg-logo="" group-title="| XX | FOR ADULTS +18",|XX| BLUE HUSTLER
-http://lideriptv200.xyz:8080/Cihan/Cihan123/150424
-#EXTINF:-1 tvg-id="" tvg-name="|XX| BRAZZERS" tvg-logo="" group-title="| XX | FOR ADULTS +18",|XX| BRAZZERS
-http://lideriptv200.xyz:8080/Cihan/Cihan123/150425
-#EXTINF:-1 tvg-id="" tvg-name="|XX| VENUS" tvg-logo="" group-title="| XX | FOR ADULTS +18",|XX| VENUS
-http://lideriptv200.xyz:8080/Cihan/Cihan123/150426
-#EXTINF:-1 tvg-id="" tvg-name="|XX| XXL" tvg-logo="" group-title="| XX | FOR ADULTS +18",|XX| XXL
-http://lideriptv200.xyz:8080/Cihan/Cihan123/150427
-#EXTINF:-1 tvg-id="" tvg-name="|XX| FAKE TAXI" tvg-logo="" group-title="| XX | FOR ADULTS +18",|XX| FAKE TAXI
-http://lideriptv200.xyz:8080/Cihan/Cihan123/150428
-#EXTINF:-1 tvg-id="" tvg-name="|XX| FAKE DRIVING SCHOOL" tvg-logo="" group-title="| XX | FOR ADULTS +18",|XX| FAKE DRIVING SCHOOL
-http://lideriptv200.xyz:8080/Cihan/Cihan123/150429
-#EXTINF:-1 tvg-id="" tvg-name="|XX| DUSK" tvg-logo="" group-title="| XX | FOR ADULTS +18",|XX| DUSK
-http://lideriptv200.xyz:8080/Cihan/Cihan123/150430
-#EXTINF:-1 tvg-id="" tvg-name="|XX| XY MIX" tvg-logo="" group-title="| XX | FOR ADULTS +18",|XX| XY MIX
-http://lideriptv200.xyz:8080/Cihan/Cihan123/150431
-#EXTINF:-1 tvg-id="" tvg-name="|XX| BARELY LEGAL" tvg-logo="" group-title="| XX | FOR ADULTS +18",|XX| BARELY LEGAL
-http://lideriptv200.xyz:8080/Cihan/Cihan123/150432
-#EXTINF:-1 tvg-id="" tvg-name="|XX| EXTREME" tvg-logo="" group-title="| XX | FOR ADULTS +18",|XX| EXTREME
-http://lideriptv200.xyz:8080/Cihan/Cihan123/150433
-#EXTINF:-1 tvg-id="" tvg-name="|XX| EXTASY HD" tvg-logo="" group-title="| XX | FOR ADULTS +18",|XX| EXTASY HD
-http://lideriptv200.xyz:8080/Cihan/Cihan123/150434
-#EXTINF:-1 tvg-id="" tvg-name="|XX| PASSIE XXX" tvg-logo="" group-title="| XX | FOR ADULTS +18",|XX| PASSIE XXX
-http://lideriptv200.xyz:8080/Cihan/Cihan123/150435
-#EXTINF:-1 tvg-id="" tvg-name="|XX| BANGERZ" tvg-logo="" group-title="| XX | FOR ADULTS +18",|XX| BANGERZ
-http://lideriptv200.xyz:8080/Cihan/Cihan123/150436
-#EXTINF:-1 tvg-id="" tvg-name="|XX| PASSION XXX" tvg-logo="" group-title="| XX | FOR ADULTS +18",|XX| PASSION XXX
-http://lideriptv200.xyz:8080/Cihan/Cihan123/150437
-#EXTINF:-1 tvg-id="" tvg-name="|XX| PUBLIC AGENT" tvg-logo="" group-title="| XX | FOR ADULTS +18",|XX| PUBLIC AGENT
-http://lideriptv200.xyz:8080/Cihan/Cihan123/150438
-#EXTINF:-1 tvg-id="" tvg-name="|XX| PURE TABOO" tvg-logo="" group-title="| XX | FOR ADULTS +18",|XX| PURE TABOO
-http://lideriptv200.xyz:8080/Cihan/Cihan123/150439
-#EXTINF:-1 tvg-id="" tvg-name="|XX| SINEMATICA" tvg-logo="" group-title="| XX | FOR ADULTS +18",|XX| SINEMATICA
-http://lideriptv200.xyz:8080/Cihan/Cihan123/150440
+
 
 ----------MÜZİK--------
 #EXTINF:1,TİMUR MEDYA TV 
@@ -20598,7 +19941,8 @@ http://5.254.16.186:80/TRTMuzik/mono.m3u8
 #EXTINF:1, OLAY TV HD
 http://nrttn172.kesintisizyayin.com:29010/olay/olay/playlist.m3u8
 
-
+#EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8cbc8938-0a17-4cf6-9bc3-cfc2f7a21dd5.png" group-title= "Özel",Şaban TV
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCE1XdVHzOdMnUsUMatIzjag/live
 
 
 
