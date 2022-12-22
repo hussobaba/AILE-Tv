@@ -46,8 +46,8 @@ https://live-server-2.splitstream.io/fe992241-c5b5-464d-a0b6-b9aa254d5ff6/tracks
 #EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER DEM TV 
 https://live-server-2.splitstream.io/34e279a9-6153-4e38-b25e-7cfe9f7abee5/tracks-v1a1/mono.m3u8
 
-#EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "UZANMEDYA",TELE ON 
-https://streaming.netdirekt.com.tr/35757/msyapi/teleontv_canliyayin_uzanmediagroup_1080p_/chunks.m3u8
+#EXTINF:1,SUYUN YOLU 
+https://ia601407.us.archive.org/12/items/avtr.-su.-yolu/AVTR.SU.YOLU.mp4
 
 #EXTINF:0 type="stream" channelId="4005" group-title="2_ÖZEL_MEDYA_1" logo="http://www.tvem.com.tr/Content/assets/img/logo@tvemyeni.png", EM TV 
 http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
@@ -253,12 +253,12 @@ https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/mas
 https://mn-nl.mncdn.com/blutv_play1_dvr/live.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/6295d42d866ac31658881732?w=80&q=75", BLUPLAY 2 HD
 https://mn-nl.mncdn.com/blutv_play2_dvr/live.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/6295d4b4866ac31658881736?w=80&q=75", BLUPLAY 1 FHD
-http://mn-nl.mncdn.com/blutv_play1/live_720p2000000kbps/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/6295d42d866ac31658881732?w=80&q=75", BLUPLAY 2 FHD
-http://mn-nl.mncdn.com/blutv_play2/live_720p2000000kbps/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="almanyatv,ALMANYA TV
+http://tv86905.radyotelekomtv.com:22808/almanyatv/almanyatv/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/6295d42d866ac31658881732?w=80&q=75"almanyadaturk, KANAL AVRUPA
+http://tv56245.ozelip.com:2052/almanyadaturktv/almanyadaturktv/playlist.m3u8
 #EXTINF:1,Yesil Karadeniz
-http://adana01.ozelip.com:26258/ykaradeniztv/ykaradeniztv/chunklist.m3u8
+http://tv86905.radyotelekomtv.com:22808/ykaradeniztv/ykaradeniztv/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_TEBER_MEDYA_1" logo="https://1.bp.blogspot.com/-qu5nrKmxTyU/X4ieG2ybniI/AAAAAAAAPUY/5ZVaZOVoCE8MsT0CcUevo-Suk7qucaRqACLcBGAsYHQ/s462/afyonturk.png", AFYON TURK
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_TEBER_MEDYA_1" logo="https://1.bp.blogspot.com/-m8DVrO62bLs/X0Dv4yXwCPI/AAAAAAAAOaQ/OHZMsPXfYtcTK52mc9JaEUNATmp_I6dNQCLcBGAsYHQ/s640/AKT%25C4%25B0FTV.png", AKTiF TV HD
@@ -278,7 +278,7 @@ https://cdn1-kanalistanbultv.yayin.com.tr/kanalistanbultv/amlst:kanalistanbultv/
 #EXTINF:0 type="stream" channelId="-1" group-title="2_TEBER_MEDYA_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihJwENrLKJKcT8B_4KRP0KtpR7_i-_tD0WUKPoUYmXY2JDBWncZEteaz70X1s2_13p219_gEC0KxCH9o_DZLeUNLj0h69CmgbHwoA-4tdIBuXuZcMB_oWg2nyRlhztjHnhCQGn6pPHHMHmI7c7uI4LC9s91tlEy1hdZk6DhYJy1CvYqNGzHaH8anAPjQ/s1600/%C4%B0STTV.png", iSTANBUL TV HD
 http://streaming.netdirekt.com.tr:80/35757/msyapi/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_TEBER_MEDYA_1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEhGokNbp3GKVzFDQMKeXpwbTNR-5RUcW29xcK0xlF-TQZKdBrVSVSj3xvQ20txCzdDqEQ4rGo7aGQX7DNyCab4fLx9xt5C3Ce0RbUzUnTzON8pjH1hkx1B0ZQZVYmvQ-KncY4mo9vFdmvEFxTWbSj30qSYtuzXdLyc6t4FaseaKxXAzNW6b26P76LAUag=w137-h52", iSViCRE TV HD
-http://aktif2830.ozelip.com:30124/isvicretv/isvicretv/playlist.m3u8
+http://tv86905.radyotelekomtv.com:22808/isvicretv/isvicretv/chunklist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="2_TEBER_MEDYA_1" logo="https://1.bp.blogspot.com/-ouK2ZRcNR84/X3Lqgg1pzPI/AAAAAAAAPAM/kyUOyu2ogd0MqTLkN38iw2JXPy8PTx-ywCLcBGAsYHQ/s0/kanal2000.PNG", MSCB KANAL 2000 HD
 http://yerelmedya.tv:1935/kanal2000/bant1/playlist.m3u8
@@ -288,13 +288,16 @@ http://mmn.mypsx.net:1935/live/mmnhdradioturky/chunklist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="2_TEBER_MEDYA_1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEglzoUhhrpFEeA3-0UGohA4VVGv4JJBwdcNvsv1ybfrGbkIpzMzPj_cPmIAi23YMQMcmkbmIZQ72j8GKPq5ZxLrYtJ2-TpYGrl3XF_VlYsD60j3xI4riYKqUAhLRZAdRU0vVtilPr4ueciZZnfRaMlZDAZmGaF4IM6-z03-wRdMAFsE7qvvKRp6_-qnVA=w177-h47", TV BASKAN HD
 http://91.134.203.253:30124/baskantv/baskantv/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="2_TEBER_MEDYA_1" logo="https://1.bp.blogspot.com/-1ip8KsHoXBo/YFO7wStOdII/AAAAAAAAR7U/5qPk-uS-ZoUuV6G4dNCnjTV0t328HlfjACLcBGAsYHQ/w116-h81/tvavrupa.png", TV AVRUPA
-http://aktif2830.ozelip.com:30124/almanyadaturktv/almanyadaturktv/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="2_TEBER_MEDYA_1" logo=palatv",PALA TV
+http://adana01.ozelip.com:26258/palatv/palatv/chunklist.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="2_TEBER_MEDYA_1" logo="https://2.bp.blogspot.com/-9B8xdl35Odw/XjQu2lYdqgI/AAAAAAAAAAo/D524a1rqRmsPBuBhPl1l4kqCcejnNsqHwCK4BGAYYCw/s1600/20a9f15a-d20e-45fd-8ccb-09f14152c1dd.png", TURKAY TV HD
 https://singapore-1.onestream.studio/content/hls/live/live_1313867_3qv47ijud/hls.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="2_TEBER_MEDYA_1" logo="https://1.bp.blogspot.com/-bx0rRUWn2yY/XrQoySUd1CI/AAAAAAAAM1U/WKmSOXvlDEc3MBtkGP8WGubsORsr4Dj1ACLcBGAsYHQ/s200/viyanatvlogo.png", ViYANA TV HD
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="2_TEBER_MEDYA_1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEg1JMqpVOeaivvJAOeiWh6wtYxUN8YDhbXrdGEiMovjQhyjjl6uP6lmW32TVZ_5iFnecTab-xLV9X0I4aXZ8zx7m96vRcuCKSntD6egotZaTQ2SAEX9WzMVWgqUINxucIVvBDWpxIlkoMp2ugZh9vSNjTCMmqxTk3Mo5xhsSYYg2yNt_NcESXz9x2LWsQ=w93-h50", YAREN TV HD
 http://50.7.136.162:1935/canlitv/yarentv/chunklist.m3u8
  
@@ -19944,5 +19947,6 @@ http://nrttn172.kesintisizyayin.com:29010/olay/olay/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8cbc8938-0a17-4cf6-9bc3-cfc2f7a21dd5.png" group-title= "Özel",Şaban TV
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCE1XdVHzOdMnUsUMatIzjag/live
 
-
+#EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "UZANMEDYA",TELE ON 
+https://streaming.netdirekt.com.tr/35757/msyapi/teleontv_canliyayin_uzanmediagroup_1080p_/chunks.m3u8
 
