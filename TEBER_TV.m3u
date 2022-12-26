@@ -46,7 +46,7 @@ https://live-server-2.splitstream.io/fe992241-c5b5-464d-a0b6-b9aa254d5ff6/tracks
 #EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER DEM TV 
 https://live-server-2.splitstream.io/34e279a9-6153-4e38-b25e-7cfe9f7abee5/tracks-v1a1/mono.m3u8
 
-#EXTINF:1,TEBER CEYHAN TV
+#EXTINF:1,TEBER YILDIZLAR GEÇİDİ TV
 http://tv86905.radyotelekomtv.com:22808/ceyhantv/ceyhantv/chunklist.m3u8
 
 #EXTINF:1,TELE ON 4K
@@ -91,8 +91,9 @@ http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001174/sec-f5-v1-a
 #https://trkvz-beta.daioncdn.net/atv/atv.m3u8?app=d1ce2d40-5256-4550-b02e-e73c185a314e
 #http://31.172.87.19:2200/TR-N/ATV_HD-tr/tracks-v1a1/mono.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165|User-agent=REDLINECLIENT
 #http://195.142.1.211:4002/udp/224.2.2.19:10001
-#EXTINF:-1,TR: ATV AVRUPA
-http://sinbox.pro:8080/casper01/H3g3gADDS2/81344
+
+#EXTINF:-1,Tv1
+https://edge1.socialsmart.tv/tv1/bant1/chunks.m3u8
 
 #EXTINF:-1,A2
 http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001020/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001020&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
@@ -17325,4 +17326,3 @@ https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube
 
 #EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "UZANMEDYA",TELE ON 
 https://streaming.netdirekt.com.tr/35757/msyapi/teleontv_canliyayin_uzanmediagroup_1080p_/chunks.m3u8
-
