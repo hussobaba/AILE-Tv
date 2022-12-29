@@ -36,7 +36,7 @@ http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001174/sec-f5-v1-a
 #http://31.172.87.19:2200/TR-N/ATV_HD-tr/tracks-v1a1/mono.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165|User-agent=REDLINECLIENT
 #http://195.142.1.211:4002/udp/224.2.2.19:10001
 #EXTINF:-1,TR: ATV AVRUPA
-http://sinbox.pro:8080/casper01/H3g3gADDS2/81344
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/109955
 
 #EXTINF:-1,A2
 http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001020/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001020&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
@@ -64,7 +64,7 @@ http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001208/sec-f5-v1-a
 #http://31.172.87.53:2200/TR-N/KANAL_D_HD-tr/tracks-v1a1/mono.m3u8?token=RED_TFgcp9dib3Rd2-n3NRhiPg==,1685493372.8098595165|User-agent=REDLINECLIENT
 #https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 #EXTINF:-1,TR: EURO D
-http://sinbox.pro:8080/casper01/H3g3gADDS2/81346
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/109959
 #EXTINF:0 type="stream" channelId="1044" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-dHogV1SHMHc/YI3eO_hCxYI/AAAAAAAATRE/hq72CRTA0CgGu9fSGm-dZM3liELp_DllwCLcBGAsYHQ/s0/KANALD%2B-%2BKopya.png", KANAL D drama
 http://146.59.19.1/5062/mpegts
 
@@ -106,7 +106,11 @@ https://live-server-1.splitstream.io/7b3b9e34-626f-4562-92ea-9adcac520468/tracks
 #EXTINF:0 type="stream" channelId="4005" group-title="2_ÖZEL_MEDYA_1" logo="http://www.tvem.com.tr/Content/assets/img/logo@tvemyeni.png", YANSIMA MÜZİK TV 
 https://live-server-2.splitstream.io/fd15e2fa-310e-46fd-8310-a92599e61696/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da7d6", TELE 1 HD
-http://135.125.234.9:8081/tele1/index.m3u8
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110137
+
+#EXTINF:-1 tvg-id="Teve2.tr" tvg-name="|TR| TEVE 2 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/teve2.png" group-title="| TR | ULUSAL",|TR| TEVE 2 HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/109969
+
 #EXTINF:0,TARİH TV
 https://bit.ly/3e6ppYK
 
@@ -121,8 +125,10 @@ https://helga.iptv2022.com/Kanal19tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="2_CLC MEDYA_MEDYA_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibnUqIDPSiaCyjnkrKKi6wbT7j_FfU1AErzPtQMrwtsIEHQOtlmuEFucxEpZSEkErolSs-eBpY4C7V1xQF8WazHCdRK3zYWoaAVhWRvUEH4L4Es7AzGT0kiKYBDF_Hx4LkFivNszLKrVwKLAaXCzVPFDdhfFlnXEoEr12ycejI3DzS_8f-Qt8Rrsej7g/w114-h53/CLCTV.PNG", CLC MEDYA TV HD
 https://clcmediatv.ozelip.com:3192/stream/play.m3u8
+
 #EXTINF:0 type="stream" channelId="4629" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-o4BLIBZhiEA/YI3eOJgvp9I/AAAAAAAATQ0/gUXItNN4_h0YQZc3aZCYRMsBOPHSDO9cACLcBGAsYHQ/s0/EUROD%2B-%2BKopya.png", Kanal 101
 https://59cba4d34b678.streamlock.net/canlitv/kanal101/chunklist_w1989551139.m3u8
+
 #EXTINF:0,DÜZGÜN TV HD
 http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1941" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-y-JCN-jP-2o/YI3eOgNoDPI/AAAAAAAATRA/1WdyRekkY9Y1uhMB5Gr7fQOD9JuFhtpHgCLcBGAsYHQ/s0/KANAL7%2B-%2BKopya.png", KANAL AVRUPA HD
@@ -136,7 +142,7 @@ http://135.125.234.9:8081/krttv/index.m3u8
 http://iptvmasterlink.dyndns.org:8080/FlashTvHd/playlist.m3u8
 
 #EXTINF:-1,halktv
-http://135.125.234.9:8081/halktv/index.m3u8
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110136
    
 #EXTINF:1,Anadolu Dost Tv
 https://59cba4d34b678.streamlock.net/canlitv/anadoludosttv/chunklist_w1433375139.m3u8
@@ -161,6 +167,9 @@ http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001341/sec-f5-v1-a
 
 #EXTINF:-1 tvg-id="tv4.tr" tvg-name="TV4.tr" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/tv4-logo.png" group-title="ULUSAL",TV 4 fhd
 http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001851/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001851&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=4&s=64832626&IASHttpSessionId=
+
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| KANAL1 HT HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/bloombeerg_ht.png" group-title="| TR | HABER",|TR| KANAL1 HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110140
 
 #EXTINF:-1,YEREL SİNEMA-----
 
@@ -343,22 +352,194 @@ http://sinbox.pro:8080/casper01/H3g3gADDS2/125752
 http://bit.ly/3N3z7Yk
 #EXTINF:1,SINEMA YERLİ 2
 http://bit.ly/3LXuptR
-#EXTINF:0,TASKRÜT MOVİES PREMIERE
-http://nox.nox102.xyz:80/mert924bn/231020.ft/53
-#EXTINF:0,TASKRÜT MOVİES PREMIERE 2
-http://nox.nox102.xyz:80/mert924bn/231020.ft/54
-#EXTINF:0,TASKRÜT MOVİES STARS
-http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/1233.ts
-#EXTINF:0,TASKRÜT MOVİES ACTION
-http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/1232.ts
-#EXTINF:0,TASKRÜT MOVİES ACTION 2
-http://nox.nox102.xyz:80/mert924bn/231020.ft/56
-#EXTINF:0,TASKRÜT MOVİES FAMILY
-http://nox.nox102.xyz:80/mert924bn/231020.ft/58
-#EXTINF:0,TASKRÜT MOVİES TÜRK
-http://nox.nox102.xyz:80/mert924bn/231020.ft/59
-#EXTINF:1,MOVIESMART CLASSIC
-http://nadiriptv.xyz:8080/engin1505154/tb98123w57/211
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN BOX OFFICE 1" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/36/Image/205_salon01-son.png" group-title="| TR | DIGITURK SINEMA",|TR| BEIN BOX OFFICE 1
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110146
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN BOX OFFICE 2" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/37/Image/205_salon02-son.png" group-title="| TR | DIGITURK SINEMA",|TR| BEIN BOX OFFICE 2
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110147
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN BOX OFFICE 3" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/38/Image/205_salon03-son.png" group-title="| TR | DIGITURK SINEMA",|TR| BEIN BOX OFFICE 3
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110148
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN MOVIES PREMIER 1" tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/premier_hd.png" group-title="| TR | DIGITURK SINEMA",|TR| BEIN MOVIES PREMIER 1
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110151
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN MOVIES PREMIER 2" tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/premier_2_hd.png" group-title="| TR | DIGITURK SINEMA",|TR| BEIN MOVIES PREMIER 2
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110152
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN MOVIES TÜRK" tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/mm_turk_hd.png" group-title="| TR | DIGITURK SINEMA",|TR| BEIN MOVIES TÜRK
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110153
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN MOVIES FAMILY" tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/family_hd.png" group-title="| TR | DIGITURK SINEMA",|TR| BEIN MOVIES FAMILY
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110155
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SERIES COMEDY HD" tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/d_comedy_hd.png" group-title="| TR | DIGITURK SINEMA",|TR| BEIN SERIES COMEDY HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110156
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SERIES SCI-FI HD" tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/sci_fi_hd.png" group-title="| TR | DIGITURK SINEMA",|TR| BEIN SERIES SCI-FI HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110157
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SERIES VICE HD" tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/vice_hd.png" group-title="| TR | DIGITURK SINEMA",|TR| BEIN SERIES VICE HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110158
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MOVIE SMART TÜRK" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/TURKIYE/BEINMOVIEST%c3%9cRK.png" group-title="| TR | D-SMART SINEMA",|TR| MOVIE SMART TÜRK
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110159
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MOVIE SMART PREMIUM 1" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/movismart_premium.png" group-title="| TR | D-SMART SINEMA",|TR| MOVIE SMART PREMIUM 1
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110160
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MOVIE SMART PREMIUM 2" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/movismart_premium_2.png" group-title="| TR | D-SMART SINEMA",|TR| MOVIE SMART PREMIUM 2
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110161
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MOVIE SMART PLATIN 2" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/movismart_platin_2.png" group-title="| TR | D-SMART SINEMA",|TR| MOVIE SMART PLATIN 2
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110162
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MOVIE SMART GOLD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/movismart_gold.png" group-title="| TR | D-SMART SINEMA",|TR| MOVIE SMART GOLD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110163
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MOVIE SMART FAMİLY" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/movismart_family.png" group-title="| TR | D-SMART SINEMA",|TR| MOVIE SMART FAMİLY
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110164
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MOVIE SMART ACTION" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/movismart_action.png" group-title="| TR | D-SMART SINEMA",|TR| MOVIE SMART ACTION
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110165
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MAX KOMEDİ 1" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/sinema_komedi.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| MAX KOMEDİ 1
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110169
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MAX KOMEDİ 2" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/sinema_komedi.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| MAX KOMEDİ 2
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110170
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MAX KOMEDİ 3" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/sinema_komedi.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| MAX KOMEDİ 3
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110171
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MAX KOMEDİ 4" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/sinema_komedi.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| MAX KOMEDİ 4
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110172
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MAX KOMEDİ 5" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/sinema_komedi.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| MAX KOMEDİ 5
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110173
+#EXTINF:-1 tvg-id="" tvg-name="|TR| CEO SİNEMA TÜRK 1" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/slsinematurk.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| CEO SİNEMA TÜRK 1
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110174
+#EXTINF:-1 tvg-id="" tvg-name="|TR| CEO SİNEMA TÜRK 2" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/slsinematurk.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| CEO SİNEMA TÜRK 2
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110175
+#EXTINF:-1 tvg-id="" tvg-name="|TR| CEO SİNEMA TÜRK 3" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/slsinematurk.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| CEO SİNEMA TÜRK 3
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110176
+#EXTINF:-1 tvg-id="" tvg-name="|TR| CEO SİNEMA TÜRK 4" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/slsinematurk.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| CEO SİNEMA TÜRK 4
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110177
+#EXTINF:-1 tvg-id="" tvg-name="|TR| CEO SİNEMA TÜRK 5" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/slsinematurk.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| CEO SİNEMA TÜRK 5
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110178
+#EXTINF:-1 tvg-id="" tvg-name="|TR| FOX CRIME HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkey/fox_crime_global.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| FOX CRIME HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110180
+#EXTINF:-1 tvg-id="" tvg-name="|TR| FOX LIFE" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkey/fox_life_global.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| FOX LIFE
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110181
+#EXTINF:-1 tvg-id="" tvg-name="|TR| FX" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/fx.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| FX
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110182
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KEMAL SUNAL TV 1" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/slsinemakemalsunal1.png" group-title="| TR | VIP YESILCAM",|TR| KEMAL SUNAL TV 1
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110264
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KEMAL SUNAL TV 2" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/slsinemakemalsunal2.png" group-title="| TR | VIP YESILCAM",|TR| KEMAL SUNAL TV 2
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110265
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ŞENER ŞEN TV" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/sltv_yesilcam1.png" group-title="| TR | VIP YESILCAM",|TR| ŞENER ŞEN TV
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110266
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ZEKİ - METİN TV" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/sltv_yesilcam1.png" group-title="| TR | VIP YESILCAM",|TR| ZEKİ - METİN TV
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110267
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TATLISES TV" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/sltv_yesilcam1.png" group-title="| TR | VIP YESILCAM",|TR| TATLISES TV
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110268
+#EXTINF:-1 tvg-id="" tvg-name="|TR| CÜNEYT ARKIN TV" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/sltv_yesilcam1.png" group-title="| TR | VIP YESILCAM",|TR| CÜNEYT ARKIN TV
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110269
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MÜSLÜM GÜRSES TV" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/sltv_yesilcam1.png" group-title="| TR | VIP YESILCAM",|TR| MÜSLÜM GÜRSES TV
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110270
+#EXTINF:-1 tvg-id="" tvg-name="|TR| FERDİ TAYFUR TV" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/sltv_yesilcam1.png" group-title="| TR | VIP YESILCAM",|TR| FERDİ TAYFUR TV
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110271
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KADİR İNANIR TV" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/sltv_yesilcam1.png" group-title="| TR | VIP YESILCAM",|TR| KADİR İNANIR TV
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110272
+#EXTINF:-1 tvg-id="" tvg-name="|TR| FİLİZ AKIN TV" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/sltv_yesilcam1.png" group-title="| TR | VIP YESILCAM",|TR| FİLİZ AKIN TV
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110273
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TARIK AKAN TV" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/sltv_yesilcam1.png" group-title="| TR | VIP YESILCAM",|TR| TARIK AKAN TV
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110274
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TÜRKAN ŞORAY TV" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/sltv_yesilcam1.png" group-title="| TR | VIP YESILCAM",|TR| TÜRKAN ŞORAY TV
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110275
+#EXTINF:-1 tvg-id="" tvg-name="|TR| HÜLYA KOÇYİĞİT TV" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/sltv_yesilcam1.png" group-title="| TR | VIP YESILCAM",|TR| HÜLYA KOÇYİĞİT TV
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110276
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ORHAN GENCEBAY TV" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/sltv_yesilcam1.png" group-title="| TR | VIP YESILCAM",|TR| ORHAN GENCEBAY TV
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110277
+#EXTINF:-1 tvg-id="" tvg-name="|TR| WEST SİNEMA TV 1 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/cinemawest.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| WEST SİNEMA TV 1 HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110340
+#EXTINF:-1 tvg-id="" tvg-name="|TR| WEST SİNEMA TV 2 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/cinemawest.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| WEST SİNEMA TV 2 HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110341
+#EXTINF:-1 tvg-id="" tvg-name="|TR| WEST SİNEMA TV 3 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/cinemawest.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| WEST SİNEMA TV 3 HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110342
+#EXTINF:-1 tvg-id="" tvg-name="|TR| WEST SİNEMA TV 4 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/cinemawest.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| WEST SİNEMA TV 4 HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110343
+#EXTINF:-1 tvg-id="" tvg-name="|TR| WEST SİNEMA TV 5 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/cinemawest.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| WEST SİNEMA TV 5 HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110344
+#EXTINF:-1 tvg-id="" tvg-name="|TR| WEST SİNEMA TV 6 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/cinemawest.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| WEST SİNEMA TV 6 HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110345
+#EXTINF:-1 tvg-id="" tvg-name="|TR| WEST SİNEMA TV 7 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/cinemawest.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| WEST SİNEMA TV 7 HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110346
+#EXTINF:-1 tvg-id="" tvg-name="|TR| WEST SİNEMA TV 8 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/cinemawest.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| WEST SİNEMA TV 8 HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110347
+#EXTINF:-1 tvg-id="" tvg-name="|TR| WEST SİNEMA TV 9 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/cinemawest.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| WEST SİNEMA TV 9 HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110348
+#EXTINF:-1 tvg-id="" tvg-name="|TR| WEST SİNEMA TV 10 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/cinemawest.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| WEST SİNEMA TV 10 HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110349
+#EXTINF:-1 tvg-id="" tvg-name="|TR| FILM BOX OFFICE 1" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/film_box_office_Logo/1.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| FILM BOX OFFICE 1
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110350
+#EXTINF:-1 tvg-id="" tvg-name="|TR| FILM BOX OFFICE 2" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/film_box_office_Logo/2.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| FILM BOX OFFICE 2
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110351
+#EXTINF:-1 tvg-id="" tvg-name="|TR| FILM BOX OFFICE 3" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/film_box_office_Logo/3.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| FILM BOX OFFICE 3
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110352
+#EXTINF:-1 tvg-id="" tvg-name="|TR| FILM BOX OFFICE 4" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/film_box_office_Logo/4.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| FILM BOX OFFICE 4
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110353
+#EXTINF:-1 tvg-id="" tvg-name="|TR| FILM BOX OFFICE 5" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/film_box_office_Logo/5.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| FILM BOX OFFICE 5
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110354
+#EXTINF:-1 tvg-id="" tvg-name="|TR| FILM BOX OFFICE 6" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/film_box_office_Logo/6.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| FILM BOX OFFICE 6
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110355
+#EXTINF:-1 tvg-id="" tvg-name="|TR| FILM BOX OFFICE 7" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/film_box_office_Logo/7.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| FILM BOX OFFICE 7
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110356
+#EXTINF:-1 tvg-id="" tvg-name="|TR| FILM BOX OFFICE 8" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/film_box_office_Logo/8.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| FILM BOX OFFICE 8
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110357
+#EXTINF:-1 tvg-id="" tvg-name="|TR| FILM BOX OFFICE 9" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/film_box_office_Logo/9.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| FILM BOX OFFICE 9
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110358
+#EXTINF:-1 tvg-id="" tvg-name="|TR| FILM BOX OFFICE 10" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/film_box_office_Logo/10.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| FILM BOX OFFICE 10
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110359
+#EXTINF:-1 tvg-id="" tvg-name="|TR| SALON 1 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/salonhd/salon1hd.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| SALON 1 HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110370
+#EXTINF:-1 tvg-id="" tvg-name="|TR| SALON 2 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/salonhd/salon2hd.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| SALON 2 HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110371
+#EXTINF:-1 tvg-id="" tvg-name="|TR| SALON 3 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/salonhd/salon3hd.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| SALON 3 HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110372
+#EXTINF:-1 tvg-id="" tvg-name="|TR| SALON 4 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/salonhd/salon4hd.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| SALON 4 HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110373
+#EXTINF:-1 tvg-id="" tvg-name="|TR| SALON 5 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/salonhd/salon5hd.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| SALON 5 HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110374
+#EXTINF:-1 tvg-id="" tvg-name="|TR| SALON  6 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/salonhd/salon6hd.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| SALON  6 HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110375
+#EXTINF:-1 tvg-id="" tvg-name="|TR| SALON 7 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/salonhd/salon7hd.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| SALON 7 HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110376
+#EXTINF:-1 tvg-id="" tvg-name="|TR| SALON 8 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/salonhd/salon7hd.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| SALON 8 HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110377
+#EXTINF:-1 tvg-id="" tvg-name="|TR| SALON 9 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/salonhd/salon9hd.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| SALON 9 HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110378
+#EXTINF:-1 tvg-id="" tvg-name="|TR| SALON 10 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/salonhd/salon10hd.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| SALON 10 HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110379
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LOCA 1 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/locatv/loca1.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| LOCA 1 HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110390
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LOCA 2 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/locatv/loca2.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| LOCA 2 HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110391
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LOCA 3 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/locatv/loca3.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| LOCA 3 HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110392
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LOCA 4 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/locatv/loca4.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| LOCA 4 HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110393
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LOCA 5 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/locatv/loca5.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| LOCA 5 HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110394
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LOCA 6 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/locatv/loca6.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| LOCA 6 HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110395
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LOCA 7 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/locatv/loca7.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| LOCA 7 HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110396
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LOCA 8 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/locatv/loca8.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| LOCA 8 HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110397
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LOCA 9 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/locatv/loca9.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| LOCA 9 HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110398
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LOCA 10 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/locatv/loca10.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| LOCA 10 HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110399
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ANIMASYON TV 1" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Animasyon_logo/1.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| ANIMASYON TV 1
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110410
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ANIMASYON TV 2" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Animasyon_logo/2.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| ANIMASYON TV 2
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110411
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ANIMASYON TV 3" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Animasyon_logo/3.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| ANIMASYON TV 3
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110412
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ANIMASYON TV 4" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Animasyon_logo/4.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| ANIMASYON TV 4
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110413
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ANIMASYON TV 5" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Animasyon_logo/5.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| ANIMASYON TV 5
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110414
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ANIMASYON TV 6" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Animasyon_logo/6.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| ANIMASYON TV 6
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110415
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ANIMASYON TV 7" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Animasyon_logo/7.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| ANIMASYON TV 7
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110416
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ANIMASYON TV 8" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Animasyon_logo/8.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| ANIMASYON TV 8
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110417
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ANIMASYON TV 9" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Animasyon_logo/9.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| ANIMASYON TV 9
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110418
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ANIMASYON TV 10" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Animasyon_logo/10.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| ANIMASYON TV 10
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110419
 #EXTINF:1,MOVIESMART TÜRK
 http://nadiriptv.xyz:8080/engin1505154/tb98123w57/213
 #EXTINF:2,SINEMA TV
@@ -777,7 +958,26 @@ http://sinbox.pro:8080/casper01/H3g3gADDS2/125714
 #EXTINF:-1,Anonym TV Vizyon 2 HD
 http://sinbox.pro:8080/casper01/H3g3gADDS2/125715
 
-
+EXTINF:-1 tvg-id="" tvg-name="|TR| 4K CINEMA TV 1" tvg-logo="http://play.lideriptv150.com:8080/images/d5e43103389e72ff1ed51420148f442d.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| 4K CINEMA TV 1
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/135072
+#EXTINF:-1 tvg-id="" tvg-name="|TR| 4K CINEMA TV 2" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/4kcinematv.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| 4K CINEMA TV 2
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/135073
+#EXTINF:-1 tvg-id="" tvg-name="|TR| 4K CINEMA TV 3" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/4kcinematv.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| 4K CINEMA TV 3
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/135074
+#EXTINF:-1 tvg-id="" tvg-name="|TR| 4K CINEMA TV 4" tvg-logo="http://play.lideriptv150.com:8080/images/d5e43103389e72ff1ed51420148f442d.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| 4K CINEMA TV 4
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/135075
+#EXTINF:-1 tvg-id="" tvg-name="|TR| 4K CINEMA TV 5" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/4kcinematv.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| 4K CINEMA TV 5
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/135076
+#EXTINF:-1 tvg-id="" tvg-name="|TR| 4K CINEMA TV 6" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/4kcinematv.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| 4K CINEMA TV 6
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/135077
+#EXTINF:-1 tvg-id="" tvg-name="|TR| 4K CINEMA TV 7" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/4kcinematv.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| 4K CINEMA TV 7
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/135078
+#EXTINF:-1 tvg-id="" tvg-name="|TR| 4K CINEMA TV 8" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/4kcinematv.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| 4K CINEMA TV 8
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/135079
+#EXTINF:-1 tvg-id="" tvg-name="|TR| 4K CINEMA TV 9" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/4kcinematv.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| 4K CINEMA TV 9
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/135080
+#EXTINF:-1 tvg-id="" tvg-name="|TR| 4K CINEMA TV 10" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/4kcinematv.png" group-title="| TR | V.I.P SINEMA KUSAGI",|TR| 4K CINEMA TV 10
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/135081
 #EXTINF:-1,TİVİ-BU----
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV Box FHD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/TR.SPOR/FHD/BOX.png" group-title="TR - SPOR",TR: BlueTV Box FHD
@@ -917,408 +1117,109 @@ http://sinbox.pro:8080/casper01/H3g3gADDS2/125665
 http://bit.ly/38XSbZ5
 
 
-
-#EXTINF:-1,SİNBOX SPOR--------
-
-#EXTINF:-1,BEIN SPORTS 1 FHD (TR)
-http://sinbox.pro:8080/casper01/H3g3gADDS2/87374
-#EXTINF:-1,TR: beIN SPORTS 1 HEVC
-http://sinbox.pro:8080/casper01/H3g3gADDS2/85723
-#EXTINF:-1,TR: beIN SPORTS 1 HD*
-http://sinbox.pro:8080/casper01/H3g3gADDS2/106323
-#EXTINF:-1,BeIN Sports 1 Full HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/122364
-#EXTINF:-1,BEİN SPORT FHD (Almanya için)
-http://sinbox.pro:8080/casper01/H3g3gADDS2/109542
-#EXTINF:-1,TR: BEIN SPORTS 1 HD+
-http://sinbox.pro:8080/casper01/H3g3gADDS2/67394
-#EXTINF:-1,TR: BEIN SPORTS 1 TTNET
-http://sinbox.pro:8080/casper01/H3g3gADDS2/67397
-#EXTINF:-1,BEIN SPORTS 1 HEVC
-http://sinbox.pro:8080/casper01/H3g3gADDS2/87139
-#EXTINF:-1,TR: bEIN SPORTS 1 FHD+
-http://sinbox.pro:8080/casper01/H3g3gADDS2/106322
-#EXTINF:-1,BEIN SPORTS 2 HD (TR)
-http://sinbox.pro:8080/casper01/H3g3gADDS2/87375
-#EXTINF:-1,BEIN SPORTS 3 HD (TR)
-http://sinbox.pro:8080/casper01/H3g3gADDS2/87376
-#EXTINF:-1,BEIN SPORTS 4 HD (TR)
-http://sinbox.pro:8080/casper01/H3g3gADDS2/87377
-#EXTINF:-1,TR : BEIN SPORTS 5 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/117209
-#EXTINF:-1,TR : BEIN SPORTS 5 FHD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/124288
-#EXTINF:-1,TR : BEIN SPORTS 5 
-http://sinbox.pro:8080/casper01/H3g3gADDS2/124289
-#EXTINF:-1,TR: BEIN SPORTS 1 MOBILE
-http://sinbox.pro:8080/casper01/H3g3gADDS2/67396
-#EXTINF:-1,TR: BEIN SPORTS 2 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/67400
-#EXTINF:-1,TR: BEIN SPORTS 3 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/67402
-#EXTINF:-1,TR: BEIN SPORTS MAX 1 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/67406
-#EXTINF:-1,TR: BEIN SPORTS MAX 2 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/67408
-#EXTINF:-1,TR: bEIN SPORTS MAX 1 FHD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/106335
-#EXTINF:-1,TR: bEIN SPORTS MAX 2 FHD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/106336
-#EXTINF:-1,TR: BEIN SPORTS MAX 1 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/1138
-#EXTINF:-1,TR: BEIN SPORTS HABER HEVC
-http://sinbox.pro:8080/casper01/H3g3gADDS2/67387
-#EXTINF:-1,TR: BEIN SPORTS HABER HD+
-http://sinbox.pro:8080/casper01/H3g3gADDS2/67388
-#EXTINF:-1,TR: BEIN SPORTS HABER HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/67389
-#EXTINF:-1,TR: BEIN SPORTS 1 HEVC
-http://sinbox.pro:8080/casper01/H3g3gADDS2/67393
-#EXTINF:-1,TR: BEIN SPORTS 1 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/67395
-#EXTINF:-1,TR: BEIN SPORTS 2 HEVC
-http://sinbox.pro:8080/casper01/H3g3gADDS2/67398
-#EXTINF:-1,TR: BEIN SPORTS 2 HD+
-http://sinbox.pro:8080/casper01/H3g3gADDS2/67399
-#EXTINF:-1,TR: BEIN SPORTS 3 HD+
-http://sinbox.pro:8080/casper01/H3g3gADDS2/67401
-#EXTINF:-1,TR: BEIN SPORTS 4 HD+
-http://sinbox.pro:8080/casper01/H3g3gADDS2/67403
-#EXTINF:-1,TR: BEIN SPORTS 4 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/67404
-#EXTINF:-1,TR: BEIN SPORTS MAX 1 HD+
-http://sinbox.pro:8080/casper01/H3g3gADDS2/67405
-#EXTINF:-1,TR: BEIN SPORTS MAX 2 HD+
-http://sinbox.pro:8080/casper01/H3g3gADDS2/67407
-#EXTINF:-1,TR: bEIN SPORTS 1 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/106324
-#EXTINF:-1,TR: bEIN SPORTS 1 SD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/106325
-#EXTINF:-1,TR: bEIN SPORTS 2 FHD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/106326
-#EXTINF:-1,TR: bEIN SPORTS 2 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/106327
-#EXTINF:-1,TR: bEIN SPORTS 2 SD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/106328
-#EXTINF:-1,TR: bEIN SPORTS 3 FHD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/106329
-#EXTINF:-1,TR: bEIN SPORTS 3 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/106330
-#EXTINF:-1,TR: bEIN SPORTS 3 SD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/106331
-#EXTINF:-1,TR: bEIN SPORTS 4 FHD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/106332
-#EXTINF:-1,TR: bEIN SPORTS 4 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/106333
-#EXTINF:-1,TR: bEIN SPORTS 4 SD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/106334
-#EXTINF:-1,beIN Sports 1 (DigiPlay Avrupa)
-http://sinbox.pro:8080/casper01/H3g3gADDS2/122365
-#EXTINF:-1,beIN Connect 1 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/122366
-#EXTINF:-1,beIN Connect 2 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/122367
-#EXTINF:-1,beIN Connect 3 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/122368
-#EXTINF:-1,beIN Connect 4 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/122369
-#EXTINF:-1,beIN Connect 5 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/122370
-#EXTINF:-1,beIN Connect 6 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/122371
-#EXTINF:-1,beIN  Sports Haber
-http://sinbox.pro:8080/casper01/H3g3gADDS2/122372
-#EXTINF:-1,beIN  Sports 2
-http://sinbox.pro:8080/casper01/H3g3gADDS2/122373
-#EXTINF:-1,beIN  Sports 3
-http://sinbox.pro:8080/casper01/H3g3gADDS2/122374
-#EXTINF:-1,beIN  Sports 4
-http://sinbox.pro:8080/casper01/H3g3gADDS2/122375
-#EXTINF:-1,beIN Sports 1 SD 480p
-http://sinbox.pro:8080/casper01/H3g3gADDS2/122376
-#EXTINF:-1,TR: S SPORT 1 Hevc
-http://sinbox.pro:8080/casper01/H3g3gADDS2/23306
-#EXTINF:-1,TR: S-SPORT 1+ FHD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/106666
-#EXTINF:-1,TR: S-SPORT 1 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/106667
-#EXTINF:-1,TR: S-SPORT 2 FHD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/106668
-#EXTINF:-1,TR: S-SPORT 2 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/106669
-#EXTINF:-1,SPOR SMART 2 HD+
-http://sinbox.pro:8080/casper01/H3g3gADDS2/78501
-#EXTINF:-1,SPOR SMART 2 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/78502
-#EXTINF:-1,TR: S SPORT HD 
-http://sinbox.pro:8080/casper01/H3g3gADDS2/6661
-#EXTINF:-1,TR: S SPORT 2 FHD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/9751
-#EXTINF:-1,TR: S SPORT 1 HD+ (MAC ZAMANI)
-http://sinbox.pro:8080/casper01/H3g3gADDS2/44626
-#EXTINF:-1,TR: S SPORT 2 HD+ (MAC ZAMANI)
-http://sinbox.pro:8080/casper01/H3g3gADDS2/78515
-#EXTINF:-1,TR: S SPORT 3 HD+ 
-http://sinbox.pro:8080/casper01/H3g3gADDS2/78516
-#EXTINF:-1,TR: S SPORT 5 HD+ (MAC ZAMANI)
-http://sinbox.pro:8080/casper01/H3g3gADDS2/78518
-#EXTINF:-1,TR: S SPORT 1 Full HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/49111
-#EXTINF:-1,TR: S SPORT 2 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/49119
-#EXTINF:-1,S SPORT HD 
-http://sinbox.pro:8080/casper01/H3g3gADDS2/49132
-#EXTINF:-1,S SPORT 2 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/78498
-#EXTINF:-1,SPOR SMART 2 FHD (TR)
-http://sinbox.pro:8080/casper01/H3g3gADDS2/87379
-#EXTINF:-1,S SPORT 1 HD (TR)
-http://sinbox.pro:8080/casper01/H3g3gADDS2/87383
-#EXTINF:-1,S SPORT 1 FHD (TR)
-http://sinbox.pro:8080/casper01/H3g3gADDS2/87384
-#EXTINF:-1,TR: SPORT SMART 2 FHD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/106673
-#EXTINF:-1,TR: TRT SPOR YILDIZ FHD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/106674
-#EXTINF:-1,TR: TRT SPOR YILDIZ HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/106675
-#EXTINF:-1,TR: TRT SPOR FHD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/106676
-#EXTINF:-1,TR: TRT SPOR HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/106677
-#EXTINF:-1,TR: A SPOR FHD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/106678
-#EXTINF:-1,TR: A SPOR HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/106679
-#EXTINF:-1,TR: EUROSPORT 1 FHD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/106680
-#EXTINF:-1,TR: EUROSPORT 2 FHD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/106681
-#EXTINF:-1,TR: FIGHTBOX FHD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/106682
-#EXTINF:-1,TR: NBA TV FHD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/106683
-#EXTINF:-1,TR: NBA TV HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/106684
-#EXTINF:-1,TR: SPORTSTV HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/106685
-#EXTINF:-1,TR: FB TV  HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/106686
-#EXTINF:-1,TR: GS TV HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/106687
-#EXTINF:-1,TR: TJK TV HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/106688
-#EXTINF:-1,TIVIBUSPOR 1 FHD (TR)
-http://sinbox.pro:8080/casper01/H3g3gADDS2/87380
-#EXTINF:-1,TIVIBUSPOR 2  FHD (TR)
-http://sinbox.pro:8080/casper01/H3g3gADDS2/87381
-#EXTINF:-1,TIVIBUSPOR 3 FHD (TR)
-http://sinbox.pro:8080/casper01/H3g3gADDS2/87382
-#EXTINF:-1,TIVIBUSPOR 1 HD+
-http://sinbox.pro:8080/casper01/H3g3gADDS2/78504
-#EXTINF:-1,TIVIBUSPOR 1 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/78505
-#EXTINF:-1,TIVIBUSPOR 2 HD+
-http://sinbox.pro:8080/casper01/H3g3gADDS2/78506
-#EXTINF:-1,TR : TIVIBUSPOR 2 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/78507
-#EXTINF:-1,TIVIBUSPOR 3 HD+
-http://sinbox.pro:8080/casper01/H3g3gADDS2/78508
-#EXTINF:-1,TIVIBUSPOR 3 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/78509
-#EXTINF:-1,TIVIBUSPOR 4 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/78510
-#EXTINF:-1,TR: TIVIBU SPOR 1 FHD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/11334
-#EXTINF:-1,TR: TIVIBU SPOR 2 FHD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/4714
-#EXTINF:-1,TR: Tivibu Spor 1
-http://sinbox.pro:8080/casper01/H3g3gADDS2/1762
-#EXTINF:-1,TR: Tivibu Spor 2 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/1763
-#EXTINF:-1,TR: TIVIBU SPOR 3 FHD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/23309
-#EXTINF:-1,TR: Tivibu Spor 3 Hd
-http://sinbox.pro:8080/casper01/H3g3gADDS2/13196
-#EXTINF:-1,TR: TiViBU SPOR 1 HD (1920X1080)
-http://sinbox.pro:8080/casper01/H3g3gADDS2/23311
-#EXTINF:-1,TR: TIVIBU SPOR 2 FHD (VIP)
-http://sinbox.pro:8080/casper01/H3g3gADDS2/23312
-#EXTINF:-1,TR:TiViBU SPOR 3 HD (1920X1080)
-http://sinbox.pro:8080/casper01/H3g3gADDS2/23310
-#EXTINF:-1,TiViBUSPOR 1 FullHD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/49112
-#EXTINF:-1,TiViBUSPOR 2 FullHD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/49113
-#EXTINF:-1,TiViBUSPOR 3 FullHD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/49114
-#EXTINF:-1,TIVIBU SPOR 1 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/49127
-#EXTINF:-1,TIVIBU SPOR 2 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/49128
-
-#EXTINF:1,TASKRÜT SPORTS--
-
-#EXTINF:238,TRT SPOR
-http://bit.ly/3x6g5un
-#EXTINF:239,TRSPOR
-http://37.221.121.137:6060/hls/trspor/index.m3u8
-#EXTINF:240,A SPOR
-http://bit.ly/3cYHUxP
-#EXTINF:241,EUROSPORT 1
-http://bit.ly/3x0TdMI
-#EXTINF:242,EUROSPORT 2
-http://bit.ly/3AXCPh9
-#EXTINF:244,TRACE SPORT STARS
-http://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:245,FIGHTBOX
-http://nox.nox102.xyz:80/mert924bn/231020.ft/23349
-#EXTINF:246,FAST & FUNBOX
-http://nox.nox102.xyz:80/mert924bn/231020.ft/23372
-#EXTINF:247,FIGHT NETWORK
-http://bit.ly/3a5RZHn
-#EXTINF:248,TASKRÜT SPORTS 1
-http://188.241.218.46:2085/play/beinsporSDx1
-#EXTINF:249,TASKRÜT SPORTS 2
-http://188.241.218.46:2085/play/a011
-#EXTINF:250,TASKRÜT SPORTS 3
-http://nox.nox102.xyz:80/mert924bn/231020.ft/20
-#EXTINF:251,TASKRÜT SPORTS 4
-http://nox.nox102.xyz:80/mert924bn/231020.ft/25
-#EXTINF:252,TASKRÜT SPORTS 5
-http://nox.nox102.xyz:80/mert924bn/231020.ft/131499
-#EXTINF:253,TASKRÜT SPORTS MAX 1
-http://nox.nox102.xyz:80/mert924bn/231020.ft/28
-#EXTINF:254,TASKRÜT SPORTS MAX 2
-http://nox.nox102.xyz:80/mert924bn/231020.ft/30
-#EXTINF:255,TASKRÜT SPORTS HABER
-http://nox.nox102.xyz:80/mert924bn/231020.ft/85258
-#EXTINF:257,SPORSMART
-http://188.241.218.46:2085/play/a006
-#EXTINF:258,SPORSMART 2
-http://188.241.218.46:2085/play/a0dr
-#EXTINF:259,S SPORT
-http://nox.nox102.xyz:80/mert924bn/231020.ft/34
-#EXTINF:260,S SPORT2
-http://nox.nox102.xyz:80/mert924bn/231020.ft/35
-#EXTINF:261,NBA TV
-http://nox.nox102.xyz:80/mert924bn/231020.ft/42
-#EXTINF:262,EDGE SPORT
-https://edgesport-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:263,TRT SPOR YILDIZ
-http://bit.ly/3Qpd3rQ
-#EXTINF:264,SPORTS TV
-http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:265,TİVİBU SPOR
-http://bit.ly/390fly1
-#EXTINF:266,TİVİBU SPOR 2
-http://188.241.218.46:2085/play/a0ds
-#EXTINF:267,TİVİBU SPOR 3
-http://188.241.218.46:2085/play/a0dt
-#EXTINF:268,TİVİBU SPOR 4
-http://188.241.218.46:2085/play/a0du
-#EXTINF:269,TİVİBU SPOR 5
-http://nox.nox102.xyz:80/mert924bn/231020.ft/106398
-#EXTINF:270,FB TV
-http://bit.ly/3Bj2QJd
-#EXTINF:271,GS TV
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
-#EXTINF:272,T.A.Y TV
-https://mn-nl.mncdn.com/blutv_taytv2/live.m3u8
-#EXTINF:273,TJK TV
-http://tjktv-live.tjk.org/tjktv.m3u8
-#EXTINF:274,GINX ESPORTS TV
-http://178.166.14.117:4344/play/a027
-#EXTINF:275,CBC SPORT
-http://nox.nox102.xyz:80/mert924bn/231020.ft/133569
-
 #EXTINF:-1,★✦★ TURK  ULUSAL  SPOR ★✦★
 http://sinbox.pro:8080/casper01/H3g3gADDS2/88133
 
-#EXTINF:-1,A SPOR HD+
-http://sinbox.pro:8080/casper01/H3g3gADDS2/78496
-#EXTINF:-1,A SPOR HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/78497
-#EXTINF:-1,TRT SPOR HD+
-http://sinbox.pro:8080/casper01/H3g3gADDS2/78489
-#EXTINF:-1,TR : TRT SPOR HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/78490
-#EXTINF:-1,TRT SPOR YILDIZ HEVC
-http://sinbox.pro:8080/casper01/H3g3gADDS2/78491
-#EXTINF:-1,TRT SPOR YILDIZ HD+
-http://sinbox.pro:8080/casper01/H3g3gADDS2/78492
-#EXTINF:-1,TRT SPOR YILDIZ HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/78493
-#EXTINF:-1,TRT 3 SPOR (TBMM) HD+
-http://sinbox.pro:8080/casper01/H3g3gADDS2/78494
-#EXTINF:-1,TR : GS TV FHD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/78503
-#EXTINF:-1,FIGHTBOX HD+
-http://sinbox.pro:8080/casper01/H3g3gADDS2/78511
-#EXTINF:-1,NBA TV HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/78512
-#EXTINF:-1,TJK TV HD+
-http://sinbox.pro:8080/casper01/H3g3gADDS2/78513
-#EXTINF:-1,TAY TV HD+
-http://sinbox.pro:8080/casper01/H3g3gADDS2/78514
-#EXTINF:-1,TR: TRT SPOR FHD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/6890
-#EXTINF:-1,TR: TRT SPOR FHD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/1476
-#EXTINF:-1,TR: A SPOR FHD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/1397
-#EXTINF:-1,TR: A SPOR HEVC
-http://sinbox.pro:8080/casper01/H3g3gADDS2/23308
-#EXTINF:-1,A SPOR HEVC
-http://sinbox.pro:8080/casper01/H3g3gADDS2/49098
-#EXTINF:-1,A SPOR FullHD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/49107
-#EXTINF:-1,A SPOR HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/49124
-#EXTINF:-1,SPORTS TV HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/49120
-#EXTINF:-1,TR: FB TV 1080 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/1426
-#EXTINF:-1,TR: FB TV  HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/6662
-#EXTINF:-1,TR: TAY TV HEVC
-http://sinbox.pro:8080/casper01/H3g3gADDS2/7003
-#EXTINF:-1,TR : TJK TV HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/18487
-#EXTINF:-1,TR: TRT SPOR YILDIZ RAW
-http://sinbox.pro:8080/casper01/H3g3gADDS2/23024
-#EXTINF:-1,TR: TRT SPOR Hevc
-http://sinbox.pro:8080/casper01/H3g3gADDS2/23025
-#EXTINF:-1,TR: A SPOR UHD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/23023
-#EXTINF:-1,TRT SPOR 2 HEVC
-http://sinbox.pro:8080/casper01/H3g3gADDS2/49097
-#EXTINF:-1,NBA TV 1280*720
-http://sinbox.pro:8080/casper01/H3g3gADDS2/49108
-#EXTINF:-1,FB TV HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/49121
-#EXTINF:-1,TR : GS TV HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/49122
-#EXTINF:-1,TRT SPOR FullHD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/49125
-#EXTINF:-1,TRT SPOR 2 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/49126
-#EXTINF:-1,NBA TV HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/49131
-#EXTINF:-1,TJK TV HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/49134
-#EXTINF:-1,TR:  EUROSPORT 1 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/7038
-#EXTINF:-1,TR: EUROSPORT 2 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/7039
-#EXTINF:-1,TR: TRT SPOR YILDIZ Hevc
-http://sinbox.pro:8080/casper01/H3g3gADDS2/44631
-#EXTINF:-1,SPOR SMART 2 FullHD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/49110
-#EXTINF:-1,TIVIBU SPOR 3 HD
-http://sinbox.pro:8080/casper01/H3g3gADDS2/49129
+#EXTINF:-1 tvg-id="" tvg-name="|TR| SPOR SMART 1 FHD" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/sporsmart.png" group-title="| TR | D-SMART SPOR",|TR| SPOR SMART 1 FHD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/135070
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SPORTS HABER HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/bein_sp_haber.png" group-title="| TR | DIGITURK SPOR",|TR| BEIN SPORTS HABER HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/150642
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SPORTS 1 SD (360p)" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="| TR | DIGITURK SPOR",|TR| BEIN SPORTS 1 SD (360p)
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/150645
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SPORTS 1 SD (480p) ⚽️" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="| TR | DIGITURK SPOR",|TR| BEIN SPORTS 1 SD (480p) ⚽️
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/150646
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SPORTS 1 HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="| TR | DIGITURK SPOR",|TR| BEIN SPORTS 1 HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/150647
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SPORTS 1 HD+" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="| TR | DIGITURK SPOR",|TR| BEIN SPORTS 1 HD+
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/150648
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SPORTS 1 FHD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="| TR | DIGITURK SPOR",|TR| BEIN SPORTS 1 FHD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/150649
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SPORTS 1 HEVC*" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="| TR | DIGITURK SPOR",|TR| BEIN SPORTS 1 HEVC*
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/150650
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SPORTS 1 FEED VIP" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="| TR | DIGITURK SPOR",|TR| BEIN SPORTS 1 FEED VIP
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/150651
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SPORTS 1 4K" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="| TR | DIGITURK SPOR",|TR| BEIN SPORTS 1 4K
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/150652
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SPORTS 2 SD (MOBİL)" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png" group-title="| TR | DIGITURK SPOR",|TR| BEIN SPORTS 2 SD (MOBİL)
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/150653
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SPORTS 2 HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png" group-title="| TR | DIGITURK SPOR",|TR| BEIN SPORTS 2 HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/150654
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SPORTS 2 FHD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png" group-title="| TR | DIGITURK SPOR",|TR| BEIN SPORTS 2 FHD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/150655
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SPORTS 2 UHD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png" group-title="| TR | DIGITURK SPOR",|TR| BEIN SPORTS 2 UHD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/150656
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SPORTS 3 SD (MOBİL)" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/bein_sports_3.png" group-title="| TR | DIGITURK SPOR",|TR| BEIN SPORTS 3 SD (MOBİL)
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/150657
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SPORTS 3 HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/bein_sports_3.png" group-title="| TR | DIGITURK SPOR",|TR| BEIN SPORTS 3 HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/150658
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SPORTS 3 FHD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/bein_sports_3.png" group-title="| TR | DIGITURK SPOR",|TR| BEIN SPORTS 3 FHD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/150659
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SPORTS 3 UHD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/bein_sports_3.png" group-title="| TR | DIGITURK SPOR",|TR| BEIN SPORTS 3 UHD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/150660
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SPORTS 4 SD (MOBİL)" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/bein_sports_4.png" group-title="| TR | DIGITURK SPOR",|TR| BEIN SPORTS 4 SD (MOBİL)
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/150661
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SPORTS 4 HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/bein_sports_4.png" group-title="| TR | DIGITURK SPOR",|TR| BEIN SPORTS 4 HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/150662
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SPORTS 4 FHD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/bein_sports_4.png" group-title="| TR | DIGITURK SPOR",|TR| BEIN SPORTS 4 FHD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/150663
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SPORTS 4 UHD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/bein_sports_4.png" group-title="| TR | DIGITURK SPOR",|TR| BEIN SPORTS 4 UHD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/150664
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SPORTS MAX 1" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/bein_sports_max_1.png" group-title="| TR | DIGITURK SPOR",|TR| BEIN SPORTS MAX 1
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/150665
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SPORTS MAX 2" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/bein_sports_max_2.png" group-title="| TR | DIGITURK SPOR",|TR| BEIN SPORTS MAX 2
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/150666
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SPORTS 5 HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/bein_sports_5.png" group-title="| TR | DIGITURK SPOR",|TR| BEIN SPORTS 5 HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/150668
+#EXTINF:-1 tvg-id="" tvg-name="|TR| EXXEN SPOR 1 SD (Maç Saati)" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/Exxen.png.png" group-title="| TR | EXXEN - S SPORT",|TR| EXXEN SPOR 1 SD (Maç Saati)
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110482
+#EXTINF:-1 tvg-id="" tvg-name="|TR| EXXEN SPOR 1 HD (Maç Saati)" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/Exxen.png.png" group-title="| TR | EXXEN - S SPORT",|TR| EXXEN SPOR 1 HD (Maç Saati)
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110483
+#EXTINF:-1 tvg-id="" tvg-name="|TR| EXXEN SPOR 2 HD (Maç Saati)" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/Exxen.png.png" group-title="| TR | EXXEN - S SPORT",|TR| EXXEN SPOR 2 HD (Maç Saati)
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110484
+#EXTINF:-1 tvg-id="" tvg-name="|TR| EXXEN SPOR 3 HD (Maç Saati)" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/Exxen.png.png" group-title="| TR | EXXEN - S SPORT",|TR| EXXEN SPOR 3 HD (Maç Saati)
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110485
+#EXTINF:-1 tvg-id="" tvg-name="|TR| EXXEN SPOR 4 HD (Maç Saati)" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/Exxen.png.png" group-title="| TR | EXXEN - S SPORT",|TR| EXXEN SPOR 4 HD (Maç Saati)
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110486
+#EXTINF:-1 tvg-id="" tvg-name="|TR| EXXEN SPOR 5 HD (Maç Saati)" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/Exxen.png.png" group-title="| TR | EXXEN - S SPORT",|TR| EXXEN SPOR 5 HD (Maç Saati)
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110487
+#EXTINF:-1 tvg-id="" tvg-name="|TR| EXXEN SPOR 6 HD (Maç Saati)" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/Exxen.png.png" group-title="| TR | EXXEN - S SPORT",|TR| EXXEN SPOR 6 HD (Maç Saati)
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110488
+#EXTINF:-1 tvg-id="" tvg-name="|TR| EXXEN SPOR 7 HD (Maç Saati)" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/Exxen.png.png" group-title="| TR | EXXEN - S SPORT",|TR| EXXEN SPOR 7 HD (Maç Saati)
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110489
+#EXTINF:-1 tvg-id="" tvg-name="|TR| EXXEN SPOR 8 HD (Maç Saati)" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/Exxen.png.png" group-title="| TR | EXXEN - S SPORT",|TR| EXXEN SPOR 8 HD (Maç Saati)
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110490
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TIVIBU SPOR FHD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/tivibu_spor.png" group-title="| TR | TIVIBU SPOR",|TR| TIVIBU SPOR FHD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110491
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TIVIBU SPOR 2 FHD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/tivibu_spor_2.png" group-title="| TR | TIVIBU SPOR",|TR| TIVIBU SPOR 2 FHD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110492
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TIVIBU SPOR 3 FHD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/tivibu_spor_3.png" group-title="| TR | TIVIBU SPOR",|TR| TIVIBU SPOR 3 FHD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110493
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TiViBU SPOR 4 FHD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/tivibu_spor_4.png" group-title="| TR | TIVIBU SPOR",|TR| TiViBU SPOR 4 FHD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/145467
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TiViBU SPOR 5 FHD" tvg-logo="" group-title="| TR | TIVIBU SPOR",|TR| TiViBU SPOR 5 FHD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/145468
+#EXTINF:-1 tvg-id="" tvg-name="|TR| S SPORT 1 HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/s_sport.png" group-title="| TR | EXXEN - S SPORT",|TR| S SPORT 1 HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110494
+#EXTINF:-1 tvg-id="" tvg-name="|TR| S SPORT 2 HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/s_sport_2.png" group-title="| TR | EXXEN - S SPORT",|TR| S SPORT 2 HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110495
+#EXTINF:-1 tvg-id="SSport.tr" tvg-name="|TR| S SPORT 1 FHD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/s_sport.png" group-title="| TR | EXXEN - S SPORT",|TR| S SPORT 1 FHD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110496
+#EXTINF:-1 tvg-id="SSport2.tr" tvg-name="|TR| S SPORT 2 FHD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/s_sport_2.png" group-title="| TR | EXXEN - S SPORT",|TR| S SPORT 2 FHD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110497
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="|TR| TRT SPOR HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/trt_spor.png" group-title="| TR | SPOR",|TR| TRT SPOR HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110501
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="|TR| NBA TV HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/nba_tv.png" group-title="| TR | SPOR",|TR| NBA TV HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110503
+#EXTINF:-1 tvg-id="" tvg-name="|TR| A Spor HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/a_spor.png" group-title="| TR | SPOR",|TR| A Spor HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110504
+#EXTINF:-1 tvg-id="" tvg-name="|TR| FB TV" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/fb_tv.png" group-title="| TR | SPOR",|TR| FB TV
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110505
+#EXTINF:-1 tvg-id="" tvg-name="|TR| GS TV" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/gs_tv.png" group-title="| TR | SPOR",|TR| GS TV
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110506
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TAY TV HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/tay_tv.png" group-title="| TR | SPOR",|TR| TAY TV HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110508
 
-#EXTINF:-1,EURO TURK KANALLARI
+#EXTINF:-1,★✦★ TURK  ULUSAL EURO KANALLARI★✦★
 
 #EXTINF:993,TGRT EU
 https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
@@ -1334,6 +1235,8 @@ http://nox.nox102.xyz:80/mert924bn/231020.ft/178
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 #EXTINF:999,TV8 INT
 http://nox.nox102.xyz:80/mert924bn/231020.ft/63947
+
+#EXTINF:-1,★✦★ULUSAL KANALLAR★✦★
 
 #EXTINF:22,TRT 1
 http://bit.ly/3KOXdWk
@@ -1545,48 +1448,94 @@ http://adana01.ozelip.com:26258/derincemtv/derincemtv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEi677HirxrOAgcd2LLCn0itdIWF84tqd7XZ2koLBUUqw123H0L2-n7QUo2t-EXPks5jiID1IUEAIblBBL4HbU0WxQs0u8Or5Mh6IAG8_awh_EcyYMJ-Oea9KzwddVn05glaLRmc9WVnBm-5Vx7lsECc_NWFRGJQt4OWpjZKc4jypzTI3mt5WfQDC9FHFQ=w134-h38", MMN TURK TV
 http://mmn.mypsx.net:1935/live/mmnhdradioturky/supersatforum_chunklist.m3u8
 
-#EXTINF:1,ÇOCUK--------------------
-
-#EXTINF:369,GAMETOON
-http://46.19.227.130:4500/play/a02x/index.m3u8
-#EXTINF:437,TOM VE JERRY TV
-http://nox.nox102.xyz:80/mert924bn/231020.ft/54390
-#EXTINF:438,CAROUSEL TV
-http://bit.ly/3D4Jmto
-#EXTINF:439,TRT ÇOCUK
-http://bit.ly/3qha6iB
-#EXTINF:440,ÇOCUKSMART
-http://nox.nox102.xyz:80/mert924bn/231020.ft/204
-#EXTINF:441,BOOMERANG TV
-http://bit.ly/3COU8nw
-#EXTINF:442,BBC CBEEBIES
-http://nox.nox102.xyz:80/mert924bn/231020.ft/28348
-#EXTINF:443,DISNEY JUNIOR
-http://bit.ly/3wYQbHZ
-#EXTINF:444,BABY TV
-http://bit.ly/3RtnOdS
-#EXTINF:445,NICKELODEON
-http://nox.nox102.xyz:80/mert924bn/231020.ft/54199
-#EXTINF:446,NICKTOONS
-#EXTINF:447,NICK JR.
-http://nox.nox102.xyz:80/mert924bn/231020.ft/28346
-#EXTINF:448,minikaCOCUK
-http://bit.ly/3D0kLWw
-#EXTINF:449,minikaGO
-http://bit.ly/3qfzyVF
-#EXTINF:450,DUCK TV
-http://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:451,DA VINCI
-http://bit.ly/3MV7FvM
-#EXTINF:452,ENGLISH CLUB TV
-http://94.156.59.247:8899/udp/239.10.3.167:30000
-#EXTINF:456,TRT EBA TV İLKOKUL
-https://tv-e-okul00.medya.trt.com.tr/master.m3u8
-#EXTINF:457,TRT EBA TV ORTAOKUL
-https://tv-e-okul01.medya.trt.com.tr/master.m3u8
-#EXTINF:458,TRT EBA TV LİSE
-https://tv-e-okul02.medya.trt.com.tr/master.m3u8
-
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| NATIONAL GEO HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/national_geo.png" group-title="| TR | BELGESEL",|TR| NATIONAL GEO HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110432
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| NATIONAL GEO WILD HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/national_geo_wild.png" group-title="| TR | BELGESEL",|TR| NATIONAL GEO WILD HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110433
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| DISCOVERY CHANNEL HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/discovery_channel.png" group-title="| TR | BELGESEL",|TR| DISCOVERY CHANNEL HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110434
+#EXTINF:-1 tvg-id="" tvg-name="|TR| DISCOVERY IDX HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/discovery_idx.png" group-title="| TR | BELGESEL",|TR| DISCOVERY IDX HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110435
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| DISCOVERY SCIENCE HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/discovery_science.png" group-title="| TR | BELGESEL",|TR| DISCOVERY SCIENCE HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110436
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BBC EARTH HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/bbc_earth.png" group-title="| TR | BELGESEL",|TR| BBC EARTH HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110449
+#EXTINF:-1 tvg-id="" tvg-name="|TR| OUTDOOR HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/Outdoor.png" group-title="| TR | BELGESEL",|TR| OUTDOOR HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110450
+#EXTINF:-1 tvg-id="" tvg-name="|TR| HISTORY HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/history_channel.png" group-title="| TR | BELGESEL",|TR| HISTORY HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110452
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TARIM TURK HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/tarim_turk.png" group-title="| TR | BELGESEL",|TR| TARIM TURK HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110453
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| 24 KITCHEN TV HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/24kitchen.png" group-title="| TR | BELGESEL",|TR| 24 KITCHEN TV HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110454
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| DMAX HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/dmax.png" group-title="| TR | BELGESEL",|TR| DMAX HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110455
+#EXTINF:-1 tvg-id="" tvg-name="|TR| YABAN TV HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/yaban_tv.png" group-title="| TR | BELGESEL",|TR| YABAN TV HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110456
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| TLC TV HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/tlc.png" group-title="| TR | BELGESEL",|TR| TLC TV HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110457
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="|TR| ANIMAUX HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/animaux.png" group-title="| TR | BELGESEL",|TR| ANIMAUX HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110461
+#EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-name="|TR| TGRT BELGESEL HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/tgrt_belgesel.png" group-title="| TR | BELGESEL",|TR| TGRT BELGESEL HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110462
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="|TR| TRT BELGESEL HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/trt_belgesel.png" group-title="| TR | BELGESEL",|TR| TRT BELGESEL HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110463
+#EXTINF:-1 tvg-id="PowerTurkTV.tr" tvg-name="|TR| POWER TURK HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/powerTurk.png" group-title="| TR | MUZIK",|TR| POWER TURK HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110510
+#EXTINF:-1 tvg-id="PowerTV.tr" tvg-name="|TR| POWER TV HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/power.png" group-title="| TR | MUZIK",|TR| POWER TV HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110511
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KRAL TV" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/kralTv.png" group-title="| TR | MUZIK",|TR| KRAL TV
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110512
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KRAL POP HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/kralPop.png" group-title="| TR | MUZIK",|TR| KRAL POP HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110513
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TATLISES TV" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/tatl%c4%b1ses.png" group-title="| TR | MUZIK",|TR| TATLISES TV
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110514
+#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-name="|TR| TRT MUZIK HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/trtMuzik.png" group-title="| TR | MUZIK",|TR| TRT MUZIK HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110515
+#EXTINF:-1 tvg-id="DreamTurk.tr" tvg-name="|TR| DREAM TURK" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/dreamTurk.png" group-title="| TR | MUZIK",|TR| DREAM TURK
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110516
+#EXTINF:-1 tvg-id="Number1Turk.tr" tvg-name="|TR| NR1 TURK" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/nr1Turk.png" group-title="| TR | MUZIK",|TR| NR1 TURK
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110517
+#EXTINF:-1 tvg-id="Number1TV.tr" tvg-name="|TR| NR1" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/nr1.png" group-title="| TR | MUZIK",|TR| NR1
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110518
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-name="|TR| TRT ÇOCUK" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkey/trt_cocuk.png" group-title="| TR | COCUK",|TR| TRT ÇOCUK
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110701
+#EXTINF:-1 tvg-id="MinikaCocuk.tr" tvg-name="|TR| MİNİKA ÇOCUK" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkey/minika_cocuk.png" group-title="| TR | COCUK",|TR| MİNİKA ÇOCUK
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110703
+#EXTINF:-1 tvg-id="" tvg-name="|TR| CARTOON NETWORK" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/TURKIYE/CARTOONNETWORK.png" group-title="| TR | COCUK",|TR| CARTOON NETWORK
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110704
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KIDS TÜRK HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkey/kidz_tr.png" group-title="| TR | COCUK",|TR| KIDS TÜRK HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110705
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BOOMERANG TV" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/boomerang.png" group-title="| TR | COCUK",|TR| BOOMERANG TV
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110708
+#EXTINF:-1 tvg-id="NicktoonsTurkiye.us" tvg-name="|TR| NICKELODEON HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkey/nickelodeon_us.png" group-title="| TR | COCUK",|TR| NICKELODEON HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110709
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MİNİKA GO" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkey/minika_go.png" group-title="| TR | COCUK",|TR| MİNİKA GO
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110710
+#EXTINF:-1 tvg-id="" tvg-name="|TR| CAILLOU TV" tvg-logo="" group-title="| TR | COCUK",|TR| CAILLOU TV
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110711
+#EXTINF:-1 tvg-id="" tvg-name="|TR| DISNEY JUNIOR" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkey/disney_junior_us.png" group-title="| TR | COCUK",|TR| DISNEY JUNIOR
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110712
+#EXTINF:-1 tvg-id="" tvg-name="|TR| DISNEY CHANNEL" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkey/disney_channel_global.png" group-title="| TR | COCUK",|TR| DISNEY CHANNEL
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110713
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MAŞA İLE KOCA AYI" tvg-logo="" group-title="| TR | COCUK",|TR| MAŞA İLE KOCA AYI
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110714
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Tom & Jerry Tv" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/tom%26jerry.png" group-title="| TR | COCUK",|TR| Tom & Jerry Tv
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110715
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ŞİRİNLER TV HD" tvg-logo="" group-title="| TR | COCUK",|TR| ŞİRİNLER TV HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110716
+#EXTINF:-1 tvg-id="" tvg-name="|TR| PEPEE TV" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/pepee_tv.png" group-title="| TR | COCUK",|TR| PEPEE TV
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110717
+#EXTINF:-1 tvg-id="" tvg-name="|TR| PİJA MASKELİLER TV" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkey/baby_first_tv.png" group-title="| TR | COCUK",|TR| PİJA MASKELİLER TV
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110718
+#EXTINF:-1 tvg-id="" tvg-name="|TR| PEMBE PANTER TV" tvg-logo="" group-title="| TR | COCUK",|TR| PEMBE PANTER TV
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110719
+#EXTINF:-1 tvg-id="EBATVIlkokul.tr" tvg-name="|TR| TRT EBA TV ILKOKUL HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/eba-tv-ilk.png" group-title="| TR | EGITIM",|TR| TRT EBA TV ILKOKUL HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110725
+#EXTINF:-1 tvg-id="EBATVOrtaokul.tr" tvg-name="|TR| TRT EBA TV ORTAOKUL HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/eba-tv-lise.png" group-title="| TR | EGITIM",|TR| TRT EBA TV ORTAOKUL HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110726
+#EXTINF:-1 tvg-id="EBATVLise.tr" tvg-name="|TR| TRT EBA TV LISE HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/eba-tv-orta.png" group-title="| TR | EGITIM",|TR| TRT EBA TV LISE HD
+http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/110727
 #EXTINF:-1,Anonym TV Çocuk Animasyon
 http://sinbox.pro:8080/casper01/H3g3gADDS2/125754
 #EXTINF:0 type="stream" channelId="40" group-title="4_COCUK_TV_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=40", CARTOON NETWORK
