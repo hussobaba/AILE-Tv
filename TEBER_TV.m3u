@@ -38,12 +38,10 @@ http://31.223.85.34:9999/play/a05q/index.m3u8
 #EXTINF:32,A2
 http://bit.ly/3KRZDDB
 
-#EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/15ac1875-9023-4cd9-a7a8-41b54c8e9cc3.png" group-title= "Özel",STAR TV 
-
+#EXTINF:-1,TR:STAR TV
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:-1,TR: EURO STAR
 http://31.223.85.34:9999/play/a05p/index.m3u8
-
-
 #EXTINF:-1,SHOW HD
 http://31.223.85.34:9999/play/a06a/index.m3u8
 #EXTINF:-1,SHOW TURK HD
