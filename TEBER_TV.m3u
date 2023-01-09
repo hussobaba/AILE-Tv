@@ -148,6 +148,9 @@ http://bit.ly/3a5RJrT
 #EXTINF:0 tvg-rec="3",Meltem TV 
 https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 
+#EXTINF:1,BÜRÜKSEL TV
+https://vdo.digitalbox.xyz:3248/live/brukselturktvlive.m3u8
+
 #EXTINF:1,KENT TÜRK
 https://h92.artiyerelmedya.net/38kenttv/bant1/chunks.m3u8
 
