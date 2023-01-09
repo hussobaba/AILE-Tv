@@ -87,7 +87,10 @@ https://live-server-2.splitstream.io/34e279a9-6153-4e38-b25e-7cfe9f7abee5/tracks
 #EXTINF:1,TELE ON 4K
 https://streaming.netdirekt.com.tr/35757/msyapi/teleontv_canliyayin_uzanmediagroup_4kultrahd__/chunks.m3u8
 
-#EXTINF:1,TEBER CEYHAN TV
+#EXTINF:1,VRT HD 
+https://live-server-2.splitstream.io/f0157c32-46c7-4260-a91b-ffa16eaf596d/tracks-v1a1/mono.m3u8
+
+#EXTINF:1,TEBER Y.GEÇİDİ TV
 http://tv86905.radyotelekomtv.com:22808/ceyhantv/ceyhantv/chunklist.m3u8
 
 #EXTINF:1,KANAL 18
