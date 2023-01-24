@@ -24,18 +24,21 @@ https://waw3.artiyerelmedya.net/tivi6/bant1/chunks.m3u8
 https://cors.deno.dev/https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001207/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001207&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
-
 #EXTINF:-1,KANAL 7 AVRUPA HD
-http://31.223.85.34:9999/play/a07h/index.m3u8
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 
-#EXTINF:-1,TV8 HD
-http://31.223.85.34:9999/play/a07c/index.m3u8
+#EXTINF:-1 tvg-id="TV8.tr"tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="ULUSAL",TV8 ᵁᴴᴰ⁺
+https://cors.deno.dev/https://tv8-live.daioncdn.net:443/tv8/tv8_1080p.m3u8
+#http://195.142.1.211:4002/udp/224.2.2.33:10001
+#https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001271/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001271&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1,TV 8 INT
 http://31.223.85.34:9999/play/a062/index.m3u8
 
-#EXTINF:-1,TV8 5 HD
-http://31.223.85.34:9999/play/a07d/index.m3u8
+#EXTINF:-1 tvg-id="TV85.tr"tvg-name="TV85.tr"  tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="ULUSAL",TV8'5 ᵁᴴᴰ⁺
+https://cors.deno.dev/http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/3683
+#http://31.223.85.34:9999/play/a07d/index.m3u8#http://195.142.1.211:4002/udp/224.2.2.34:10001#
+#https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001260/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001260&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER STAR TV
 https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
@@ -44,7 +47,7 @@ https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks
 https://live-server-2.splitstream.io/f97854bd-6c00-40d3-b9a2-e85f95a4f94f/tracks-v1a1/mono.m3u8
 
 #EXTINF:1,TELE ON 4K
-https://streaming.netdirekt.com.tr/35757/msyapi/teleontv_canliyayin_uzanmediagroup_4kultrahd__/chunks.m3u8
+https://streaming.netdirekt.com.tr/35757/msyapi/teleontv_canliyayin_fogmediagroup_4kultrahd__/chunks.m3u8
 
 #EXTINF:1, YANSIMA SİNEMA TV
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w1968217333.m3u8
@@ -58,8 +61,8 @@ https://vrttv.ozelip.com:3644/multi_web/play_720.m3u8
 #EXTINF:-1,RIZE TÜRK
 https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 
-#EXTINF:878,GOÇ TV
-https://59cba4d34b678.streamlock.net/canlitv/goctv/playlist.m3u8
+#EXTINF:1,TV48
+https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
 
 #EXTINF:-1 tvg-id="TGRTEu.tr" tvg-name="TGRTEU.tr" tvg-logo="https://picon-13398.kxcdn.com/tgrteutr.jpg" tvg-url="" en-boy oranı="16:9" group-title="ULUSAL",TGRT EU  
 https://cors.deno.dev/http://iptvmasterlink.dyndns.org:8080/TgrtEu/playlist.m3u8| User-Agent=Lavf53.32.100
@@ -89,14 +92,18 @@ https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:-1,TR: EURO STAR
 http://31.223.85.34:9999/play/a05p/index.m3u8
 
-#EXTINF:-1,SHOW HD
-http://31.223.85.34:9999/play/a06a/index.m3u8
+#EXTINF:-1 tvg-id="ShowTV.tr"tvg-name="Show HD TR" tvg-logo="https://picon-13398.kxcdn.com/showtvtr.jpg" group-title="ULUSAL",SHOW ᵁᴴᴰ⁺
+https://cors.deno.dev/https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+#https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001199/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001199&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
 #EXTINF:-1,SHOW TÜRK HD
 http://31.223.85.34:9999/play/a09c/index.m3u8
 
-#EXTINF:-1,SHOW MAX
-http://31.223.85.34:9999/play/a06d/index.m3u8
+#EXTINF:-1 tvg-id="Showmax.tr"tvg-url="" tvg-name="Showmax.tr"tvg-logo="https://picon-13398.kxcdn.com/showmaxtr.jpg"aspect-ratio="Aspect"  group-title="ULUSAL" ,SHOWMAX ᴴᴰ⁺
+http://185.234.217.19:8038/play/a019
+#http://31.223.85.34:9999/play/a06d/index.m3u8
+#https://bit.ly/3P7NnBm?/chunklist.m3u8
+#http://free.fullspeed.tv/iptv-query?streaming-ip=http://showmax.com.tr/canliyayin&quality=720p
 
 #EXTINF:-1,KANAL D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
@@ -193,8 +200,6 @@ http://5.9.48.146:19370/afyonturktv/afyonturktv.m3u8
 #EXTINF:1,Anadolu Dost Tv
 https://59cba4d34b678.streamlock.net/canlitv/anadoludosttv/chunklist_w1433375139.m3u8
 
-#EXTINF:1,TV48
-https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
 
 #EXTINF:1,GOP SEN TV
 http://91.134.203.253:30124/gopsentv/gopsentv/chunklist.m3u8
@@ -285,6 +290,12 @@ http://kuzeykibris.tv/m3u8/tv_gunes.m3u8
 
 #EXTINF:-0,Kıbrıs TV
 http://kuzeykibris.tv/m3u8/tv_ktv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/bf6b95a5-b675-49b3-9b79-62a1818d662a.png" group-title="HABER",Hürtürk TVᴴᴰ
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/hurturktv
+#https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/hurturktv
+#https://5be5d840359c6.streamlock.net/hurtv/hurtv/chunklist_w1991560666.m3u8
+
 
 
                                  sinema
