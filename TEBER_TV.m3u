@@ -86,6 +86,9 @@ https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 #EXTINF:1,TV48
 https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
 
+#EXTINF:-1 tvg-id="TGRT_HABER.tr" tvg-name="TGRT_HABER.tr" tvg-logo="https://picon-13398.kxcdn.com/tgrteutr.jpg" tvg-url="" en-boy oranı="16:9" group-title="ULUSAL",TGRT HABER  
+https://is.gd/Ydh7Jd/tgrt_haber.m3u8
+
 #EXTINF:-1 tvg-id="TGRTEu.tr" tvg-name="TGRTEU.tr" tvg-logo="https://picon-13398.kxcdn.com/tgrteutr.jpg" tvg-url="" en-boy oranı="16:9" group-title="ULUSAL",TGRT EU  
 https://cors.deno.dev/http://iptvmasterlink.dyndns.org:8080/TgrtEu/playlist.m3u8| User-Agent=Lavf53.32.100
 
