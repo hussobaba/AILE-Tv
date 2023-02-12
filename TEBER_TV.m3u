@@ -29,6 +29,10 @@ https://cors.deno.dev/http://195.142.1.211:4022/udp/224.2.2.33:10001
 https://cors.deno.dev/https://tv8-live.daioncdn.net:443/tv8/tv8_1080p.m3u8
 #https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001271/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001271&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
+#EXTINF:-1 tvg-id="TV8.tr"tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="ULUSAL",TV8ᴴᴰ⁺
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.tv8.com.tr/canli-yayin&m3u8
+
+
 #EXTINF:-1 tvg-id="TV85.tr"tvg-name="TV85.tr"  tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="ULUSAL",TV8'5 ᵁᴴᴰ⁺
 https://cors.deno.dev/http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/3683
 #http://31.223.85.34:9999/play/a07d/index.m3u8#http://195.142.1.211:4002/udp/224.2.2.34:10001#
@@ -43,20 +47,32 @@ https://is.gd/FtjRhm/1ABDALtv.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER DEM TV
 https://is.gd/daUbT5.m3u8
 
-#EXTINF:1, TELE ON
-https://is.gd/C5SvQJ/teleontv.m3u8
+#EXTINF:-1,VRT HD
+https://vrttv.ozelip.com:3644/multi_web/play_720.m3u8
 
-#EXTINF:1, CINE1 TV
-https://is.gd/8nnZlr/cıne1.m3u8
+#EXTINF:-1,RIZE TÜRK
+https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 
 #EXTINF:1, YANSIMA SİNEMA TV
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w1968217333.m3u8
 
-#EXTINF:-1,VRT HD
-https://vrttv.ozelip.com:3644/multi_web/play_720.m3u8
-
 #EXTINF:1, YANSIMA KLASİK TV
 https://live-server-2.splitstream.io/7b3b9e34-626f-4562-92ea-9adcac520468/tracks-v1a1/mono.m3u8
+
+#EXTINF:1, TELE ON
+https://is.gd/C5SvQJ/teleontv.m3u8
+
+#EXTINF:1, EM TV
+http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
+
+#EXTINF:1,TV48
+https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
+
+#EXTINF:1, CINE1 TV
+https://is.gd/8nnZlr/cıne1.m3u8
+
+#EXTINF:-1,tiviTÜRK 
+https://stream.tiviturk.de/live/tiviturk.m3u8
 
 #EXTINF:351,FİL TV
 https://umt02.videobulut.com/35/3811/npMXAKZTZbC1/npMXAKZTZbC1.m3u8
@@ -66,21 +82,6 @@ https://umt02.videobulut.com/1/3811/wX1Zs5npRVfn/wX1Zs5npRVfn.m3u8
 
 #EXTINF:354,FILM CLUB
 https://umt02.videobulut.com/35/3811/b77Z185M3ujd/b77Z185M3ujd.m3u8
-
-#EXTINF:355,FILM CLUB AKSİYON 
-https://umt02.videobulut.com/35/3811/dp7893us5bAh/dp7893us5bAh.m3u8
-
-#EXTINF:-1,tiviTÜRK 
-https://stream.tiviturk.de/live/tiviturk.m3u8
-
-#EXTINF:1, EM TV
-http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
-
-#EXTINF:-1,RIZE TÜRK
-https://yayin.rizeturk.com:3777/multi_web/play.m3u8
-
-#EXTINF:1,TV48
-https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
 
 #EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8cbc8938-0a17-4cf6-9bc3-cfc2f7a21dd5.png" group-title= "Özel",ŞABAN TV
 https://bit.ly/406KoxS
@@ -103,7 +104,7 @@ http://khyn.rkt2022.xyz:8080/frk3387/frk.3387/124137
 #EXTINF:-1,YESILCAM DINAMIK TV
 http://khyn.rkt2022.xyz:8080/frk3387/frk.3387/124142
 
-#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV TR" tvg-logo="https://www.liderhaberajansi.com/wp-content/uploads/2022/02/lider-haber-ajansi-logo.png" group-title="HABER",LİDER HABER
+#EXTINF:-1,NTV
 https://cors.deno.dev/http://195.142.1.211:4022/udp/224.2.2.2:10001
 #https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 #http://31.223.85.34:9999/play/a05s/index.m3u8
