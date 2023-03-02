@@ -41,6 +41,9 @@ http://77.68.121.3/hls/stream.m3u8
 #EXTINF:-14,RIZE TÜRK
 https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 
+#EXTINF: 23 tvg-logo=/İLKGÜN_TV.png" group-title="EHLİBEYT",İLK GÜN TV
+https://bit.ly/3y5WuL8
+
 #EXTINF:15,CANKIRI 18 TV
 https://yayin1.canlitv.day/canlitv/cankiritv.stream/chunklist_w1932416798.m3u8?hash=fb69107d492474596fdd3d024083d4d7
 
@@ -73,7 +76,7 @@ https://cors.deno.dev/http://195.142.1.211:4022/udp/224.2.2.73:10001
 #https://cors.deno.dev/https://beyaztv.blutv.com/blutv_beyaztv_live/live.m3u8
 #https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001177/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001177&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 
-#EXTINF:-24 tvg-id="FoxTurkey.tr"tvg-name="Fox.tr" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="ULUSAL",FOX ᵁᴴᴰ⁺ http://nx4545.xyz:80/suleymansenol/suleyman.49/89
+#EXTINF:-24 tvg-id="FoxTurkey.tr"tvg-name="Fox.tr" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="ULUSAL",FOX ᵁᴴᴰ⁺ https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 
 #EXTINF:-25 tvg-id="ATVTurkiye.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg" group-title="ULUSAL" ,ATV ᵁᴴᴰ⁺
 https://59c7ea6bec1c6.streamlock.net/filboxlive/atv.stream/playlist.m3u8
@@ -113,6 +116,8 @@ http://185.234.217.19:8038/play/a019
 #EXTINF:-1,Kanal D Hd
 http://nx4545.xyz:80/suleymansenol/suleyman.49/143
 #EXTINF:-32,EURO D https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:-32,tv8 FHD https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+
 #EXTINF:-1 tvg-id="TV8.tr"tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="ULUSAL",TV8 ᵁᴴᴰ⁺
 https://cors.deno.dev/http://195.142.1.211:4022/udp/224.2.2.33:10001
 https://cors.deno.dev/https://tv8-live.daioncdn.net:443/tv8/tv8_1080p.m3u8
@@ -130,7 +135,7 @@ https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 http://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:1"tvg-logo="http://i.ibb.co/KbJFP48/SZC.png" group-title="HABER", SZC
-http://nx4545.xyz:80/suleymansenol/suleyman.49/118378
+https://is.gd/rI6FMa/kanal_SZC.m3u8
 
 #EXTINF:37 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/82cb5fa5-3f14-4740-a091-c2056fe43e1b.png" group-title= "YEREL KANALLAR", Kanal Avrupa
 http://51.15.2.151/hls/kanalavrupa.m3u8
@@ -159,6 +164,9 @@ http://149.62.177.140:8000/play/a00o/index.m3u8
 https://broadcasttr.com:446/oncurtv/bant1/chunklist_w658442161.m3u8
 #EXTINF:44,TV4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+
+#EXTINF: 23 tvg-logo=/ATV.png" group-title="ULUSAL", ATV alanya
+https://broadcasttr.com:446/alanyatv/bant1/chunklist.m3u8
 
 #EXTINF:768,TVA
 http://yerelmedya.tv:1935/tva/bant1/playlist.m3u8
